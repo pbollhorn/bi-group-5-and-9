@@ -4,6 +4,9 @@
 # Enviroment variables
 .env
 
+# Folder with movie data
+movie_data/
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
