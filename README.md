@@ -5,10 +5,10 @@ Group members:
 - Tobias Thormod Birk Nielsen
 
 Contents of this repo:
-- **mp1** - Folder with our solution for Mini Project 3:
+- **mp3** - Folder with our solution for Mini Project 3:
   - **xxxxxx** - xxxxxx
   - **xxxxx** - xxxxx.
-- **mp2** - Folder with our solution for Mini Project 2:
+- **mp4** - Folder with our solution for Mini Project 4:
   - **xxxxxx** - xxxxxxxxxx
   - **xxxxxx** - xxxxxxxxxx
 - **reader** - Our package with reading functionality we use in the projects:
