@@ -10,6 +10,7 @@ Contents of this repo:
   - **read_tmdb_data.ipynb** - Notebook that reads data from TMDB's API into danish_movies.csv and danish_actors.csv.
   - **movie_data** - Folder with danish_movies.csv and danish_actors.csv.
 - **mp4** - Folder with our solution for Mini Project 4:
+  - (No content yet)
 - **exam_project** - Folder for our Exam Project:
   - **xxxxxx** - xxxxxxxxxx
   - **xxxxxx** - xxxxxxxxxx
