@@ -12,7 +12,6 @@ Contents of this repo:
 - **mp4** - Folder for our Mini Project 4:
   - (No content yet)
 - **exam_project** - Folder for our Exam Project:
-  - **xxxxxx** - xxxxxxxxxx
-  - **xxxxxx** - xxxxxxxxxx
+  - **README.md** - Preliminary formulation for our exam project.
 - **reader** - Our package with reading functionality we use in the projects:
   - **generic_reader.py** - Module which reads generic CSV files and Excel files.
