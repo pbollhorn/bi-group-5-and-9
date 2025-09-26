@@ -5,7 +5,7 @@
 .env
 
 # Folder with movie data
-movie_data/
+/movie_data/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
