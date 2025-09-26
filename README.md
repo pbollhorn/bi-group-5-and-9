@@ -6,6 +6,8 @@ Group members:
 
 Contents of this repo:
 - **mp3** - Folder with our solution for Mini Project 3:
+  - **mini_project_3.ipynb** - Notebook that presents our solution to the project.
+  - **read_tmdb_data.ipynb** - Notebook that reads data from TMDB into danish_movies.csv and danish_actors.csv.
   - **xxxxxx** - xxxxxx
   - **xxxxx** - xxxxx.
 - **mp4** - Folder with our solution for Mini Project 4:
