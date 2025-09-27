@@ -15,7 +15,7 @@ For clustering we choose the Mean Shift model, becuase of it's automatically dec
 
 **Question 7:** How accurate are your solutions of prediction? Explain the meaning of the quality measures.
 
-**Answer:** The prediction ended being poor, ~58-59%.
+**Answer:** The classification prediction ended being poor, ~58-59%.
 
 <br>
 
