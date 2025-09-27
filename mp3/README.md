@@ -26,4 +26,4 @@
 
 **Question 9:** Which were the challenges in the project development?
 
-**Answer:** A big challenge was that it took us a long time to retrieve data from TMDB and clean it. After we had done that, we did not have much time left to perform analysis, and therefore our analysis part of the project is not very strong.
+**Answer:** A big challenge was that it took us a long time to retrieve data from TMDB and clean it. After we had done that, we did not have much time left to perform analysis.
