@@ -6,6 +6,12 @@
 
 <br>
 
+**Question 6:** Which machine learning methods did you choose to apply in the application and why?
+
+**Answer:**
+
+<br>
+
 **Question 7:** How accurate are your solutions of prediction? Explain the meaning of the quality measures.
 
 **Answer:**
