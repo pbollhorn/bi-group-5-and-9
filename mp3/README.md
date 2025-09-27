@@ -8,19 +8,20 @@
 
 **Question 6:** Which machine learning methods did you choose to apply in the application and why?
 
-**Answer:**
+**Answer:** For the classification we chose to make of both decision tree and random forest models. The two models performed very similarly, within <1% of each other. 
+For clustering we choose the Mean Shift model, becuase of it's automatically dection of clusters. 
 
 <br>
 
 **Question 7:** How accurate are your solutions of prediction? Explain the meaning of the quality measures.
 
-**Answer:**
+**Answer:** The prediction ended being poor, ~58-59%.
 
 <br>
 
 **Question 8:** What could be done for further improvement of the accuracy of the models?
 
-**Answer:**
+**Answer:** The data of danish actors was somewhat limited, with much data too incomplete to use. As a result we were only able to train the model with age and amount of movies. If additional features had been availible the precition accuracy would likely have improved.
 
 <br>
 
