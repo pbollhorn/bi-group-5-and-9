@@ -1,0 +1,3531 @@
+actor_id,name,gender,birthday,deathday,movie_count,age
+42,Lars von Trier,2,1956-04-30,,9,68
+53,Peter Stormare,2,1953-08-27,,1,71
+169,Hanns Zischler,2,1947-06-18,,1,77
+378,Jonathan Pryce,2,1947-06-01,,1,77
+517,Pierce Brosnan,2,1953-05-16,,1,71
+585,Rutger Hauer,2,1944-01-23,2019-07-19,1,75
+591,Brion James,2,1945-02-20,1999-08-07,1,54
+677,Moritz Bleibtreu,2,1971-08-13,,1,53
+782,Steven Berkoff,2,1937-08-03,,1,87
+935,Connie Nielsen,1,1965-07-03,,2,59
+955,Penélope Cruz,1,1974-04-28,,1,50
+1004,Danny Aiello,2,1933-06-20,2019-12-12,1,86
+1017,Sonja Richter,1,1974-01-04,,21,50
+1018,Nikolaj Lie Kaas,2,1973-05-22,,38,51
+1019,Mads Mikkelsen,2,1965-11-22,,23,59
+1021,Stine Bjerregaard,1,1986-09-05,,1,38
+1023,Niels Olsen,2,1960-03-08,,22,64
+1024,Ulf Pilgaard,2,1940-11-15,2024-10-28,41,83
+1025,Ronnie Lorenzen,2,1993-04-05,,5,31
+1026,Anders Nyborg,2,1963-06-19,,14,61
+1083,Armin Rohde,2,1955-04-04,,1,69
+1118,Rade Šerbedžija,2,1946-07-27,,1,78
+1174,Peter Aalbæk Jensen,2,1956-04-08,,6,68
+1175,Morten Søborg,2,1964-08-18,,2,60
+1177,Ib Tardini,2,1948-09-07,,6,76
+1181,Peter Gantzler,2,1958-09-28,,37,66
+1182,Sara Indrio Jensen,1,1975-01-04,,4,49
+1183,Ann Eleonora Jørgensen,1,1965-10-16,,9,59
+1184,Anders W. Berthelsen,2,1969-09-28,,37,55
+1185,Anette Støvelbæk,1,1967-07-27,,18,57
+1186,Lars Kaalund,2,1964-05-29,,10,60
+1294,Missi Pyle,1,1972-11-16,,1,52
+1356,Jean-Pierre Lorit,2,1960-11-29,,1,64
+1562,Iben Hjejle,1,1971-03-22,,15,53
+1563,Jesper Asholt,2,1960-05-11,,34,64
+1564,Sofie Gråbøl,1,1968-07-30,,32,56
+1566,Anders Hove,2,1956-01-16,,38,68
+1567,Mette Bratlann,1,1978-03-28,,3,46
+1568,Susanne Storm,1,1970-05-14,,7,54
+1569,Ellen Hillingsø,1,1967-03-09,,21,57
+1639,Emily Watson,1,1967-01-14,,1,57
+1640,Stellan Skarsgård,2,1951-06-13,,4,73
+1641,Katrin Cartlidge,1,1961-05-15,2002-09-07,1,41
+1642,Jean-Marc Barr,2,1960-09-27,,3,64
+1643,Adrian Rawlins,2,1958-03-27,,2,66
+1645,Sandra Voe,1,1936-10-06,,1,88
+1646,Udo Kier,2,1944-10-14,,7,80
+1647,Mikkel Gaup,2,1968-01-16,,1,56
+1648,Roef Ragas,2,1965-05-25,2007-08-30,1,42
+1671,Sverre Anker Ousdal,2,1944-07-18,,1,80
+1821,Michael Elphick,2,1946-09-19,2002-09-07,1,55
+1833,Jamie Sives,2,1973-08-02,,1,51
+1834,Shirley Henderson,1,1965-11-24,,1,59
+1836,Julia Davis,1,1966-08-25,,1,58
+1839,Lorraine McIntosh,1,1964-05-13,,1,60
+2047,Danny Glover,2,1946-07-22,,1,78
+2201,Max von Sydow,2,1929-04-10,2020-03-08,3,90
+2244,Jesper Christensen,2,1948-05-16,,43,76
+2268,Warren Clarke,2,1947-04-26,2014-11-12,1,67
+2272,Carl Duering,2,1923-05-29,2018-09-01,1,95
+2310,Bruno Ganz,2,1941-03-22,2019-02-16,1,77
+2729,Irm Hermann,1,1942-10-04,2020-05-26,1,77
+2838,Chloë Sevigny,1,1974-11-18,,1,50
+3150,Tony Curtis,2,1925-06-03,2010-09-29,1,85
+3395,Lasse Spang Olsen,2,1965-04-23,,2,59
+3397,Dejan Čukić,2,1966-11-25,,15,58
+3398,Kim Bodnia,2,1965-04-12,,24,59
+3399,Brian Patterson,2,1947-12-08,,4,77
+3401,Tomas Villum Jensen,2,1971-04-12,,18,53
+3402,Line Kruse,1,1975-08-03,,22,49
+3407,Søren Sætter-Lassen,2,1955-07-11,,19,69
+3409,Lasse Lunderskov,2,1947-11-25,,8,77
+3410,Preben Harris,2,1935-03-30,,18,89
+3411,Slavko Labović,2,1962-11-17,,6,62
+3509,Daniel Ceccaldi,2,1927-07-25,2003-03-27,1,75
+3853,Börje Ahlstedt,2,1939-02-21,,3,85
+3855,Per Oscarsson,2,1927-01-28,2010-12-31,8,83
+3857,Allan Edwall,2,1924-08-25,1997-02-07,1,72
+3880,Karen-Lise Mynster,1,1952-05-07,,40,72
+3881,Rikke Wölck,0,1954-11-26,,7,70
+3882,Bent Mejding,2,1937-01-14,,21,87
+3883,Elsebeth Steentoft,1,1943-10-04,,17,81
+3884,Lene Tiemroth,1,1943-07-16,2016-11-01,12,73
+3885,Claus Gerving,2,1963-09-02,,6,61
+3887,Carlo Barsotti,2,1939-08-25,,1,85
+3888,Alex Nyborg Madsen,2,1960-08-01,,2,64
+3889,Steen Svare,2,1955-12-08,,9,69
+3891,Martin Brygmann,2,1963-01-25,,25,61
+3913,Phil McCall,2,1925-11-26,2002-01-29,1,76
+3921,David Bateson,2,1960-02-09,,7,64
+4002,Roy Dotrice,2,1923-05-26,2017-10-16,1,94
+4109,Michael Curtiz,2,1886-12-24,1962-04-10,1,75
+4453,Thomas Vinterberg,2,1969-05-19,,1,55
+4454,Mogens Rukov,2,1943-08-04,2015-12-18,1,72
+4455,Ulrich Thomsen,2,1963-12-06,,31,61
+4456,Henning Moritzen,2,1928-08-03,2012-08-11,37,84
+4457,Thomas Bo Larsen,2,1963-11-27,,40,61
+4458,Paprika Steen,1,1964-11-03,,28,60
+4459,Birthe Neumann,1,1947-04-30,,52,77
+4460,Trine Dyrholm,1,1972-04-15,,37,52
+4461,Helle Dolleris,1,1965-08-05,,12,59
+4462,Therese Glahn,1,1970-07-14,,11,54
+4463,Klaus Bondam,2,1963-11-19,,13,61
+4464,Bjarne Henriksen,2,1959-01-18,,36,65
+4467,Lars Brygmann,2,1957-02-17,,36,67
+4468,Lene Laub Oksen,1,1969-06-17,,4,55
+4469,Linda Laursen,1,1953-01-22,,6,71
+4637,Leon Lučev,2,1970-01-01,,1,54
+4654,Jeremy Davies,2,1969-10-08,,1,55
+4812,Isaach de Bankolé,2,1957-08-12,,1,67
+5049,John Hurt,2,1940-01-22,2017-01-25,1,77
+5293,Willem Dafoe,2,1955-07-22,,1,69
+5985,Thomas Gammeltoft,2,1963-11-14,,4,61
+6001,Björn Kjellman,2,1963-06-04,,4,61
+6002,Göran Forsmark,2,1955-02-04,2020-08-09,1,65
+6120,Bodil Jørgensen,1,1961-03-03,,39,63
+6121,Jens Albinus,2,1965-01-03,,19,59
+6122,Anne Louise Hassing,1,1967-09-17,,11,57
+6123,Troels Lyby,2,1966-10-15,,22,58
+6124,Louise Mieritz,1,1971-04-30,,15,53
+6125,Henrik Prip,2,1960-03-31,,32,64
+6129,Anne-Grethe Bjarup Riis,1,1965-11-21,,10,59
+6130,Erik Wedersøe,2,1938-07-18,2011-09-27,16,73
+6131,Michael Moritzen,2,1954-11-02,,17,70
+6132,Jan Elle,2,1952-04-01,,3,72
+6133,Claus Strandberg,2,1948-06-05,2004-08-13,16,56
+6134,Jens Jørn Spottag,2,1957-12-13,,38,67
+6135,John Martinus,2,1939-07-27,2016-08-17,16,77
+6136,Lars Bjarke,2,1957-06-15,,4,67
+6140,Hans Henrik Clemensen,2,1948-10-04,,24,76
+6141,Lone Lindorff,1,1937-07-23,,22,87
+6142,Erno Müller,2,1917-04-25,2005-07-26,5,88
+6143,Regitze Estrup,1,1974-08-01,,6,50
+6144,Lotte Munk,1,1969-10-08,,4,55
+6145,Marina Bouras,1,1970-02-21,,10,54
+6146,Vibeke Windeløv,1,1950-12-22,,1,74
+6273,Dani Levy,2,1957-11-17,,1,67
+6283,Michael Nyqvist,2,1960-11-08,2017-06-27,2,56
+6285,Frida Hallgren,1,1974-12-16,,1,50
+6291,Per Morberg,2,1960-06-23,,2,64
+6649,Gunnar Björnstrand,2,1909-11-13,1986-05-26,1,76
+6657,Bibi Andersson,1,1935-11-11,2019-04-14,4,83
+6662,Gunnel Lindblom,1,1931-12-18,2021-01-24,1,89
+6665,Åke Fridell,2,1919-06-23,1985-08-26,1,66
+6752,Željko Ivanek,2,1957-08-15,,1,67
+6754,Mette Berggreen,1,1971-07-22,,2,53
+6756,Katrine Falkenberg,1,1975-05-15,,1,49
+6759,Fridrik Thor Fridriksson,2,1954-05-12,,1,70
+7030,Henry Goodman,2,1950-04-23,,1,74
+7063,Nina Sosanya,1,1969-06-06,,1,55
+7372,Pedro Armendáriz Jr.,2,1940-04-06,2011-12-26,1,71
+7568,Dominique Davray,1,1919-01-27,1998-08-16,1,79
+7569,Harriet Andersson,1,1932-02-14,,1,92
+7570,Lauren Bacall,1,1924-09-16,2014-08-12,1,89
+7803,Christian Berkel,2,1957-10-28,,1,67
+7827,Maren Eggert,1,1974-01-30,,1,50
+8269,Suzanne Cryer,1,1967-01-13,,1,57
+8742,Ingrid Thulin,1,1926-01-27,2004-01-07,1,77
+9741,Jean Marais,2,1913-12-11,1998-11-08,1,84
+10224,Clifton James,2,1920-05-29,2017-04-15,1,96
+10237,Julia Jäger,1,1970-01-28,,1,54
+10279,Adolf Hitler,2,1889-04-20,1945-04-30,1,56
+10341,Britt Ekland,1,1942-10-06,,1,82
+10735,Gwen Taylor,1,1939-02-19,,1,85
+10912,Eva Green,1,1980-07-06,,1,44
+11044,Shanti Roney,2,1970-11-24,,4,54
+11045,Ola Rapace,2,1971-12-03,,2,53
+11110,Kate Ashfield,1,1972-05-28,,1,52
+11917,Margaretha Krook,1,1925-10-15,2001-05-07,1,75
+12134,Sally Kirkland,1,1941-10-31,,1,83
+12153,Torben Meyer,2,1884-11-30,1975-05-22,14,90
+12272,Noël Roquevert,2,1892-12-18,1973-11-06,1,80
+12776,Senta Berger,1,1941-05-13,,1,83
+12795,Nikolaj Coster-Waldau,2,1970-07-27,,19,54
+12977,Malik Yoba,2,1967-09-17,,1,57
+13380,Hans Richter,2,1919-01-12,2008-10-05,1,89
+13465,Jerold Wells,2,1908-08-08,1999-07-19,1,90
+13808,Andrzej Szopa,2,1952-05-26,2022-12-31,1,70
+15082,Jeppe Kaas,2,1966-11-23,,9,58
+15084,Anders Villadsen,2,1964-04-29,,1,60
+15085,Ole Thestrup,2,1948-03-12,2018-02-02,26,69
+15086,Nicolas Bro,2,1972-03-16,,55,52
+15087,Ali Kazim,2,1973-04-26,,7,51
+15088,Gyrd Løfquist,2,1921-06-02,2012-05-01,21,90
+15486,Peter Kurth,2,1957-04-04,,1,67
+15661,Clint Howard,2,1959-04-20,,1,65
+16170,Zach Galligan,2,1964-02-14,,1,60
+16241,András Bálint,2,1943-04-26,,1,81
+16564,David Petersen,2,1947-05-15,2018-11-02,3,71
+16752,David Harewood,2,1965-12-08,,1,59
+16797,Karl Fischer,2,1956-12-08,,1,68
+17006,Ariadna Gil,1,1969-01-23,,1,55
+17161,Ann Firbank,1,1933-01-09,,1,91
+17357,Andrew Grainger,2,1965-05-08,,1,59
+17405,Martin Feifel,2,1964-06-16,,1,60
+17477,Harriet Walter,1,1950-09-24,,1,74
+17525,Barnaby Metschurat,2,1974-09-22,,1,50
+17646,Sean McCann,2,1935-09-24,2019-06-13,1,83
+17727,Hedi Kriegeskotte,1,1949-01-01,,1,75
+18197,Anna Karina,1,1940-09-22,2019-12-14,1,79
+18826,Kim Magnusson,2,1965-09-29,,1,59
+18997,Bryce Dallas Howard,1,1981-03-02,,1,43
+19092,Stéphane Audran,1,1932-11-08,2018-03-27,1,85
+19329,Miles Mander,2,1888-05-14,1946-02-08,1,57
+19351,Søren Skjær,2,1951-06-05,,3,73
+19354,Sarah Juel Werner,1,1992-07-27,,9,32
+19355,Janus Dissing Rathke,2,1991-07-25,,4,33
+19356,Elin Reimer,1,1928-03-07,2022-09-17,24,94
+19357,Steen Stig Lommer,2,1960-08-26,,20,64
+19358,Kurt Ravn,2,1947-12-29,,33,77
+20258,Thure Lindhardt,2,1974-12-24,,20,50
+20286,Toby Kebbell,2,1982-07-09,,1,42
+20761,Sven-Ole Thorsen,2,1944-09-24,,1,80
+21151,Maureen Stapleton,1,1925-06-21,2006-03-12,1,80
+21183,Nicolas Winding Refn,2,1970-09-29,,2,54
+21192,Laura Drasbæk,1,1974-12-22,,18,50
+21193,Peter Andersson,2,1953-02-12,,2,71
+21195,Lisbeth Rasmussen,1,1961-12-19,,1,63
+21625,Molly Ringwald,1,1968-02-18,,1,56
+22331,Johan Rabaeus,2,1947-07-31,,1,77
+22687,Johanna Wokalek,1,1975-03-03,,2,49
+22931,Zygmunt Malanowicz,2,1938-02-04,2021-04-05,1,83
+24289,Mohammad Bakri,2,1953-11-27,,1,71
+24381,Jean Yanne,2,1933-07-18,2003-05-23,1,69
+24605,Pete Lee-Wilson,2,1956-03-28,,1,68
+24814,Daniel Gélin,2,1921-05-19,2002-11-29,2,81
+24930,Fanny Bastien,1,1961-12-13,,1,63
+25126,Jeanne Herviale,1,1908-12-24,1989-10-29,1,80
+25661,Harvey Friedman,2,1959-01-01,,1,65
+26245,Dieter Eppler,2,1927-02-11,2008-04-12,3,81
+26364,Pierre Moncorbier,2,1907-07-10,1978-03-21,1,70
+26367,Bernard Noël,2,1926-10-05,1970-09-02,1,43
+26400,Günther Jerschke,2,1921-10-08,1997-05-06,1,75
+26819,Manfred Reddemann,2,1939-11-09,,2,85
+26877,Jackie Sardou,1,1919-04-07,1998-04-02,1,78
+27175,Hassani Shapi,2,1973-07-15,2024-07-06,1,50
+28189,Mario David,2,1927-08-09,1996-04-29,1,68
+28846,Alexander Skarsgård,2,1976-08-25,,1,48
+28991,Olaf Fønss,2,1882-10-17,1949-03-11,13,66
+29020,Eric Christian Olsen,2,1977-05-31,,1,47
+29029,Holger-Madsen,2,1878-04-11,1943-11-30,9,65
+29036,Nils Asther,2,1897-01-16,1981-10-13,1,84
+29037,Philip Bech,2,1869-03-12,1928-03-08,26,58
+29038,Alf Blütecher,2,1880-02-07,1959-03-05,10,79
+29039,Frederik Jacobsen,2,1876-09-12,1922-09-04,28,45
+29040,Lilly Jacobson,1,1893-06-08,1979-11-11,4,86
+29042,Nicolai Neiiendam,2,1865-03-21,1945-03-15,4,79
+29043,Alfred Osmund,2,1882-06-01,1960-02-14,3,77
+29044,Zanny Petersen,1,1892-05-19,1976-11-07,7,84
+29045,Gunnar Tolnæs,2,1879-12-07,1940-11-09,13,60
+29564,Margarete Schlegel,1,1899-12-31,1987-07-15,2,87
+29700,David Winters,2,1939-04-05,2019-04-23,1,80
+29880,Maxim Roy,1,1972-03-07,,1,52
+30044,Bo Svenson,2,1941-02-13,,1,83
+30405,Sergey Gazarov,2,1958-01-13,,1,66
+30488,Miguel Sandoval,2,1951-11-16,,1,73
+31200,Mathias Henrikson,2,1940-05-16,2005-07-13,1,65
+31960,Zlatko Burić,2,1953-05-13,,20,71
+32046,Jean Cherlian,2,1932-02-01,2013-08-21,1,81
+32361,Kim Rømer,2,1959-02-25,,3,65
+32585,Walter Giller,2,1927-08-23,2011-12-15,1,84
+32682,Stine Fischer Christensen,1,1985-02-03,,10,39
+32683,Sidse Babett Knudsen,1,1968-11-22,,24,56
+32684,Rolf Lassgård,2,1955-03-29,,2,69
+32685,Christian Tafdrup,2,1978-04-08,,12,46
+32723,Rasmus Kjær Flensborg,2,1985-06-05,,2,39
+32728,Ida Dwinger,1,1957-03-06,,14,67
+32729,Mona Malm,1,1935-01-24,2021-01-12,1,85
+33073,Elga Brink,1,1905-04-02,1985-10-28,1,80
+33190,Pernilla August,1,1958-02-13,,2,66
+33267,Edward Chapman,2,1901-10-13,1977-08-09,1,75
+33720,Ann Smyrner,1,1934-11-03,2016-08-29,1,81
+34057,Julián Villagrán,2,1973-05-24,,1,51
+34769,Åke Grönberg,2,1914-03-26,1969-09-15,1,55
+34773,Håkan Westergren,2,1899-04-29,1981-10-15,1,82
+34862,Viggo Bentzon,2,1938-10-07,,2,86
+34865,Solbjørg Højfeldt,1,1947-06-10,,23,77
+34866,Paw Henriksen,2,1975-04-03,,27,49
+34867,Laura Bro,1,1973-04-27,,17,51
+35247,Luce Fabiole,1,1892-05-30,1982-05-05,1,89
+35447,Katja Danowski,1,1974-04-20,,2,50
+35862,Douglas Henshall,2,1965-11-19,,1,59
+35919,Luis Rego,2,1943-05-30,,1,81
+36314,Nadine Alari,1,1927-02-23,2016-11-24,2,89
+36883,Felix Kramer,2,1973-03-23,,1,51
+36918,Serge Sauvion,2,1929-02-18,2010-02-13,1,80
+37093,Langley Kirkwood,2,1973-04-14,,1,51
+37250,Matthias Hues,2,1959-02-14,,1,65
+37758,Éric Cantona,2,1966-05-24,,1,58
+38127,Erland Josephson,2,1923-06-16,2012-02-25,2,88
+38500,Bernard-Pierre Donnadieu,2,1949-07-02,2010-12-27,1,61
+38605,Christian Petersson,2,1975-11-10,,1,49
+39334,Yves Barsacq,2,1931-06-17,2015-10-04,1,84
+39420,Fritz Straßner,2,1919-11-23,1993-02-07,1,73
+39525,Robert Burnier,2,1897-05-19,1974-04-24,1,76
+39659,Burn Gorman,2,1974-09-01,,1,50
+39862,Wanda Perdelwitz,1,1984-02-13,,1,40
+39950,Tony Britton,2,1924-06-09,2019-12-22,1,95
+40224,Thomas Morris,2,1966-05-21,,1,58
+40298,Aksel Erhardtsen,2,1927-01-15,2010-02-17,10,83
+40299,Lily Weiding,1,1924-10-22,2021-06-15,16,96
+40300,Camilla Bendix,1,1971-02-20,,18,53
+40418,René Dif,2,1967-10-17,,5,57
+40419,Robert Hansen,2,1979-10-05,,23,45
+40420,Jens Okking,2,1939-12-18,2018-01-21,37,78
+40421,Rikke Louise Andersson,1,1972-03-13,,20,52
+40422,Kenneth Carmohn,2,1965-01-24,,7,59
+40423,Thomas Chaanhing,2,1976-01-02,,9,48
+40424,Helle Fagralid,1,1976-05-11,,15,48
+40426,Kjeld Nørgaard,2,1938-10-08,,32,86
+41234,Judy Geeson,1,1948-09-10,,1,76
+41276,Karl Alexander Seidel,2,1995-01-01,,1,29
+41640,Tovah Feldshuh,1,1952-12-27,,1,72
+41732,Nina van Pallandt,1,1932-07-15,,2,92
+41776,Veit Stübner,2,1954-01-01,,1,70
+41903,Jakob Cedergren,2,1973-01-10,,19,51
+41905,Morten Suurballe,2,1955-03-08,,21,69
+41906,Nicolaj Kopernikus,2,1967-08-09,,33,57
+41907,Kristian Halken,2,1955-04-03,,41,69
+41909,Manuel Alberto Claro,2,1970-04-03,,1,54
+42092,Benedikt Erlingsson,2,1969-05-31,,1,55
+42094,Mia Lyhne,1,1971-07-06,,28,53
+42095,Casper Christensen,2,1968-08-22,,10,56
+42124,Oleg Vidov,2,1943-06-11,2017-05-15,1,73
+42393,Bille Brown,2,1952-01-11,2013-01-13,1,61
+43231,Paul Blackthorne,2,1969-03-05,,1,55
+44362,Werner Wölbern,2,1961-11-09,,1,63
+44533,Ludwig Trepte,2,1988-05-17,,1,36
+44670,Ronald Kukulies,2,1971-12-08,,1,53
+44865,Tom Baker,2,1934-01-20,,1,90
+45754,Fedja van Huêt,2,1973-06-21,,1,51
+46128,Amanda Ooms,1,1964-09-04,,1,60
+46134,Linn Stokke,1,1961-09-18,,1,63
+46243,Rafał Fudalej,2,1985-07-17,,1,39
+46595,Signe Egholm Olsen,1,1980-05-09,,12,44
+46752,Samuel Weiss,2,1967-02-07,,1,57
+46866,Ewa Fröling,1,1952-08-09,,3,72
+46867,Jan Malmsjö,2,1932-05-29,,2,92
+47066,Anders Nylander,2,1965-02-01,,1,59
+47068,Jonas Karlsson,2,1971-03-11,,1,53
+47070,Ingvar Hirdwall,2,1934-12-05,2023-04-06,1,88
+47147,Sven Gyldmark,2,1904-04-21,1981-10-05,1,77
+47150,Dirch Passer,2,1926-05-18,1980-09-03,79,54
+47151,Ove Sprogøe,2,1919-12-21,2004-09-14,115,84
+47152,Ebbe Langberg,2,1933-08-01,1989-02-03,29,55
+47153,Ghita Nørby,1,1935-01-12,,75,89
+47154,Annie Birgit Garde,1,1933-10-03,,20,91
+47155,Birgitte Federspiel,1,1925-09-06,2005-02-02,35,79
+47156,Susse Wold,1,1938-11-17,,18,86
+47175,Per Christian Ellefsen,2,1954-02-14,,1,70
+47296,Jeffrey Dean Morgan,2,1966-04-22,,1,58
+47320,Birger Larsen,2,1961-12-22,2016-10-26,1,54
+47326,Frans Bak,2,1958-02-07,,1,66
+47458,Zakes Mokae,2,1934-08-05,2009-09-11,1,75
+47647,Christian Rubeck,2,1980-12-14,,1,44
+47657,Henry Edwards,2,1882-09-18,1952-11-02,1,70
+47733,Zoë Tapper,1,1981-10-25,,1,43
+47873,John Price,2,1913-09-15,1996-12-10,10,83
+47879,John Savage,2,1949-08-25,,1,75
+48903,Stefan Jürgens,2,1963-02-26,,1,61
+49114,Zdeněk Maryška,2,1947-04-17,,1,77
+49487,Richard Sammel,2,1960-10-13,,1,64
+50018,Ulas Kilic,2,1975-09-30,,1,49
+50091,Michael Obel,2,1960-06-05,,2,64
+50092,Camilla Skousen,1,1942-11-27,,1,82
+50093,Lotte Andersen,1,1963-03-18,,19,61
+50275,Vivi Bach,1,1939-09-03,2013-04-22,6,73
+50314,Boris Aljinovic,2,1967-06-23,,1,57
+50935,Björn Andrésen,2,1955-01-26,,1,69
+51201,Walter Wilz,2,1937-10-20,1983-01-01,1,45
+51204,Werner Hedman,2,1926-04-06,2005-07-26,1,79
+51205,Holger Munk,0,1924-03-21,2005-09-02,10,81
+51208,Olaf Ussing,2,1907-04-28,1990-01-04,28,82
+51718,Naura Hayden,1,1930-09-29,2013-08-10,2,82
+51943,Óscar Casas,2,1998-09-21,,1,26
+52398,Mikael Persbrandt,2,1963-09-25,,3,61
+52639,Tom Wlaschiha,2,1973-06-20,,1,51
+52685,Makram J. Khoury,2,1945-05-30,,1,79
+52848,Isla Fisher,1,1976-02-03,,1,48
+53259,Michael Raymond-James,2,1977-12-24,,1,47
+53928,Shondrella Avery,1,1971-04-26,,1,53
+54382,Paul Mercey,2,1923-01-10,1988-01-07,1,64
+54808,Mona Hammond,1,1931-01-01,2022-07-04,1,91
+55002,Björn Granath,2,1946-04-05,2017-02-05,3,70
+55143,Asta Nielsen,1,1881-09-11,1972-05-25,3,90
+55567,Alexandra Paul,1,1963-07-29,,1,61
+55578,Steve Nicolson,2,1966-03-01,,1,58
+55584,Ingvar E. Sigurðsson,2,1963-11-22,,1,61
+55636,Donald Sutherland,2,1935-07-17,2024-06-20,1,88
+55885,Sofia Helin,1,1972-04-25,,2,52
+55886,Stefan Sauk,2,1955-06-06,,1,69
+55887,Stina Ekblad,1,1954-02-26,,11,70
+56366,Ross McCall,2,1976-01-13,,1,48
+56392,Tomas von Brömssen,2,1943-05-08,,1,81
+56875,Esmond Knight,2,1906-05-04,1987-02-23,1,80
+56876,Me Me Lai,1,1952-01-01,,1,72
+56877,Per Holst,2,1939-03-28,2025-08-23,1,86
+56878,Niels Vørsel,2,1953-12-09,,1,71
+56882,Ernst-Hugo Järegård,2,1928-12-12,1998-09-06,4,69
+57012,Fares Fares,2,1973-04-29,,6,51
+57013,Torkel Petersson,2,1969-08-19,,1,55
+57421,Thomas Wilson Brown,2,1972-12-27,,1,52
+58576,Mishal Husain,1,1973-02-11,,1,51
+58663,Daniel Benzali,2,1946-01-20,,1,78
+59076,Perry Benson,2,1961-04-09,,1,63
+61962,D. B. Sweeney,2,1961-11-14,,1,63
+63766,Kim Sørensen,2,1976-11-12,,1,48
+63769,Ane Dahl Torp,1,1975-08-01,,1,49
+63881,Krešimir Mikić,2,1974-04-17,,1,50
+64122,Søren Pilmark,2,1955-10-16,,31,69
+64123,Frits Helmuth,2,1931-07-03,2004-12-12,27,73
+64124,Niels Anders Thorn,2,1956-06-16,,20,68
+64125,Henning Jensen,2,1943-01-05,,34,81
+64790,Jacob Haugaard,2,1952-05-12,,8,72
+64971,Samuel Fröler,2,1957-03-24,,2,67
+64972,Kirsti Eline Torhaug,1,1969-11-20,,1,55
+64973,Kristina Törnqvist,1,1963-07-19,,1,61
+65529,Irene Bedard,1,1967-07-22,,1,57
+65842,Sotiris Moustakas,2,1940-09-17,2007-06-04,1,66
+66027,Sergej Trifunović,2,1972-09-02,,1,52
+66147,Arly Jover,1,1971-02-02,,1,53
+66843,Anders Matthesen,2,1975-07-06,,18,49
+66847,Thomas Heinesen,2,1961-03-12,,1,63
+67003,Sven Wollter,2,1934-01-11,2020-11-10,2,86
+67004,Anneke von der Lippe,1,1964-07-22,,1,60
+67009,Markus Gertken,2,1966-01-01,,1,58
+67059,Grant Swanby,2,1967-07-25,,1,57
+67737,Tuva Novotny,1,1979-12-21,,12,45
+67988,Bjørn Floberg,2,1947-09-12,,4,77
+67989,Reine Brynolfsson,2,1953-01-15,,2,71
+68418,Grete Nordrå,1,1924-11-22,2012-03-13,1,87
+68452,Pelle Hvenegaard,2,1975-08-29,,2,49
+68454,Erik Paaske,2,1933-08-21,1992-06-13,16,58
+68554,Jannik Johansen,2,1965-03-03,,1,59
+69012,Leif Sylvester,2,1940-04-18,,16,84
+69021,Marinela Dekic,1,1979-02-18,,2,45
+69033,Vivian Wu,1,1966-02-05,,1,58
+69098,Catherine Oxenberg,1,1961-09-22,,1,63
+69173,Bo Christensen,2,1937-08-24,2020-04-11,2,82
+69174,Erik Balling,2,1924-11-29,2005-11-19,1,80
+69179,Bent Fabricius-Bjerre,2,1924-12-07,2020-07-28,2,95
+69180,Morten Grunwald,2,1934-12-09,2018-11-14,44,83
+69181,Poul Bundgaard,2,1922-10-27,1998-06-03,52,75
+69182,Peter Steen,2,1936-01-22,2013-02-07,26,77
+69186,Kirsten Walther,1,1933-08-31,1987-02-19,30,53
+69187,Henning Bahs,2,1928-03-12,2002-03-29,2,74
+69462,Christiane Bjørg Nielsen,1,1966-02-27,,5,58
+70069,Hans Alfredson,2,1931-06-28,2017-09-10,1,86
+70276,Eva Dahlbeck,1,1920-03-08,2008-02-08,3,87
+70277,Margit Carlqvist,1,1932-02-11,,2,92
+70350,Jørgen Kiil,2,1933-02-13,2003-05-29,25,70
+70351,Buster Larsen,2,1920-09-01,1993-12-18,35,73
+70352,Agneta Ekmanner,1,1938-12-04,,3,86
+70353,Masja Dessau,1,1955-11-02,,5,69
+70354,John Hahn-Petersen,2,1930-11-04,2006-01-04,14,75
+70355,Peter Ronild,2,1928-09-25,2001-06-01,11,72
+70412,Peter Bonke,2,1942-12-24,,5,82
+70635,Bodil Kjer,1,1917-09-02,2003-02-01,17,85
+70636,Gabriel Axel,2,1918-04-18,2014-02-09,12,95
+70642,Finn Henriksen,2,1933-01-29,2008-06-12,1,75
+71033,Mark Humphrey,2,1960-12-27,,1,64
+71154,Peter Mygind,2,1963-08-28,,15,61
+71155,Stine Stengade,1,1972-06-01,,14,52
+71156,Flemming Enevold,2,1952-02-12,,8,72
+71157,Mille Lehfeldt,1,1979-12-08,,11,45
+71158,Lars Mikkelsen,2,1964-05-06,,31,60
+71186,Bjørn Sundquist,2,1948-06-16,,1,76
+71188,Morten Rose,2,1975-01-07,,4,49
+71355,Jan Johansson,0,1931-09-16,1968-11-09,1,37
+71356,Fredrik Ohlsson,2,1931-06-12,2023-11-18,2,92
+71491,Patrick Descamps,2,1956-07-13,,1,68
+71514,Christoph Bach,2,1975-01-01,,1,49
+71783,Preben Kaas,2,1930-03-30,1981-03-27,39,50
+72028,Arye Gross,2,1960-03-17,,1,64
+72222,Jonas Wandschneider,2,1991-07-09,,3,33
+72343,Jørgen Leth,2,1937-06-14,,2,87
+72362,Claus Nissen,2,1938-07-28,2008-04-29,33,69
+72371,Bent Christensen,2,1929-05-28,1992-01-06,8,62
+72372,Charlotte Sieling,1,1960-07-13,,12,64
+72781,Salvatore Striano,2,1972-09-09,,1,52
+72789,Ciro Petrone,2,1987-10-11,,1,37
+72910,Bjørn Watt-Boolsen,2,1923-06-20,1998-12-28,30,75
+72911,Henrik Koefoed,2,1955-11-25,,13,69
+72912,Axel Strøbye,2,1928-02-22,2005-07-12,66,77
+72913,Morten Arnfred,2,1945-08-02,,1,79
+73071,Barbro Enberg,1,1943-01-01,,1,81
+73086,Magnus Roosmann,2,1963-06-11,,1,61
+73093,Nis Bank-Mikkelsen,2,1945-04-10,,11,79
+73213,Dick Kaysø,2,1947-02-13,,33,77
+73214,Preben Kristensen,2,1953-03-14,,14,71
+73215,Marie Ingerslev,1,1974-10-11,,2,50
+73550,Henrik Mestad,2,1964-06-22,,1,60
+73638,Helge Jordal,2,1946-02-17,,1,78
+73925,Ole Ernst,2,1940-05-16,2013-09-01,48,73
+73929,Claus Ryskjær,2,1945-06-26,2016-12-12,15,71
+73930,Paul Hagen,2,1920-03-19,2003-05-19,71,83
+74620,Lisbet Dahl,1,1946-04-09,,22,78
+74709,Peter Haber,2,1952-12-12,,1,72
+74714,Peter Hüttner,2,1945-12-10,,1,79
+74719,Ole Christoffer Ertvaag,2,1987-01-01,,1,37
+74753,Sara Langebæk Gaarmann,1,1992-01-08,,2,32
+74754,Lucas Munk Billing,2,1994-02-19,,3,30
+74756,Beate Bille,1,1976-11-17,,8,48
+74757,Frank Thiel,2,1970-07-24,,15,54
+74921,Carsten Bang,2,1949-03-10,,2,75
+76383,Dan Ekborg,2,1955-11-23,,1,69
+76390,Rebecka Hemse,1,1975-08-04,,2,49
+76392,Philip Zandén,2,1954-07-23,,8,70
+76548,Agnes Kittelsen,1,1980-05-20,,1,44
+76555,Jakob Oftebro,2,1986-01-12,,11,38
+76556,Pål Sverre Hagen,2,1980-11-06,,2,44
+76612,Trond Høvik,2,1966-05-05,,1,58
+76618,Rune Temte,2,1965-09-29,,1,59
+76889,Lisa Nilsson,1,1970-08-13,,2,54
+77525,Charlotte Munck,1,1969-12-02,,12,55
+77529,Peter Frödin,2,1964-01-07,,13,60
+77530,Hella Joof,1,1962-11-01,,11,62
+77534,Lotte Arnsbjerg,1,1965-03-11,,3,59
+77535,Frederikke Cecilie Bertelsen,1,1988-01-25,,2,36
+77539,Claus Riis Østergaard,2,1969-11-11,,14,55
+77540,Farshad Kholghi,2,1971-05-17,,7,53
+77541,Thomas L. Corneliussen,2,1972-03-16,,4,52
+77543,Charlotte Fich,1,1961-09-26,,13,63
+77976,Anders Baasmo Christiansen,2,1976-01-29,,1,48
+78021,Lloyd Kaufman,2,1945-12-30,,2,79
+79039,Milan Duchek,2,1956-10-03,2023-11-02,1,67
+79196,Lena Endre,1,1955-07-08,,1,69
+79238,Dave Mallow,2,1948-10-19,2025-03-11,1,76
+79260,Claes Malmberg,2,1961-04-08,,2,63
+79270,Annika Hallin,1,1968-02-16,,1,56
+79331,Ellen Dorrit Petersen,1,1975-12-04,,1,49
+80325,Petr Meissel,2,1962-12-06,,1,62
+80921,Egill Ólafsson,2,1953-02-09,,1,71
+81214,Pierre Lindstedt,2,1943-08-15,,1,81
+81231,Monica Zetterlund,1,1937-09-20,2005-05-12,1,67
+81406,Paul-Ottar Haga,2,1965-07-30,,1,59
+82106,Jonatan Spang,2,1978-02-04,,20,46
+82190,Robert Hobbs,2,1972-01-01,,1,52
+82280,Louis Armstrong,2,1901-08-04,1971-07-06,1,69
+82352,Lene Maria Christensen,1,1972-04-10,,22,52
+82533,Søren Rislund,2,1950-05-17,,1,74
+82534,Iben Dorner,1,1978-10-19,,10,46
+82536,Thomas Hartmann,2,1969-11-19,,11,55
+82537,Søren Malling,2,1964-02-03,,41,60
+82538,Jakob Fauerby,2,1977-06-30,,4,47
+82543,Allan Svensson,2,1951-02-16,2024-11-17,2,73
+82564,Liv Corfixen,1,1973-01-13,,5,51
+82752,Pernille Vallentin,1,1979-02-14,,3,45
+82753,Lene Nystrøm,1,1973-10-02,,2,51
+82854,Patrick O'Kane,2,1965-12-01,,1,59
+83011,Laura Christensen,1,1984-01-26,,18,40
+83052,Linda Thorson,1,1947-06-18,,1,77
+83257,Mick Øgendahl,2,1973-04-07,,22,51
+83675,Doña Croll,1,1953-08-29,,1,71
+83761,Erik Clausen,2,1942-03-14,2024-10-30,18,82
+83849,Søs Egelind,1,1958-11-13,,12,66
+84241,Vicki Berlin,1,1977-11-16,,2,47
+84242,Karl Bille,2,1971-04-01,,16,53
+84244,Sofie Lassen-Kahlke,1,1979-05-18,,20,45
+84246,Søren Frellesen,2,1970-04-21,,2,54
+85001,Ib Schønberg,2,1902-10-23,1955-09-24,63,52
+85366,Maxine Miller,1,1928-01-01,,1,96
+85807,Krister Henriksson,2,1946-11-12,,2,78
+85905,Mirosław Zbrojewicz,2,1957-02-25,,1,67
+85906,Neel Rønholt,1,1984-09-17,,14,40
+85911,Mira Wanting,1,1978-04-19,2012-12-22,15,34
+85912,Jon Lange,2,1980-03-28,,11,44
+85913,Rikke Lylloff,1,1978-09-28,,8,46
+85935,Richard Wattis,2,1912-02-25,1975-02-01,1,62
+86320,Sean Cameron Michael,2,1969-12-24,,1,55
+86474,Kelly Wolf,1,1962-01-09,,1,62
+87083,Vladimir Grammatikov,2,1942-06-01,,1,82
+87663,Sverrir Gudnason,2,1978-09-12,,1,46
+87674,Karina Smulders,1,1980-06-04,,1,44
+87722,Noomi Rapace,1,1979-12-28,,1,45
+87724,Marika Lagercrantz,1,1954-07-12,,3,70
+87909,John Buijsman,2,1953-03-21,,1,71
+88143,Jesper Gredeli Jensen,2,1971-04-22,,2,53
+88144,Kirsten Olesen,1,1949-05-10,,26,75
+88145,Peter Schrøder,2,1946-06-13,,29,78
+88146,Jannie Faurschou,1,1950-06-10,,20,74
+88355,Michael Schøt,2,1980-03-06,,7,44
+88356,Tobias Dybvad,2,1981-03-03,,6,43
+88357,Brian Mørk,2,1973-12-11,,7,51
+88358,Anders Fjelsted,2,1976-05-13,,6,48
+88359,Christian Fuhlendorff,2,1982-11-15,,12,42
+88492,Ole Lemmeke,2,1959-01-10,,12,65
+88537,Erik Holmey,2,1942-02-25,,14,82
+88541,Hector Vega Mauricio,2,1965-09-30,,2,59
+88542,Claire Ross-Brown,1,1972-11-11,,5,52
+88543,Martin Buch,2,1968-11-04,,16,56
+88544,Tommy Kenter,2,1950-04-05,,29,74
+89161,Rune Klan,2,1976-10-15,,9,48
+89625,Hichem Yacoubi,2,1964-04-04,,1,60
+89626,Reda Kateb,2,1977-01-15,,1,47
+89674,Benjamin Christensen,2,1879-09-28,1959-04-02,2,79
+89676,Clara Pontoppidan,1,1883-04-24,1975-01-22,22,91
+89677,Elith Pio,2,1887-07-04,1983-02-10,19,95
+89678,Oscar Stribolt,2,1872-02-12,1927-05-21,9,55
+89684,Osa Massen,1,1914-01-14,2006-01-02,1,91
+89689,Kim Fupz Aakeson,2,1958-09-12,,1,66
+89959,Linda Petersen,1,1984-07-15,,6,40
+89962,Emma Sehested Høeg,1,1994-01-21,,11,30
+89973,Frank Hvam,2,1970-09-12,,15,54
+90060,Pilou Asbæk,2,1982-03-02,,16,42
+90061,Rosalinde Mynster,1,1990-11-28,,9,34
+90514,Birgitte Hjort Sørensen,1,1982-01-16,,10,42
+90515,Blerim Destani,2,1981-04-12,,1,43
+90605,Anastasios Soulis,2,1987-01-08,,1,37
+90663,Karin Bertling,1,1937-05-25,,1,87
+91348,Thijs Römer,2,1978-07-26,,1,46
+91461,Michelle Hurd,1,1966-12-21,,1,58
+91514,Louis Miehe-Renard,2,1919-04-11,1997-01-21,35,77
+91515,Klaus Pagh,2,1935-07-29,,25,89
+91517,Svend Johansen,2,1930-05-17,2021-03-02,18,90
+91519,Carl Ottosen,2,1918-07-18,1972-01-08,40,53
+91568,Carsten Bang,2,1965-09-12,,14,59
+91635,Asger Reher,2,1950-06-24,,10,74
+91636,Ole Stephensen,2,1955-10-26,2019-02-06,4,63
+91637,Jarl Friis-Mikkelsen,2,1951-12-01,,11,73
+91748,Uffe Holm,2,1976-04-13,,9,48
+92053,Henki Kolstad,2,1915-02-03,2008-07-14,1,93
+92104,Rolv Wesenlund,2,1936-09-17,2013-08-18,2,76
+92107,Arve Opsahl,2,1921-05-14,2007-04-29,2,85
+92127,Carsten Byhring,2,1918-12-08,1990-04-06,1,71
+92128,Sverre Holm,2,1931-07-24,2005-03-17,1,73
+92134,Sverre Wilberg,2,1929-12-24,1996-07-19,2,66
+92161,Elsa Lystad,1,1930-07-09,2023-12-26,1,93
+92403,Jakob Eklund,2,1962-02-21,,1,62
+92404,Joel Kinnaman,2,1979-11-25,,1,45
+92416,Alexandra Rapaport,1,1971-12-26,,1,53
+92422,Lennart Hjulström,2,1938-07-18,2022-07-03,1,83
+92429,Jens Hultén,2,1963-12-06,,1,61
+93108,Lars Hjortshøj,2,1967-06-03,,16,57
+93236,David Dencik,2,1974-10-31,,19,50
+93255,Mercedes Cabral,1,1986-08-10,,1,38
+93490,Anna Wing,1,1914-10-30,2013-07-07,1,98
+93588,Anders Bodelsen,2,1937-02-11,2021-10-17,1,84
+93919,Danny Keogh,2,1948-03-03,2019-07-23,1,71
+94937,Gabriel Gabrio,2,1887-01-13,1946-10-31,1,59
+95905,Denize Karabuda,1,1962-02-12,,1,62
+96376,Thierry Hancisse,2,1962-11-20,,1,62
+96519,Igor Yasulovich,2,1941-09-24,2023-08-19,1,81
+96935,Johan Widerberg,2,1974-03-16,,1,50
+96937,Nina Gunke,1,1955-07-12,,1,69
+97032,Maria Bonnevie,1,1973-09-26,,5,51
+97600,David DeLuise,2,1971-11-11,,1,53
+97805,Robyn Griggs,1,1973-04-30,2022-08-13,1,49
+98060,Mette Agnete Horn,1,1965-01-11,,13,59
+98062,Lars Bom,2,1961-04-08,,13,63
+98065,Rasmus Bjerg,2,1976-07-28,,29,48
+98067,Tommy Bredsted,2,1975-02-03,,1,49
+99522,Bahar Pars,1,1979-03-28,,1,45
+99573,Lone Fleming,1,1945-09-05,,1,79
+99756,Jacob Tingleff,2,1972-06-21,,6,52
+100668,Ana Risueño,1,1969-06-22,,1,55
+101462,Marland Proctor,2,1939-09-19,1988-10-08,1,49
+101467,Sandy Dempsey,1,1949-04-11,1975-05-24,1,26
+101636,Bent Warburg,2,1939-12-05,2023-09-08,20,83
+101637,Anne Bie Warburg,1,1953-03-03,,2,71
+101911,Richard Driscoll,2,1960-01-13,,1,64
+101922,Gry Bay,1,1974-08-15,,2,50
+101924,Thomas Raft,2,1963-07-03,,1,61
+102887,Stephanie Leon,1,1985-10-15,,13,39
+102890,Malou Reymann,1,1988-02-27,,5,36
+102893,Julie Grundtvig Wester,1,1991-08-08,,11,33
+103062,Franco Trevisi,2,1945-11-29,,1,79
+103839,Kim Sønderholm,2,1973-06-13,,11,51
+103887,Colette Régis,1,1893-10-23,1978-10-23,1,85
+104282,Mimi Heinrich,1,1936-11-01,2017-05-31,14,80
+104770,Claes Ljungmark,2,1954-03-14,,3,70
+105099,Suzanne Ernrup,1,1954-11-30,,1,70
+105501,Povl Carstensen,2,1960-06-08,,8,64
+105680,Rob Caggiano,2,1976-11-07,,1,48
+105903,Jesper Klein,2,1944-11-13,2011-08-22,23,66
+105905,Bjørn Spiro,2,1909-03-20,1999-06-01,39,90
+105906,Kjeld Brask Andersen,2,1916-06-20,1999-01-23,1,82
+105907,Gotha Andersen,2,1921-01-29,1984-03-12,17,63
+106533,Jørgen Ryg,2,1927-08-11,1981-08-28,17,54
+106534,Lily Broberg,1,1923-09-19,1989-07-30,39,65
+106536,Birger Jensen,2,1945-06-10,1998-06-18,17,53
+107264,Lisbet Lundquist,1,1943-03-25,,19,81
+107543,Jan Gunnar Røise,2,1975-09-24,,1,49
+107556,Marie Askehave,1,1973-11-21,,7,51
+107557,Henrik Lykkegaard,2,1965-02-14,,14,59
+107559,Ditte Hansen,1,1970-12-06,,16,54
+107635,Krzysztof Kiersznowski,2,1950-11-26,2021-10-24,1,70
+107702,Ramadan Huseini,2,1974-01-03,,4,50
+107782,Omar Ahmad Marzouk,2,1973-02-21,,7,51
+108112,Jonas Bergström,2,1946-05-11,,1,78
+108305,Puk Scharbau,1,1969-05-06,,8,55
+108451,Diogo Infante,2,1967-05-28,,1,57
+109856,Maria Stokholm,1,1971-06-28,,4,53
+110046,Kristian Holm Joensen,2,1964-12-21,,4,60
+110047,Søren Fauli,2,1963-10-24,,7,61
+110577,Morten Lindberg,2,1965-09-24,2019-03-26,1,53
+110578,Per Kristensen,2,1934-11-19,,2,90
+110601,Pernille Fischer Christensen,1,1969-12-24,,1,55
+110602,Sofia Cukic,0,1993-08-30,,2,31
+110604,Joen Højerslev,2,1974-07-30,,18,50
+111076,Jan Gintberg,2,1963-12-03,,12,61
+111364,Christian Magdu,2,1977-10-15,,1,47
+111599,Kirsten Lehfeldt,1,1952-12-19,,25,72
+111601,Heine Ankerdal,2,1968-06-19,,6,56
+111602,Caroline Dahl,1,1989-08-27,,2,35
+111786,Bengt C.W. Carlsson,2,1948-01-01,,1,76
+112309,Olga Bołądź,1,1984-02-29,,1,40
+112316,Timm Vladimir,2,1968-06-22,,3,56
+112317,Gordon Kennedy,2,1968-03-08,,14,56
+112382,Mads Koudal,2,1977-01-22,,8,47
+112598,Per Egil Aske,2,1954-04-10,,1,70
+112733,Cyron Melville,2,1984-07-01,,15,40
+112734,Sara Hjort Ditlevsen,1,1988-05-23,,7,36
+112735,Rasmus Botoft,2,1972-01-05,,25,52
+112736,Benjamin Hasselflug Katzmann,2,1987-07-24,,1,37
+113640,Lee Patterson,2,1929-04-01,2007-02-14,1,77
+113643,Katie Melua,1,1984-09-16,,1,40
+113757,Luka Petrušić,2,1982-09-15,,1,42
+114542,Michael Falch,2,1956-09-16,,5,68
+114580,Ralph Carlsson,2,1952-03-05,,2,72
+114718,Helge Kjærulff-Schmidt,2,1906-02-22,1982-07-14,33,76
+114719,Karl Stegger,2,1913-01-11,1980-04-13,116,67
+114720,Poul Reichhardt,2,1913-02-02,1985-10-31,79,72
+114721,Hanne Borchsenius,1,1935-11-30,2012-03-19,24,76
+115213,Adam Tønsberg,2,1967-08-14,,2,57
+115214,Lars Simonsen,2,1963-09-19,,15,61
+115215,Camilla Søeberg,1,1966-06-09,,5,58
+115216,Ulrikke Bondo,1,1967-07-25,,2,57
+115736,Lisa Werlinder,1,1972-03-12,,2,52
+115737,Alexander Karim,2,1976-05-26,,2,48
+116378,Henny Moan,1,1936-02-22,,1,88
+116433,Grant James,2,1935-06-19,2022-11-23,1,87
+116611,Lena-Pia Bernhardsson,1,1945-06-08,,1,79
+116614,Johannes Bah Kuhnke,2,1972-04-17,,1,52
+116615,Dag Malmberg,2,1953-01-18,,1,71
+116616,Siw Malmkvist,1,1936-12-31,,1,88
+117936,Jon Iversen,2,1889-12-01,1964-08-17,12,74
+117937,Alice O'Fredericks,1,1900-09-08,1968-02-18,5,67
+117939,Tove Maës,1,1921-04-30,2010-12-31,30,89
+117940,Maria Garland,1,1889-05-16,1967-10-26,23,78
+117941,Per Buckhøj,2,1902-02-10,1964-10-21,19,62
+117942,Peter Malberg,2,1887-09-21,1965-06-23,43,77
+117943,Erika Voigt,1,1898-11-28,1952-05-29,8,53
+117947,Chili Turèll,1,1947-11-13,,2,77
+117948,Grethe Thordahl,1,1926-12-11,2004-06-29,6,77
+117953,Pusle Helmuth,1,1962-08-12,,4,62
+117954,Michael Rosenberg,2,1957-06-06,,4,67
+117955,Vigga Bro,1,1937-10-20,,17,87
+117956,Ole Monty,2,1908-10-22,1977-04-24,42,68
+117958,Arthur Jensen,2,1897-11-09,1981-11-28,53,84
+117959,Henny Lindorff Buckhøj,1,1902-04-29,1979-12-18,14,77
+117960,Miskow Makwarth,0,1905-11-05,1992-12-13,27,87
+117961,Bjørn Puggaard-Müller,2,1922-03-13,1989-05-13,57,67
+117963,Johannes Meyer,2,1884-05-28,1972-11-04,50,88
+117964,Grete Frische,0,1911-06-15,1962-02-17,6,50
+117965,William Rosenberg,2,1922-02-12,2014-11-06,17,92
+117966,Signi Grenness,1,1919-08-21,2003-04-06,3,83
+117967,Asbjørn Andersen,2,1903-08-30,1978-12-10,57,75
+117968,Grethe Holmer,1,1924-01-12,2004-10-13,16,80
+117969,Randi Michelsen,1,1903-02-20,1981-08-06,16,78
+117970,Axel Frische,2,1877-03-15,1956-02-02,10,78
+117971,Agnes Rehni,1,1887-05-24,1966-11-03,20,79
+117972,Poul Müller,2,1909-12-31,1979-09-15,19,69
+117973,Helga Frier,1,1893-06-12,1972-01-09,26,78
+118131,Gareth Williams,2,1965-02-28,,1,59
+118171,Rumle Hammerich,2,1954-11-16,,1,70
+118172,Andrea Vagn Jensen,1,1965-08-22,,12,59
+119068,Levin Henning,2,1999-01-01,,1,25
+119336,Rafael Edholm,2,1966-05-08,,3,58
+119412,Peter Hesse Overgaard,2,1954-05-19,,24,70
+119783,Joseph Mawle,2,1974-03-21,,1,50
+119996,Alessandro Haber,2,1947-01-19,,1,77
+120489,John Yule,2,1946-02-21,,1,78
+121160,John Reynolds,2,1972-02-12,,1,52
+121510,Line Arlien-Søborg,1,1966-07-25,,3,58
+121511,Merete Voldstedlund,1,1946-02-08,,6,78
+121513,Eva Gram Schjoldager,1,1966-05-08,,2,58
+121515,Jan Johansen,2,1966-05-30,,2,58
+121516,Nils Malmros,2,1944-10-05,,1,80
+121518,Tammi Øst,1,1958-10-01,,15,66
+121519,Tina Gylling Mortensen,1,1956-07-21,,25,68
+121520,Michelle Bjørn-Andersen,1,1954-08-10,,17,70
+121521,Michael Carøe,2,1960-10-11,,9,64
+121522,Niels Skousen,2,1944-01-28,,23,80
+121523,Peder Holm Johansen,2,1957-12-05,,11,67
+121524,Etta Cameron,1,1939-11-21,2010-03-04,2,70
+121525,Bjarne Buur,2,1940-01-07,,4,84
+121540,Nicklas Svale Andersen,2,1991-05-28,,5,33
+121541,Frederikke Thomassen,1,1996-06-02,,6,28
+121542,Emma Leth,1,1990-07-26,,3,34
+121543,Peter Gilsfort,2,1958-04-19,,9,66
+121544,Cecilia Zwick-Nash,1,1968-11-17,,3,56
+121550,Christian Damsgaard,2,1968-02-05,,2,56
+121551,Donald Andersen,2,1956-09-30,,1,68
+121556,Jess Ingerslev,2,1947-08-07,2014-10-13,14,67
+121561,Sara-Marie Maltha,1,1971-11-30,,5,53
+121579,Niels Ellegaard,2,1962-03-12,,11,62
+121618,Allan Hyde,2,1989-12-20,,10,35
+121677,Eric Ericson,2,1974-11-21,,1,50
+121764,Shannon Sturges,1,1968-01-03,,1,56
+123040,Lina Englund,1,1975-05-14,,1,49
+123134,Anders Agensø,2,1961-12-14,,1,63
+123135,Peter Bjerg,2,1966-01-01,,1,58
+123136,Jørn Faurschou,2,1946-10-07,,13,78
+123464,Sif Ruud,1,1916-05-06,2011-08-15,1,95
+123637,Molly Egelind,1,1987-11-20,,7,37
+123959,Sverre Hansen,2,1919-08-24,1995-10-21,1,76
+123962,Juni Dahr,1,1953-06-29,,2,71
+125421,Nils Ole Oftebro,2,1944-12-01,,1,80
+125479,Stan Getz,2,1927-02-02,1991-06-06,1,64
+125740,Dragomir Mrsic,2,1969-10-02,,1,55
+126507,Nikolaj Steen,2,1967-02-10,,8,57
+126774,Per Fly,2,1960-01-14,,1,64
+126936,Eva Röse,1,1973-10-16,,1,51
+127723,Barbara Topsøe-Rothenborg,1,1979-08-29,,3,45
+128656,Marijana Janković,1,1982-04-07,,13,42
+128859,Hadewych Minis,1,1977-01-05,,1,47
+130072,Nils Hognestad,2,1984-07-16,,1,40
+130128,Jonas Elmer,2,1966-03-14,,3,58
+130359,Giampaolo Morelli,2,1974-11-25,,1,50
+130690,Magnus von Horn,2,1983-12-21,,1,41
+130948,Tommy Karlsen,2,1975-06-09,2024-02-07,1,48
+131067,Alf Kjellin,2,1920-02-29,1988-04-05,1,68
+131493,Bengt Blomgren,2,1923-08-15,2013-04-04,1,89
+131573,Kirsten Vaupel,1,1944-10-31,,2,80
+131575,Ulrik Cold,2,1939-05-15,2010-10-12,3,71
+133257,Virgile Bramly,2,1980-06-21,,2,44
+133472,Peter Lindgren,2,1915-12-13,1981-05-30,1,65
+133525,Abel Folk,2,1959-08-28,,1,65
+134376,Per Grundén,2,1922-05-23,2011-02-06,1,88
+135119,Maibritt Saerens,1,1970-05-25,,3,54
+135726,Simon J. Berger,2,1979-06-01,,1,45
+135753,Mille Dinesen,1,1974-03-17,,20,50
+135756,Martin Hestbæk,2,1971-09-30,,5,53
+135757,Michael Asmussen,2,1970-02-11,,14,54
+135758,Thomas Leth Rasmussen,2,1963-04-11,,2,61
+135941,Christina Sederqvist,0,1974-08-02,,3,50
+135943,Mette Føns,1,1975-11-19,,3,49
+135944,Alexandre Willaume,2,1972-12-20,,8,52
+135945,Petrine Agger,1,1962-08-02,,24,62
+135949,Regner Grasten,2,1956-04-01,,1,68
+135954,Stine Gudmundsen-Holmgreen,1,1960-11-25,,1,64
+135968,Asger Lindgaard,2,1984-11-07,,1,40
+136309,Andre Odendaal,2,1954-05-04,,1,70
+136758,Lia Boysen,1,1966-04-06,,3,58
+136773,Ronja Mannov Olesen,1,1987-07-05,,1,37
+136774,Helene Reingaard Neumann,1,1987-09-29,,6,37
+136806,Jana Plodková,1,1981-08-05,,1,43
+137326,Veronika Bellová,1,1975-01-12,,1,49
+137332,Jan Filipenský,2,1973-10-08,,1,51
+137338,Miroslav Hrabě,2,1981-05-06,,1,43
+137361,Jeanne Darville,1,1923-08-18,1995-05-09,26,71
+137362,Judy Gringer,1,1941-01-23,,37,83
+137364,Ib Mossin,2,1933-07-03,2004-12-17,28,71
+137365,Per Wiking,2,1931-12-04,2007-11-23,10,75
+137366,Otto Brandenburg,2,1934-09-04,2007-03-01,34,72
+137367,Hugo Herrestrup,2,1933-01-29,2009-09-22,25,76
+137368,Ove Rud,2,1923-12-16,2007-09-21,15,83
+137369,Kurt Erik Nielsen,2,1930-01-01,1985-04-04,9,55
+137370,Bertel Lauring,2,1928-01-11,2000-01-28,27,72
+137443,Peter Plaugborg,2,1980-04-12,,17,44
+137444,Patricia Schumann,1,1975-06-04,,13,49
+137445,Mikael Wulff,2,1972-09-02,,4,52
+137490,Tiina Tauraite,1,1976-06-02,,1,48
+137639,Mait Malmsten,2,1972-09-06,,1,52
+137824,Marika Korolev-Pihelpuu,1,1970-02-16,,1,54
+138129,Raivo Trass,2,1946-03-12,2022-06-07,1,76
+139032,Ana Padrão,1,1967-07-04,,1,57
+139111,Monica Ekman,1,1941-12-20,,1,83
+140218,Ewa Skibińska,1,1963-02-11,,1,61
+141099,Alex Svanbjerg,2,1972-09-04,,2,52
+141100,Susanne Heinrich,1,1945-05-16,,9,79
+141229,Semra Turan,1,1985-01-01,,1,39
+141230,Nima Nabipour,2,1981-09-05,,3,43
+141231,Sadi Tekelioglu,2,1960-11-13,2020-08-13,2,59
+141232,Behruz Banissi,2,1985-09-24,,2,39
+141234,Özlem Sağlanmak,1,1980-11-25,,6,44
+141238,Trine Appel,1,1972-11-12,,10,52
+141875,Dulfi Al-Jabouri,2,1990-12-31,,9,34
+141876,Roland Møller,2,1972-05-28,,11,52
+141878,Kim Winther,2,1976-04-14,,1,48
+141879,Omar Shargawi,2,1974-01-01,,7,50
+141880,Sune Nørgaard,2,1977-02-08,,1,47
+141883,Tobias Lindholm,2,1977-07-05,,1,47
+142667,Sonja Oppenhagen,1,1948-11-12,,13,76
+142669,Sigrid Horne-Rasmussen,1,1915-09-22,1982-04-24,44,66
+142874,Halldóra Geirharðsdóttir,1,1968-08-12,,2,56
+142900,Kirsten Andreasen,1,1898-09-11,1983-07-13,7,84
+142902,Albert Høeberg,2,1879-04-27,1949-07-21,2,70
+142903,Harald Holst,2,1886-10-16,1960-02-01,7,73
+142904,Emanuel Jørgensen,2,1885-09-30,1971-10-23,1,86
+142906,Preben Lerdorff Rye,2,1917-05-23,1995-06-15,51,78
+142907,Lisbeth Movin,1,1917-08-25,2011-11-07,15,94
+142928,Emil Hass Christensen,2,1903-01-23,1982-01-12,37,78
+142929,Cay Kristiansen,2,1925-06-19,2014-02-27,3,88
+142930,Henrik Malberg,2,1873-12-04,1958-09-28,5,84
+143079,Christian E. Christiansen,2,1972-12-14,,2,52
+143391,Magnus Krepper,2,1967-01-10,,7,57
+144195,Christoffer Boe,2,1974-05-07,,2,50
+144970,Louis Viret,2,1917-10-14,1974-07-08,1,56
+144972,Bogusław Linda,2,1952-06-27,,2,72
+145806,Carlos Antonio,2,1972-01-25,,1,52
+145856,Wencke Barfoed,1,1959-11-19,,6,65
+145857,Stefan Pagels Andersen,2,1986-09-08,,9,38
+145863,Kristian Leth,2,1980-03-27,,4,44
+145865,Arne Siemsen,2,1956-08-27,,11,68
+145866,Casper Steffensen,2,1984-07-06,,4,40
+145867,Kasper Barfoed,2,1972-03-07,,1,52
+146123,Peter Linka,2,1962-02-07,,1,62
+147017,Anne-Lise Gabold,1,1941-10-05,,11,83
+148428,Alexandra Davies,1,1977-03-08,,1,47
+148629,Anna Norberg,1,1965-01-17,,1,59
+148717,Arto Louis Eriksen,2,1998-06-28,,1,26
+148718,Sasha Sofie Lund,1,1997-01-14,,3,27
+148720,Jamie Morton,2,1993-09-20,,3,31
+148721,Sonja Furu Friby,1,1993-02-20,,2,31
+148725,Lukas Graham Forchhammer,2,1988-09-18,,4,36
+149860,Dan Andersen,2,1979-09-04,,4,45
+150802,Claes Bang,2,1967-04-28,,7,57
+153196,Geoffrey Chater,2,1921-03-23,2021-10-16,1,100
+155698,Jackie Debatin,1,1970-10-24,,1,54
+156453,Brandon Maggart,2,1933-12-12,,1,91
+157596,Karen Morrow,1,1936-12-15,,1,88
+160414,Paul Rossilli,2,1948-10-15,,1,76
+160423,Merete Van Kamp,1,1961-11-17,,2,63
+160695,Ben Andrews,2,1975-04-02,,1,49
+162422,Gordon Kennedy,2,1958-02-22,,1,66
+162610,Fred Stoller,2,1958-03-19,,1,66
+167441,Vivienne McKee,1,1949-07-24,,4,75
+168771,Ho Chow,2,1956-10-16,,1,68
+174732,Simone Bendix,1,1967-09-26,,6,57
+184862,Frederick Jaeger,2,1928-05-29,2004-06-18,1,76
+185016,Clinton Greyn,2,1936-09-29,2019-03-19,1,82
+185296,Charles Maquignon,2,1965-12-29,2012-12-05,1,46
+185391,Geoffrey Bateman,2,1948-01-01,,1,76
+186052,John Larsen,2,1935-01-07,1993-07-11,7,58
+186790,Helli Louise,1,1949-08-02,2018-06-22,2,68
+197126,Wil Johnson,2,1965-04-18,,1,59
+201665,Eve Best,1,1971-07-31,,1,53
+202058,Gavin Mitchell,2,1964-12-16,,1,60
+202568,Torben Zeller,2,1949-12-04,,20,75
+202572,Lykke Sand Michelsen,1,1982-03-04,,5,42
+202573,Claus Bue,2,1947-07-04,,30,77
+202574,Peter Rygaard,2,1958-12-13,,10,66
+202575,Vibeke Hastrup,1,1958-04-07,,23,66
+202578,Sarah Boberg,1,1966-08-25,,20,58
+202580,Peter Aude,2,1957-01-19,,11,67
+202581,Hans Henrik Voetmann,2,1950-06-15,,21,74
+202582,Lars Knutzon,2,1941-10-01,,21,83
+202585,Beatrice Palner,1,1938-01-31,2013-04-04,15,75
+202591,Hannah Bjarnhof,1,1928-07-06,2002-05-20,7,73
+202593,Benedikte Hansen,1,1958-09-24,,15,66
+202598,Vera Gebuhr,1,1916-05-15,2014-12-22,36,98
+202604,Morten Lorentzen,2,1960-08-19,,6,64
+202605,Mikael Olsen,2,1954-04-11,,2,70
+202607,Lars Lippert,2,1965-04-12,,4,59
+202608,Steen Springborg,2,1954-04-19,2021-04-23,4,67
+202609,Berrit Kvorning,1,1949-09-14,,6,75
+202613,Torben Jetsmark,2,1942-09-19,,4,82
+202617,Samy Andersen,2,1972-05-08,,3,52
+202619,Tine Miehe-Renard,1,1954-09-12,,6,70
+202621,Lasse Baunkilde,0,1983-06-22,,3,41
+202622,Thomas Levin,2,1978-09-19,,6,46
+202624,Ann-Mari Max Hansen,1,1949-01-14,,7,75
+202626,Fritze Hedemann,1,1945-05-08,,5,79
+202629,Birgit Sadolin,1,1933-10-10,,19,91
+206469,Sofie Stougaard,1,1966-11-05,,8,58
+206475,Lasse Rimmer,2,1972-03-26,,9,52
+208172,Charlotte Sachs Bostrup,1,1963-10-03,,3,61
+208175,Martin Strange-Hansen,2,1971-04-08,,2,53
+209384,Esper Hagen,2,1948-05-17,2015-01-24,6,66
+209385,Helle Virkner,1,1925-09-15,2009-06-10,39,83
+209386,Holger Juul Hansen,2,1924-08-14,2013-03-19,33,88
+209387,Jørgen Buckhøj,2,1935-01-10,1994-04-14,18,59
+209388,Karen Berg,1,1906-05-28,1995-11-15,16,89
+209389,Karin Nellemose,1,1905-08-03,1993-08-05,31,88
+209390,Malene Schwartz,1,1936-08-10,,21,88
+209393,Kirsten Hansen-Møller,1,1942-07-09,2023-06-21,10,80
+209394,Lis Løwert,1,1919-12-17,2009-11-26,15,89
+209396,Jesper Langberg,2,1940-10-20,2019-06-29,36,78
+209398,Bendt Rothe,2,1921-05-09,1989-12-31,21,68
+209673,Charlie Carrick,2,1986-06-25,,1,38
+210963,Michiel de Jong,2,1973-05-17,,1,51
+211048,Rik Launspach,2,1958-07-19,,1,66
+212494,Leif Magnusson,2,1956-05-02,,2,68
+212747,Muhammed Cangören,2,1951-07-01,,2,73
+212755,Alper Kul,2,1975-12-05,,1,49
+212928,Uwe Preuss,2,1961-01-01,,1,63
+213528,Carl-Axel Elfving,2,1920-01-12,1988-01-12,1,68
+214904,Victor Borge,2,1909-01-03,2000-12-23,2,91
+217371,Adam Levine,2,1979-03-18,,1,45
+219770,Jimmy Jørgensen,2,1964-07-11,,6,60
+221049,Lakke Magnusson,2,1946-05-21,2004-02-19,1,57
+221050,Sten Elfström,2,1942-08-18,2024-03-20,1,81
+221108,Esben Pretzmann,2,1978-07-15,,3,46
+221109,Andreas Bo Pedersen,2,1967-02-25,,5,57
+221110,Christiane Schaumburg-Müller,1,1982-01-26,,4,42
+221190,Sebastian Dorset,2,1970-09-29,,4,54
+221191,Anders Lund Madsen,2,1963-10-15,,3,61
+221670,Per Pallesen,2,1942-04-30,,12,82
+221671,Flemming Jensen,2,1948-10-18,,4,76
+222008,Kaspar Rostrup,2,1940-04-27,,1,84
+222682,Astrid Holm,1,1893-03-28,1961-10-29,6,68
+222683,Mathilde Nielsen,1,1858-10-26,1945-09-11,19,86
+223477,Joel Basman,2,1990-01-23,,1,34
+223684,Sebastian Jessen,2,1986-07-07,,23,38
+224648,Kate Mundt,1,1930-01-09,2004-05-05,9,74
+224828,Nils Reinhardt Christensen,2,1919-04-13,1990-11-08,1,71
+224892,Hans W. Petersen,2,1897-01-28,1974-01-27,20,76
+224895,Jessie Rindom,1,1903-10-04,1981-01-08,19,77
+225091,Charlie Gustafsson,2,1992-02-16,,1,32
+225502,Gunnar Lauring,2,1905-10-31,1968-02-21,48,62
+225503,Ole Søltoft,2,1941-01-08,1999-05-09,16,58
+225511,Jan Linnebjerg,2,1960-01-31,,3,64
+225512,Paul Hüttel,2,1935-07-13,,30,89
+225513,Jeanne Boel,1,1961-01-01,,4,63
+225515,Søren Østergaard,2,1957-05-11,,13,67
+225516,Thomas Mørk,2,1962-09-28,,3,62
+225517,Martin Miehe-Renard,2,1956-08-10,,5,68
+225833,Grethe Kausland,1,1947-07-03,2007-11-16,1,60
+225840,Johannes Joner,2,1958-11-01,,1,66
+225843,Mari Maurstad,1,1957-03-17,,1,67
+225914,Benny Poulsen,2,1942-08-11,2004-07-21,7,61
+225919,Ole Ishøy,0,1934-06-16,1985-06-17,8,51
+225920,Ove Verner Hansen,2,1932-07-20,2016-02-20,17,83
+226147,Nanna Stenersen,1,1914-01-26,1977-06-22,1,63
+226273,Per Asplin,2,1928-08-10,1998-10-09,1,70
+226281,Egil Hjorth-Jenssen,2,1893-04-18,1969-11-08,1,76
+227122,Thomas Ernst,2,1989-09-15,,5,35
+227125,Sofie Linde,1,1989-09-22,,1,35
+227454,Alicia Vikander,1,1988-10-03,,1,36
+227855,Mona Seilitz,1,1943-01-16,2008-04-02,1,65
+228136,Karel Heřmánek,2,1947-10-17,2024-08-24,1,76
+228218,Mikael Birkkjær,2,1958-09-14,,9,66
+228975,Frederik Christian Johansen,2,1992-02-11,,7,32
+229145,Natascha Bub,1,1967-01-01,,1,57
+229176,Ebbe Rode,2,1919-05-10,1998-05-23,30,79
+229223,Søren Hauch-Fausbøll,2,1958-07-27,,14,66
+230033,William Jøhnk Nielsen,2,1997-07-05,,3,27
+230034,Markus Rygaard,2,1997-02-11,,1,27
+230346,Per Scheel Krüger,2,1968-07-23,,7,56
+230727,Camilla Overbye Roos,1,1969-01-19,,2,55
+231064,Allan Olsen,2,1960-03-23,,23,64
+231246,Karel Dobrý,2,1969-05-02,,2,55
+231318,Melinda Kinnaman,1,1971-11-09,,1,53
+231926,Thomas Hanzon,2,1962-06-20,,1,62
+233316,Mads Wille,2,1971-11-10,,9,53
+233870,Nikolaj Cederholm,2,1963-01-15,,2,61
+233871,Pauli Ryberg,2,1958-04-21,2017-09-10,8,59
+234058,Simon Talbot,2,1986-07-18,,7,38
+234087,Mads M. Nielsen,2,1971-02-10,,5,53
+234101,Jesper Juhl,2,1979-12-15,,1,45
+234102,Maria Erwolter,1,1976-12-22,,6,48
+234401,Claus Flygare,2,1945-08-20,,25,79
+234403,Hanne Hedelund,1,1957-06-20,,9,67
+234739,Søren Vejby,2,1974-04-16,,4,50
+234740,André Babikian,2,1973-03-03,,5,51
+234741,Thomas W. Gabrielsson,2,1963-06-29,,13,61
+234895,Rasmus Lind Rubin,2,1996-11-21,,6,28
+234898,Benjamin Molsing,2,1996-08-21,,1,28
+234907,Dar Salim,2,1977-08-18,,19,47
+234908,Yasmine Garbi,1,1970-10-09,,1,54
+234911,Signe Anastassia Mannov,1,1977-09-23,,3,47
+234971,Annette Heick,1,1971-11-12,,1,53
+234973,Jonas Schmidt,2,1973-06-20,,4,51
+234974,Simon Jul Jørgensen,2,1977-07-01,,4,47
+234977,Rune Tolsgaard,2,1977-01-06,,2,47
+235203,Lone Hertz,1,1939-04-23,,25,85
+235209,Anita Björk,1,1923-04-25,2012-10-24,1,89
+235210,Essy Persson,1,1941-06-15,,2,83
+235960,Jens Jørgen Thorsen,2,1932-02-02,2000-11-15,3,68
+235961,Paul Valjean,2,1935-03-31,1992-06-22,1,57
+235962,Wayne Rodda,0,1945-03-24,1998-02-15,2,52
+235964,Ulla Koppel,1,1948-03-18,,6,76
+235965,Avi Sagild,1,1933-02-22,1995-09-19,9,62
+236606,Kasper Tuxen,2,1977-04-23,,2,47
+236639,Françoise Lebrun,1,1944-08-18,,1,80
+236836,Vsevolod Larionov,2,1928-09-11,2000-10-08,1,72
+236987,Finn Storgaard,2,1943-09-26,,7,81
+236988,Jes Holtsø,2,1956-12-30,,11,68
+236990,Leif Panduro,2,1923-04-18,1977-01-16,1,53
+236992,Willy Rathnov,2,1937-05-13,1999-08-29,22,62
+236994,Johannes Møllehave,2,1937-01-04,2021-05-10,1,84
+237960,Miguel Dedovich,2,1937-05-12,2012-09-14,1,75
+239040,Stig Larsson,2,1955-07-20,,1,69
+239289,Gio Petré,1,1937-11-01,,1,87
+240299,John Kelland,2,1931-02-21,,1,93
+240400,Erik Hell,2,1911-08-11,1973-03-11,1,61
+244214,Birte Tove,1,1945-01-16,2006-01-01,9,60
+246194,Ingolf David,2,1926-10-02,1996-12-26,23,70
+249917,Christina Schollin,1,1937-12-26,,1,87
+256725,Ivo Gregurević,2,1952-10-07,2019-01-02,1,66
+258901,Finn Nielsen,2,1937-04-21,,31,87
+263354,Thomas Roos,2,1946-06-22,,2,78
+275519,Katarzyna Łaniewska,1,1933-06-20,2020-12-07,1,87
+282873,Mari-Anne Jespersen,1,1963-07-29,,4,61
+283353,Ewa Carlsson,0,1957-08-13,,1,67
+287752,Jonas Gülstorff,2,1979-01-10,,7,45
+296028,Arnaud Binard,2,1971-01-18,,1,53
+296385,Michael Wikke,2,1959-06-22,,6,65
+297106,Jesper Lohmann,2,1960-10-30,,14,64
+298328,Petrine Sonne,1,1870-11-25,1946-05-26,24,75
+298813,Torben Jensen,2,1944-09-29,2018-11-02,19,74
+307686,Benjamin Rothenborg Vibe,2,1981-03-05,,4,43
+309738,Allan Bohlin,2,1907-11-05,1959-01-23,1,51
+310219,Nataša Dorčić,0,1968-06-09,,1,56
+311446,Olaf Nielsen,2,1935-04-11,,12,89
+323723,Birgitte Bruun,1,1953-06-18,,4,71
+343124,Per Bentzon Goldschmidt,2,1943-03-11,2013-09-17,10,70
+345555,Anna Hagen,1,1939-04-25,,2,85
+346241,Max Hansen,2,1897-12-22,1961-11-12,2,63
+355177,William Kisum,2,1931-05-17,2023-05-07,20,91
+357119,Xenia Lach-Nielsen,1,1971-10-22,,4,53
+360116,Carl-Gustaf Lindstedt,2,1921-02-24,1992-01-16,1,70
+377703,Birgitte Raaberg,1,1954-09-26,,5,70
+395016,Holger Vistisen,2,1932-06-13,2007-02-13,55,74
+399957,Jan Zangenberg,2,1927-04-23,1992-08-05,3,65
+402686,Nils Eklund,2,1927-01-17,,1,97
+403917,Gertie Jung,1,1946-09-22,,13,78
+407292,James Price,2,1959-11-20,,1,65
+420453,Arne Hansen,2,1938-06-26,1992-06-14,10,53
+425893,Nina Pens Rode,1,1929-05-22,1992-07-22,4,63
+428406,Börje Mellvig,2,1911-11-23,1998-11-07,1,86
+449644,Jana Krausová,1,1954-01-25,,1,70
+453565,Poul Glargaard,2,1942-04-11,2011-10-17,27,69
+458515,Steen Rasmussen,2,1949-08-09,,6,75
+489961,Jakub Gierszał,2,1988-03-20,,1,36
+495355,Sebastián Estevanez,2,1970-11-04,,1,54
+498130,Sisse Reingaard,1,1946-09-23,,15,78
+503150,Bojan Navojec,0,1976-04-26,,1,48
+503152,Mogens Pedersen,2,1931-05-26,,4,93
+512966,Ksenija Marinković,1,1966-04-18,,1,58
+532247,Astrid Villaume,1,1923-11-03,1995-02-12,29,71
+537019,Benny Hansen,2,1944-02-22,1998-08-27,25,54
+543366,Dinara Drukarova,1,1976-01-03,,1,48
+543540,Ulf Palme,2,1920-10-18,1993-05-12,1,72
+544021,Marie Louise Wille,1,1970-02-18,,7,54
+544031,Peter Perski,2,1970-01-06,,1,54
+544229,Bořivoj Navrátil,2,1933-09-26,2011-10-31,1,78
+544263,Renée Héribel,1,1903-02-09,1952-07-25,1,49
+544495,Ivan Vodochodský,2,1963-06-26,,1,61
+544729,Maurice de Féraudy,2,1859-12-03,1932-05-12,1,72
+544860,Henning Valin Jakobsen,2,1965-07-25,,15,59
+548365,Ken Vedsegaard,2,1972-10-14,,11,52
+548369,Judith Rothenborg,1,1949-03-19,2023-09-07,7,74
+549115,Nina Jiránková,1,1927-10-01,2014-10-04,1,87
+549634,Mia Maria Back,1,1982-07-12,,2,42
+549637,Lars Engström,2,1927-02-21,2009-02-11,1,81
+550130,Hjördis Petterson,1,1908-10-17,1988-05-27,2,79
+550139,Edvin Adolphson,2,1893-02-26,1979-10-31,1,86
+550140,Douglas Håge,2,1898-03-06,1959-11-18,1,61
+550538,Georg Funkquist,2,1900-03-13,1986-10-23,1,86
+550752,Igor Volkov,2,1959-07-05,,1,65
+551254,Jessie Flaws,1,1935-08-13,2014-11-25,1,79
+555528,Andrea Bosca,2,1980-07-14,,1,44
+556721,Marco D'Amore,2,1981-06-12,,1,43
+557017,Peter Althof,2,1955-08-17,,1,69
+557927,Marie-Louise Coninck,1,1936-12-08,,21,88
+557928,Alvin Linnemann,2,1937-09-22,2011-09-19,13,73
+558077,Thomas Eje,2,1957-03-15,,10,67
+558080,Anders Bircow,2,1951-12-15,,2,73
+558126,Elias Ehlers,2,1985-12-15,,6,39
+558128,Martin Høgsted,2,1982-05-27,,3,42
+558129,Thomas Warberg,2,1985-06-11,,6,39
+558205,Julie R. Ølgaard,1,1981-09-29,,12,43
+558253,Kai Løvring,2,1931-02-09,2002-11-15,10,71
+558254,Baard Owe,2,1936-07-03,2017-11-11,30,81
+558303,Kirsten Søberg,1,1929-04-17,1980-07-09,10,51
+558305,Peer Guldbrandsen,2,1912-10-22,1996-03-13,10,83
+558626,Thomas Voss,2,1977-11-02,,10,47
+559138,Sebastian Kronby,0,1996-06-12,,4,28
+559140,Frida Luna Roswall Mattson,1,2003-05-18,,4,21
+559142,Troels Malling Thaarup,2,1972-05-23,,13,52
+559143,Jacob Moth-Poulsen,2,1986-02-16,,3,38
+559144,Le Münster Swendsen,1,1962-07-09,,2,62
+559145,Jan Hertz,2,1949-07-08,,15,75
+559150,Karin Jagd,1,1957-03-21,,3,67
+560050,Bengt Brunskog,2,1920-05-05,2000-11-03,1,80
+560052,Torsten Winge,2,1886-05-10,1969-05-06,2,82
+560054,Elsa Prawitz,1,1932-02-22,2001-05-01,1,69
+560162,Mathilde Norholt,1,1983-03-23,,7,41
+562340,Yuval Segal,2,1971-09-03,,1,53
+562622,Lisbeth Wulff,1,1972-03-17,,8,52
+562633,Natalya Martinson,1,1956-06-16,,1,68
+563496,Orhan Güner,2,1954-01-01,,1,70
+563753,Marguerite Viby,1,1909-06-25,2001-04-08,16,91
+563754,Bodil Udsen,1,1925-01-12,2008-02-26,25,83
+563755,Kirsten Norholt,1,1953-06-09,,12,71
+563908,Niels Weyde,2,1945-03-27,2017-07-12,11,72
+563909,Jacob Thuesen,2,1962-05-25,,2,62
+563910,Ditte Gråbøl,1,1959-06-22,,13,65
+563917,Mikael Helmuth,2,1958-12-19,,2,66
+563918,Rikke Bendsen,1,1961-11-10,,5,63
+563921,Anne Werner Thomsen,1,1936-07-19,2010-08-21,14,74
+563925,Nanna Møller,1,1958-01-21,,2,66
+563930,Karen Margrethe Bjerre,1,1942-07-28,2008-10-24,6,66
+563935,Signe Skov,1,1977-01-21,,12,47
+564021,Amalie Lindegård,1,1989-09-12,,5,35
+564024,Julie Christiansen,1,1987-07-08,,9,37
+564599,Helene Egelund,1,1965-02-16,,11,59
+564610,Jytte Kvinesdal,1,1953-02-07,,16,71
+565155,Morten Hauch-Fausbøll,2,1961-04-03,,12,63
+566734,Poul Thomsen,2,1922-02-15,1988-12-16,35,66
+567202,Flemming Quist Møller,0,1942-05-19,,6,82
+568257,Jean-Claude Barny,2,1965-04-18,,3,59
+568824,Helle Merete Sørensen,1,1946-02-21,2023-11-19,10,77
+568825,Ulla Jessen,1,1946-11-21,,13,78
+568832,Lars Høy,2,1946-11-12,,5,78
+568833,Pierre Miehe-Renard,2,1945-03-29,,3,79
+568834,Søren Strømberg,2,1944-11-27,2001-05-09,20,56
+568835,Hardy Rafn,2,1930-09-17,1997-01-23,13,66
+568841,Jens Brenaa,2,1940-01-11,,5,84
+568844,Lotte Tarp,1,1945-02-14,2002-10-24,11,57
+568845,Lise Schrøder,1,1946-10-08,,16,78
+568846,Lise Henningsen,1,1931-09-05,2019-01-28,17,87
+568916,Lille Palle,2,1942-09-19,,2,82
+568917,Cæsar,2,1938-05-15,2000-04-22,2,61
+568921,Rasmus Christiansen,2,1885-05-23,1964-09-25,17,79
+568922,Henry Nielsen,2,1890-11-01,1967-05-12,77,76
+568927,Inge Ketti,1,1923-08-01,2012-10-24,13,89
+568929,Inge-Lise Grue,1,1920-03-10,2000-03-21,3,80
+568934,Ib Fürst,2,1923-05-20,1976-06-25,11,53
+568936,Winnie Mortensen,1,1963-01-31,,3,61
+568937,Lotte Horne,1,1943-06-03,,6,81
+568938,Arne Møller,2,1923-01-28,1992-06-12,4,69
+568939,Ernst Meyer,2,1932-03-02,2008-05-21,21,76
+568940,Inger Gleerup,1,1933-04-05,1992-07-07,5,59
+569324,Carl Reinholdz,0,1909-09-19,1973-11-24,1,64
+569353,Oskar Bökelmann,2,1997-01-01,,1,27
+569516,Gösta Holmström,2,1922-08-09,2014-08-02,1,91
+570205,Karen Lykkehus,1,1904-10-22,1992-10-25,19,88
+570275,Laura Østergaard Buhl,1,1992-05-12,,1,32
+570276,Lukas Schwarz Thorsteinsson,0,1991-10-08,,4,33
+570277,Clara Maria Bahamondes,1,1996-07-05,,4,28
+570298,Balder Beyer,2,1983-01-01,,1,41
+570733,Sture Lagerwall,2,1908-12-13,1964-11-01,1,55
+571238,Anders Lunden Kjeldsen,2,1989-08-06,,2,35
+571346,Carsten Bjørnlund,2,1973-06-28,,11,51
+571496,Kim Larsen,2,1945-10-23,2018-09-30,5,72
+571497,Holger Boland,2,1905-01-14,1989-11-11,10,84
+571693,Bengt Logardt,0,1914-10-09,1994-09-25,1,79
+572207,Georg Årlin,2,1916-12-30,1992-06-27,1,75
+572299,Mikael Bertelsen,2,1967-10-05,,6,57
+573737,Arnold Oceng,0,1985-11-30,,1,39
+574265,Christian Grønvall,2,1970-04-09,,11,54
+575484,Hans Lindgren,2,1932-01-06,2012-11-02,1,80
+576477,Percy Brandt,2,1922-11-07,2005-12-04,1,83
+578058,Knud Rex,2,1912-03-30,1968-12-24,11,56
+578059,Pål Skjønberg,2,1919-10-20,2014-02-03,1,94
+578060,Else Heiberg,1,1910-11-05,1972-11-25,1,62
+578061,Lise Fjeldstad,1,1939-06-17,,2,85
+578088,Sanne Salomonsen,1,1955-12-30,,4,69
+578339,Daimi,1,1944-01-01,,11,80
+578532,Gösta Ekman,2,1890-12-27,1938-01-12,1,47
+578949,Erik Mørk,2,1925-12-03,1993-01-27,10,67
+578951,Arne Westermann ,2,1912-03-22,1986-03-14,22,73
+578957,Gyda Hansen ,1,1938-02-07,2010-08-20,16,72
+578958,Ejner Federspiel,2,1896-08-12,1981-11-21,31,85
+578959,Preben Neergaard,2,1920-05-03,1990-07-22,27,70
+578961,Caja Heimann,1,1918-12-07,1988-08-12,15,69
+578965,Søren Elung Jensen,2,1928-07-07,2017-01-22,10,88
+578966,Henning Palner,2,1932-07-18,2018-12-20,20,86
+578967,Bent Thalmay,2,1935-04-21,1987-12-12,4,52
+578968,Ole Wisborg,2,1925-08-14,1978-12-20,13,53
+578969,Christoffer Bro,2,1935-10-30,,11,89
+578971,Christen Møller,0,1895-09-02,1972-08-06,4,76
+578972,Peter Kitter,0,1915-03-01,1983-10-05,8,68
+578973,Hans-Henrik Krause,2,1918-03-13,2002-04-15,14,84
+578975,Jan Priiskorn Schmidt,2,1951-02-22,,21,73
+578976,Gunnar Strømvad,2,1908-05-12,1972-12-06,26,64
+578977,Alex Suhr,0,1898-10-07,1964-05-29,17,65
+578978,Anker Taasti,0,1929-12-27,2006-02-13,6,76
+578979,Mogens Hermansen,2,1931-02-02,2021-08-30,6,90
+578983,Otto Møller Jensen,2,1941-07-31,1996-03-12,10,54
+578985,Arne-Ole David,2,1894-06-04,1977-01-04,3,82
+578987,Julie Grønlund,0,1922-04-02,1999-09-13,5,77
+578988,Ingeborg Brams,1,1929-12-09,1989-10-14,3,59
+578989,Else Højgaard,1,1906-04-18,1979-07-11,6,73
+578991,Inge Hvid-Møller,1,1912-06-10,1970-02-18,5,57
+578993,Aage Fønss,2,1887-12-12,1976-09-30,17,88
+578997,Søren Weiss,2,1922-10-22,2001-03-22,4,78
+578999,Karen Marie Løwert,1,1914-01-27,2002-02-04,19,88
+579002,Ellen Gottschalch,1,1894-05-02,1984-10-17,14,90
+579003,Knud Heglund,2,1894-07-10,1960-09-01,22,66
+579006,Keld Markuslund,2,1921-07-09,1972-10-20,12,51
+579007,Svend Bille,2,1888-07-15,1973-04-03,28,84
+579013,Lilian Ellis,1,1907-05-25,1951-02-21,2,43
+579016,Poul Reumert,2,1883-03-27,1968-04-20,12,85
+579025,Inger Lassen,0,1911-07-27,1957-12-29,11,46
+579026,Angelo Bruun,2,1898-07-15,1956-03-30,9,57
+579027,Kai Holm,2,1896-03-04,1985-07-10,27,89
+579028,Annemette Svendsen,1,1928-11-16,2013-12-26,7,85
+579029,Lili Heglund,0,1904-09-05,1992-10-03,15,88
+579030,Kjeld Petersen,2,1920-07-01,1962-05-24,28,41
+579031,Birgitte Reimer,1,1926-02-08,,12,98
+579032,Christian Arhoff,2,1893-01-26,1973-08-09,24,80
+579034,Tove Wisborg,1,1936-12-15,1991-04-23,4,54
+579035,Kirsten Saerens,1,1938-02-02,2011-01-26,3,72
+579134,Palle Huld,2,1912-08-02,2010-11-26,17,98
+579135,Einar Reim,0,1897-01-01,1971-12-13,5,74
+579136,Ole Walbom,2,1919-06-10,1988-12-10,1,69
+579137,Einar Juhl,2,1896-04-08,1982-06-01,26,86
+579138,Valsø Holm,2,1906-01-30,1987-01-19,47,80
+579139,Børge Møller Grimstrup,0,1906-02-15,1972-10-30,16,66
+579140,Jørgen Krogh,2,1935-07-22,1994-01-28,8,58
+579142,Birgitte Price,1,1934-04-29,1997-07-17,16,63
+579143,Jørgen Bidstrup,2,1928-04-01,1992-09-30,7,64
+579144,Jørgen Weel,2,1922-08-13,1993-06-16,16,70
+579147,Ebba Amfeldt,1,1902-12-21,1974-06-02,23,71
+579150,Thecla Boesen,1,1910-08-22,1996-02-11,18,85
+579151,Walt Rosenberg,2,1918-06-29,1981-10-13,2,63
+579153,Grethe Sønck,1,1929-07-16,2010-02-12,10,80
+579154,Inger Stender,1,1912-07-07,1989-06-26,19,76
+579156,Susanne Bruun-Koppel,0,1936-09-01,,2,88
+579157,Folmer Rubæk,2,1940-04-20,2016-08-20,11,76
+579158,Else Petersen,1,1910-04-26,2002-08-28,30,92
+579159,Lise Thomsen,1,1914-12-26,2003-11-26,22,88
+579160,Mogens Brandt,2,1909-03-01,1970-01-21,23,60
+579162,Ellen Staal,1,1944-08-10,2018-09-17,3,74
+579163,Erik Olsson,2,1892-09-21,1979-05-01,2,86
+579164,Victor Montell,2,1886-09-25,1967-10-26,11,81
+579166,Sigfred Johansen,2,1907-05-31,1953-07-18,8,46
+579170,Sigurd Langberg,2,1897-10-29,1954-07-08,31,56
+579173,Gunnar 'Nu' Hansen,2,1905-10-20,1993-01-05,3,87
+579174,Aage Foss,2,1885-05-18,1952-02-08,13,66
+579178,Susanne Friis,1,1888-01-07,1988-09-07,1,100
+579180,Clara Østø,1,1911-01-14,1983-05-20,12,72
+579183,Lau Lauritzen Jr.,2,1910-06-26,1977-05-12,19,66
+579184,Carl Johan Hviid,2,1899-06-27,1964-10-21,23,65
+579186,Per Gundmann,2,1906-01-30,1967-10-06,7,61
+579187,Tove Grandjean,1,1908-12-21,1997-11-20,3,88
+579188,Birgit Brüel,1,1927-10-06,1996-10-23,12,69
+579191,Charlotte Ernst,1,1939-12-13,1963-06-11,3,23
+579192,Marianne Wesén,1,1940-01-23,,3,84
+579197,Ebba With,1,1908-01-15,1993-03-04,17,85
+579199,Søren Rode,2,1935-12-10,2023-06-21,13,87
+579200,Karl Gustav Ahlefeldt,2,1910-03-13,1985-03-25,11,75
+579203,Pouel Kern,2,1908-06-09,1993-02-17,20,84
+579204,Lene Brøndum,1,1947-06-26,,17,77
+579205,Michael Lindvad,2,1940-05-25,,6,84
+579206,Lise-Lotte Norup,1,1951-04-12,,13,73
+579207,Pia Jondal,1,1954-02-11,,3,70
+579208,Georg Philipp,2,1912-06-21,1995-11-08,13,83
+581045,Leida Rammo,1,1924-04-18,2020-07-23,1,96
+582051,Frederikke Dahl Hansen,1,1994-03-26,,6,30
+582341,Birgitte Simonsen,1,1960-10-16,,9,64
+582342,Morten Eisner,2,1954-06-13,,4,70
+582346,Morten Staugaard,2,1967-12-18,,1,57
+582347,Mads Knarreborg,2,1978-05-10,,9,46
+582614,Aleksandra Yermak,1,1978-12-12,,1,46
+583036,Rasmus Lyberth,2,1951-08-21,,1,73
+583544,Aksel Leth,2,1988-05-30,,4,36
+584141,Lars Lohmann,2,1948-02-05,,9,76
+584142,Joachim Knop,2,1971-12-01,,15,53
+585182,Mads Brügger,2,1972-06-24,,2,52
+585954,Pernille Kaae Høier,1,1991-05-09,,2,33
+585955,Mikkel Konyher,2,1989-04-06,,3,35
+586058,Peder Pedersen,2,1971-04-26,,1,53
+587064,Rita Angela,1,1933-07-16,2020-11-17,14,87
+587076,Morten Hovman,2,1949-03-25,,1,75
+587077,Beth Lendorf,1,1948-08-31,,2,76
+587169,Hadi Ka-Koush,2,1983-07-07,,7,41
+587170,Lærke Winther,1,1975-09-23,,24,49
+587171,Brian Lykke,2,1976-04-23,,7,48
+587708,Niels Hinrichsen,2,1942-06-02,,9,82
+588174,Julie Zangenberg,1,1988-11-30,,6,36
+588175,Lars Ranthe,2,1969-08-26,,35,55
+588176,Annika Aakjær,1,1982-07-06,,4,42
+588177,Morten Kirkskov,2,1963-03-28,,9,61
+588239,Kirsten Peüliche,1,1943-08-23,,11,81
+588244,Terese Damsholt,1,1947-06-30,,4,77
+588692,Eva Podzimková,1,1990-02-03,,1,34
+589027,Marie Hammer Boda,1,1996-04-27,,5,28
+589037,Lone Elliot,1,1967-07-30,,2,57
+589070,Christian Heldbo Wienberg ,2,1991-12-13,,6,33
+589317,Carsten Knudsen,2,1959-03-19,,1,65
+589318,Viggo Sommer,2,1957-01-28,,2,67
+589319,Uffe Rørbæk Madsen,2,1961-06-22,,4,63
+590654,Mary Kid,1,1904-08-08,1986-10-29,1,82
+590995,Carl Walther Meyer,2,1898-02-01,1949-01-01,1,50
+591055,Hugo Flink,2,1879-08-16,1947-05-02,1,67
+591198,Carl Schenstrøm,2,1881-11-13,1942-04-10,35,60
+591199,Harald Madsen,2,1890-11-20,1949-07-13,28,58
+591209,Morten Holst,2,1982-11-02,,14,42
+591234,Jan Schmidt,2,1934-01-03,2019-09-27,1,85
+591240,Dorota Pomykała,1,1956-07-03,,1,68
+591274,Monika Krzywkowska,1,1973-02-23,,1,51
+591295,Marcin Dorociński,2,1973-06-22,,2,51
+591403,Dorota Kamińska,1,1957-06-07,,1,67
+592040,David Owe,2,1977-12-02,,3,47
+592085,Antonín Hardt,2,1935-08-05,,1,89
+592125,Ilselil Larsen,1,1934-07-01,,7,90
+592132,John Wittig,2,1921-10-27,1987-10-23,17,65
+592133,Svend Methling,2,1891-10-01,1977-06-04,18,85
+592134,Mette von Kohl,1,1917-06-29,1975-03-24,5,57
+592139,Betty Helsengreen,1,1914-10-26,1956-12-29,14,42
+592142,Kirsten Passer,1,1930-03-13,2012-03-22,23,82
+592144,Carl Alstrup,2,1877-04-11,1942-10-02,5,65
+592161,Bodil Steen,1,1923-01-14,1979-01-10,16,55
+592171,Beatrice Bonnesen,1,1906-10-21,1979-01-19,9,72
+592172,Poul Rohde,2,1899-12-17,1978-03-12,4,78
+592175,Ulla Lock,1,1934-04-19,2012-09-20,8,78
+592186,Katy Valentin,1,1902-03-29,1970-05-30,12,68
+592223,Bent Vejlby,2,1924-03-20,2020-08-31,22,96
+618514,Gitte Rugaard,1,1966-05-04,,2,58
+927700,Waage Sandø,2,1943-05-08,,19,81
+928902,Svend Asmussen,2,1916-02-28,2017-02-07,3,100
+928903,Ulrik Neumann,2,1918-10-23,1994-06-28,3,75
+929097,Katrin Weisser,1,1975-05-03,,2,49
+929608,Magnus Samuelsson,2,1969-12-21,,1,55
+930595,Morten Schaffalitzky,2,1975-04-20,,4,49
+931611,Malin Crépin,1,1978-08-22,,1,46
+931624,Ninna Cederholm,1,1974-04-13,,2,50
+932286,Stina Hedberg,1,1887-08-21,1981-11-20,1,94
+933020,Kjell Nilsson,2,1949-12-19,,1,75
+934951,Trini Lund,1,1951-01-23,,1,73
+934966,Henrik Wiehe,2,1927-02-09,1987-07-01,20,60
+934970,Solveig Sundborg,1,1910-03-14,2002-07-22,17,92
+935037,Greta Nissen,1,1906-01-30,1988-05-15,2,82
+935326,Klavdiya Kozlyonkova,1,1926-09-25,2005-08-08,1,78
+935445,Kirsten Rolffes,1,1928-09-20,2000-04-10,20,71
+935774,Jytte Abildstrøm,1,1934-03-25,2025-01-02,19,90
+935779,Vera Stricker,1,1935-07-04,1960-09-10,6,25
+935792,Anja Owe,1,1962-08-24,,3,62
+935804,Frederik van Pallandt,2,1934-05-04,1994-05-15,2,60
+935808,Povl Wøldike,2,1899-08-13,1975-07-25,21,75
+935813,Erling Schroeder,2,1904-03-01,1989-10-17,12,85
+936159,Lena Nilsson,1,1962-01-04,,1,62
+936415,Kim Kold,2,1965-08-25,,5,59
+936707,Elisabeth Bukkehave,1,1954-09-10,,1,70
+936768,Eik Koch,2,1914-06-07,1982-10-28,7,68
+936771,Ellen Winther Lembourn,1,1933-08-11,2011-08-13,6,78
+936773,Susanne Jagd,1,1943-09-28,,16,81
+936774,Edward Fleming,2,1924-07-24,1992-06-12,16,67
+936775,Osvald Helmuth,2,1894-07-14,1966-03-18,11,71
+936776,Berthe Qvistgaard,1,1910-08-11,1999-10-23,13,89
+936779,Richard Christensen,2,1887-04-01,1944-09-18,11,57
+936783,Peter Nielsen,2,1876-12-02,1949-09-26,24,72
+936785,Ellen Jansø,1,1906-07-02,1981-12-30,7,75
+936786,Ellen Margrethe Stein,1,1893-10-08,1979-03-29,27,85
+936789,Julie Wieth,1,1960-11-13,,13,64
+936792,Ingrid Langballe,1,1900-01-30,1975-03-21,8,75
+936793,Anne Grete Hilding,1,1924-02-21,2007-01-27,7,82
+936802,William Bewer,2,1867-01-16,1965-06-04,8,98
+937041,Helena Christensen,1,1968-12-25,,2,56
+937065,Jonas Hoff Oftebro,2,1996-05-07,,1,28
+937651,Julie Kolbech,1,1991-10-22,,1,33
+938253,Jørgen Reenberg,2,1927-11-08,2023-11-09,15,96
+938265,Ole Neumann,2,1947-10-16,,13,77
+938308,Niels Hausgaard,2,1944-08-31,,3,80
+938432,JR Reed,2,1967-12-13,,1,57
+938722,Ole Fick,2,1948-01-01,,3,76
+938726,Morten Gundel,2,1984-03-29,,7,40
+938727,Stephania Potalivo,1,1986-09-26,,10,38
+940958,Alberto Estrella,2,1962-09-23,,1,62
+955272,María Rojo,1,1943-08-15,,1,81
+957114,Suzanne Bjerrehuus,1,1948-02-22,,2,76
+963540,Louise Frevert,1,1953-05-31,,2,71
+975645,Mogens Wieth,2,1919-09-16,1962-09-10,16,42
+983929,Laure Calamy,1,1975-03-22,,1,49
+985222,Lone Gersel,1,1943-04-16,,2,81
+985253,Stanley Van Beers,2,1911-05-04,1961-05-25,1,50
+985309,Faith Thrue,1,1945-01-27,,3,79
+987400,Anna Milewska,1,1931-02-21,,1,93
+992126,Leon Seidel,2,1996-11-22,,1,28
+995536,Joe Tödtling,2,1979-10-20,,1,45
+996562,Tomáš Racek,2,1974-02-12,,1,50
+996689,Heihachirō Ōkawa,2,1905-09-09,1971-05-27,1,65
+996696,Jacob Wilson,2,1979-09-27,,1,45
+997650,Alexander Öhrstrand,2,1978-09-22,,2,46
+999630,Niels Nørløv Hansen,2,1973-02-28,,1,51
+1001124,Sanne Graulund,1,1965-05-29,,1,59
+1001466,Lene Poulsen,1,1958-07-13,,3,66
+1004633,Laure Paillette,1,1896-10-05,1968-03-14,1,71
+1004720,Georgina Castro,1,1981-02-04,,1,43
+1007545,Isabel de Castro,1,1931-08-01,2005-11-23,1,74
+1009300,Ivan Bekjarev,2,1946-04-06,2020-11-16,1,74
+1010811,Lillian Tillegreen,1,1925-12-24,2002-01-10,12,76
+1010903,Emil Johnsen,2,1978-05-26,,1,46
+1011088,Julie Carlsen,1,1968-04-20,,7,56
+1011094,Pelle Koppel,2,1968-03-23,,7,56
+1013048,Theo Barklem-Biggs,2,1990-03-21,,1,34
+1013156,Mikkel Boe Følsgaard,2,1984-05-01,,13,40
+1014913,Pino Ammendola,0,1951-12-02,,1,73
+1016025,Peter Eggers,2,1980-01-14,,2,44
+1017401,Sigrid Neiiendam,1,1868-06-01,1955-01-25,3,86
+1017478,Halvard Hoff,2,1884-04-10,1925-11-01,2,41
+1017482,Viggo Wiehe,2,1874-12-23,1956-11-30,9,81
+1017484,Hugo Bruun,2,1888-04-30,1962-04-04,2,73
+1017488,Carlo Wieth,2,1885-12-11,1943-06-30,17,57
+1017712,George Schnéevoigt,2,1893-12-23,1961-02-06,1,67
+1017884,Thorkild Roose,2,1874-10-09,1961-06-06,7,86
+1018020,Hans Kristensen,2,1941-09-25,,2,83
+1018021,Mette Lisby,1,1968-05-04,,1,56
+1018024,Sanne Grangaard,1,1961-07-28,,3,63
+1018051,Birgitte Stærmose,1,1963-10-18,,1,61
+1021399,Elsebeth Reingaard,1,1947-09-16,2004-05-23,3,56
+1022633,Jarl Kulle,2,1927-02-27,1997-10-03,3,70
+1024853,Bo Løvetand,2,1953-11-17,,3,71
+1024856,Ole Meyer,2,1959-05-15,2018-08-30,12,59
+1024871,Palle Kjærulff-Schmidt,2,1931-07-07,2018-03-14,1,86
+1024877,Kasper Winding,2,1956-06-21,,1,68
+1024951,Frederik Meldal Nørgaard,2,1976-02-04,,8,48
+1025530,Lars Kjeldgård,2,1956-09-06,2010-06-03,1,53
+1025532,Kåre Bjerkø,2,1965-11-12,,1,59
+1025543,Micky Skeel Hansen,2,1988-12-23,,6,36
+1025544,Nastja Arcel,1,1963-10-03,,10,61
+1025545,Benjamin Boe Rasmussen,2,1966-09-30,,17,58
+1025546,Lars Lunøe,2,1936-04-19,2023-10-09,20,87
+1025577,Inge Aasted,1,1918-08-24,1981-11-02,1,63
+1025578,Jakob Nielsen,2,1900-06-08,1979-04-04,36,78
+1026019,Casper Crump,2,1977-07-11,,6,47
+1026079,Elith Nulle Nykjær,2,1937-02-08,,7,87
+1026344,Johan Jacobsen,2,1912-03-14,1972-07-07,4,60
+1026345,Annelise Hovmand,1,1924-09-17,2016-12-28,1,92
+1026346,Jens Østerholm,2,1928-04-25,2006-11-13,7,78
+1026353,Nijas Ørnbak-Fjeldmose,2,1983-08-15,,2,41
+1026355,Nikolaj Peyk,2,1966-07-22,,1,58
+1027700,Charlotte Munksgaard,1,1958-07-14,,5,66
+1027816,Carla Mickelborg,1,1988-11-02,,7,36
+1030318,Jan Lysdahl,2,1961-07-21,,1,63
+1030328,Anne Marie Helger,1,1946-02-12,,10,78
+1030330,Søren Christensen,2,1961-04-03,,5,63
+1030331,Eddie Skoller,2,1944-06-04,2023-08-27,1,79
+1030332,Jørgen Olsen,2,1950-03-15,,1,74
+1030334,Søren Steen,2,1942-08-22,,17,82
+1030335,Simon Rosenbaum,2,1926-03-17,2015-07-19,5,89
+1032118,Finn Nørbygaard,2,1953-03-08,,6,71
+1032120,Gerard Carey Bidstrup,2,1968-10-02,,7,56
+1032396,Jens Andersen,2,1971-03-28,,11,53
+1032397,Jacob Ottensten,2,1998-08-12,,4,26
+1032398,Fanny Leander Bornedal,1,2000-07-24,,7,24
+1033064,Francesc Garrido,2,1969-09-07,,1,55
+1034327,Dario Campeotto,2,1939-02-01,2023-04-01,7,84
+1034328,Kaya Brüel,1,1972-08-30,,7,52
+1034329,Lone Kellerman,1,1943-03-20,2005-04-30,7,62
+1034331,Sissel Kyrkjebø,1,1969-06-24,,1,55
+1034336,Amalie Ihle Alstrup,1,1980-06-14,,7,44
+1034338,Ina-Miriam Rosenbaum,1,1959-06-11,,6,65
+1034508,Ole Dupont,2,1948-06-17,,30,76
+1034685,Cosmina Stratan,1,1984-10-20,,1,40
+1034715,Hanne Willumsen,1,1939-12-05,,1,85
+1035890,Eric Malmberg,2,1888-02-08,1951-04-06,1,63
+1036401,Klaus Tange,2,1962-07-07,,3,62
+1037348,Louis Hofmann,2,1997-06-03,,1,27
+1038466,Christina Ibsen Meyer,1,1966-08-10,,5,58
+1038577,Lill Lindfors,1,1940-05-12,,1,84
+1039138,Jesper 'Jokeren' Dahl,2,1973-06-13,,2,51
+1039140,Christian Mosbæk,2,1957-09-01,,9,67
+1039954,Rudi Hansen,1,1943-10-27,,9,81
+1040932,Ella La Cour,1,1854-01-31,1935-06-29,5,81
+1041210,Anthony Straeger,2,1959-06-11,,2,65
+1041545,Bjarne Henning-Jensen,2,1908-10-06,1995-02-21,2,86
+1041547,Lykke Nielsen,1,1946-06-22,2006-08-29,7,60
+1042841,Björn Gustafsson,2,1986-02-19,,1,38
+1042844,Elmira Arikan,1,1984-07-30,,1,40
+1043651,Andreas Lyon,2,1971-05-11,,1,53
+1045277,Louise Fribo,1,1970-07-03,,4,54
+1045279,Mona Mårtenson,1,1902-05-05,1956-07-08,1,54
+1045280,Lene Vasegaard,1,1940-02-09,,17,84
+1045281,Birgit Conradi,1,1939-05-20,,7,85
+1045282,Margrethe Koytu,1,1946-06-28,,17,78
+1045284,Astrid Henning-Jensen,1,1914-12-10,2002-01-05,4,87
+1045288,Helle Ryslinge,1,1944-01-10,,15,80
+1045290,Kjeld Løfting,2,1950-09-21,2006-11-05,6,56
+1045291,Thomas Hedemann,2,1964-04-12,,3,60
+1045294,Hans Kragh-Jacobsen,2,1945-06-21,,5,79
+1045301,Inge Sofie Skovbo,1,1953-03-04,,7,71
+1045302,Ulla Henningsen,1,1951-03-07,,12,73
+1045303,Pernille Hansen,1,1959-03-27,,3,65
+1045321,Sonja Wigert,1,1913-11-11,1980-04-12,3,66
+1047649,Ed Skrein,2,1983-03-29,,1,41
+1047987,Jane Thomsen,1,1939-04-15,,6,85
+1047988,Tage Axelson,2,1933-12-29,,6,91
+1047989,Ole Søgaard,2,1936-10-05,2002-12-15,4,66
+1047990,Henning Karmark,2,1907-12-17,1989-01-11,1,81
+1048131,Peter Marcell,2,1932-02-23,1996-01-27,7,63
+1054388,Søren Spanning,2,1951-05-30,2020-02-12,17,68
+1054389,Bebiane Ivalo Kreutzmann,1,1998-04-06,,5,26
+1059187,Henrik Bentzon,2,1895-05-05,1971-09-28,3,76
+1059290,Gull-Maj Norin,1,1913-04-20,1997-11-27,9,84
+1059294,Karen Poulsen,1,1881-05-10,1953-02-15,12,71
+1059772,Rodrigo DeMedeiros,2,1970-10-09,,1,54
+1061943,Hilmar Guðjónsson,2,1981-07-18,,1,43
+1062279,Lise-Lotte Rao,1,1962-04-01,,1,62
+1065721,Burkhard Forstreuter,2,1959-03-09,,1,65
+1065730,Henrik Ipsen,2,1966-12-01,,1,58
+1065735,Anders Valentinus Dam,2,1970-12-27,,7,54
+1066130,Lars Thiesgaard,2,1959-03-07,,3,65
+1066196,Åke Engfeldt,2,1913-11-01,1977-03-13,2,63
+1066792,Annegrethe Nissen,1,1932-03-08,2013-02-23,2,80
+1066802,Inger Sundh,1,1946-02-28,,1,78
+1068313,Johan H:son Kjellgren,2,1959-01-06,,1,65
+1068887,Thomas Baldus,2,1969-10-25,,2,55
+1068891,Sami Darr,2,1978-01-07,,6,46
+1068893,Peter Pilegaard,2,1972-10-31,,2,52
+1069590,Marcuz Jess Petersen,2,1998-05-24,,5,26
+1069591,Tina Bilsbo,1,1972-06-05,,3,52
+1069593,Mads Lisby,2,1974-05-23,,3,50
+1069595,Anne Moen,1,1982-12-18,,2,42
+1069765,Lotta Tejle,1,1960-03-17,,1,64
+1071485,Maja Muhlack,1,1977-05-25,,3,47
+1071488,Barbara Zatler,1,1980-11-07,2019-07-07,3,38
+1073084,Carl Fischer,2,1876-10-09,1953-08-07,5,76
+1073181,Brigitte Christensen,1,1957-06-28,,2,67
+1073841,Einar Hanson,2,1899-06-14,1927-06-03,1,27
+1074060,Erik Madsen,2,1975-09-03,,1,49
+1074440,Søren Lenander,2,1961-04-17,,7,63
+1074515,Stina Berg,1,1869-10-21,1930-10-05,3,60
+1076809,Luka Peroš,2,1976-10-28,,1,48
+1077289,Laura Winther Møller,0,1996-01-25,,2,28
+1077853,Anthony Michael,2,1952-01-18,1990-02-15,4,38
+1078371,Yadigar Ejder,2,1951-10-05,1991-03-04,1,39
+1078977,Laurits Munch-Petersen,2,1973-07-19,,1,51
+1078979,Danica Ćurčić,1,1985-08-27,,14,39
+1078980,Johannes Nymark,2,1986-01-21,,8,38
+1079281,Cecília Guimarães,1,1927-05-28,2021-02-02,1,93
+1079282,Adelaide João,1,1921-07-27,2021-02-03,1,99
+1079901,Gunnar Sommerfeldt,2,1890-09-04,1947-08-30,3,56
+1079967,Torben Chris,2,1977-02-13,,2,47
+1080028,Lucas Hansen,2,1979-04-24,,1,45
+1080217,Christian Lund,2,1943-09-07,2007-01-08,1,63
+1080366,Janus Nabil Bakrawi,2,1974-12-23,,10,50
+1080653,Rafael Pettersson,2,1976-12-22,,1,48
+1081068,Tinna Hrafnsdóttir,1,1975-08-25,,1,49
+1083424,Tadeusz Szymków,2,1958-03-30,2009-01-10,1,50
+1086475,Michael Bille Frandsen,2,1968-08-11,,4,56
+1086476,Marianne Moritzen,1,1959-03-16,,3,65
+1086977,A.W. Sandberg,2,1887-05-22,1938-03-27,1,50
+1086978,Karina Bell,1,1898-09-26,1979-06-05,13,80
+1086979,Kate Fabian,1,1870-10-06,1929-04-08,5,58
+1086981,Olga Belajeff,1,1900-03-15,1976-01-01,3,75
+1086983,Aage Bendixen,2,1887-06-16,1973-12-30,7,86
+1086984,Egill Rostrup,2,1876-03-16,1940-08-03,7,64
+1086985,Gorm Schmidt,2,1897-12-29,1957-09-29,9,59
+1087000,Nicolai Jandorf Klok,2,1980-03-14,,7,44
+1087001,Jesper Hyldegaard,2,1961-01-18,,11,63
+1089462,Ingrid Sattes,1,1967-01-01,,1,57
+1090062,Sarah-Sofie Boussnina,1,1990-12-28,,8,34
+1090063,Mette Gregersen,2,1989-07-27,,4,35
+1090744,Else kornerup,1,1917-07-05,1988-12-04,8,71
+1090808,Joseph Goebbels,2,1897-10-29,1945-05-01,1,47
+1091534,Michael Poulsen,2,1975-04-01,,1,49
+1091536,Jon Larsen,2,1970-07-13,,1,54
+1093537,Hanna Ralph,1,1888-09-25,1978-03-25,1,89
+1093644,Saswata Chatterjee,2,1970-12-19,,1,54
+1095754,Knud Hallest,2,1909-05-12,1991-09-04,27,82
+1095755,Else-Marie Juul Hansen,1,1904-10-19,2003-08-12,26,98
+1095757,Else Hvidhøj,1,1937-11-21,1987-09-13,3,49
+1095775,Dianna Vangsaa,1,1945-06-06,,2,79
+1095801,Preben Mahrt,2,1920-07-28,1989-12-19,37,69
+1096115,Flemming Larsen,2,1951-06-08,2016-08-18,2,65
+1096143,Edouard Mielche,2,1905-08-08,1969-02-18,11,63
+1096153,Anne Jerichow,1,1934-02-08,2004-11-20,1,70
+1096156,Connie Meiling,1,1930-11-29,,5,94
+1096885,Claus Bender Mortensen,2,1969-03-26,,1,55
+1096886,Thomas Sigsgaard,2,1966-07-20,,1,58
+1096887,Thomas Elholm,2,1969-07-15,,1,55
+1096916,Morten Stig Christensen,2,1958-12-27,,1,66
+1098420,Guglielmo Inglese,2,1892-11-24,1962-01-01,1,69
+1098483,Niels Gråbøl,2,1966-08-11,,1,58
+1098498,Erni Arneson,1,1917-09-12,2006-12-08,16,89
+1098502,Elsebet Knudsen,1,1936-02-05,,2,88
+1098508,Poul Clemmensen,2,1922-01-06,1998-09-16,8,76
+1098511,Thorkild Demuth,2,1927-03-28,2017-06-03,3,90
+1098516,Benny Juhlin,2,1925-09-09,2010-01-07,12,84
+1098520,Valdemar Schiøler Linck,2,1878-10-26,1952-09-06,6,73
+1098521,Jacoba Jessen,1,1888-12-23,1978-01-07,5,89
+1098523,Elith Foss,2,1911-08-08,1972-04-19,14,60
+1098524,Gunnar Lemvigh,2,1909-03-28,1979-11-08,29,70
+1100011,Slimane Dazi,2,1960-05-16,,1,64
+1102676,Teresa Sawicka,1,1949-06-01,,1,75
+1104951,Joi Johannsson,2,1971-11-23,,1,53
+1105395,Liva Weel,1,1897-12-31,1952-05-22,3,54
+1105398,Betty Söderberg,1,1910-11-06,1993-10-27,5,82
+1105399,Børge Munch Petersen,2,1901-03-15,1942-08-21,1,41
+1105402,Robert Schmidt,2,1882-04-27,1941-11-17,10,59
+1105403,Knud Rassow,2,1881-05-15,1952-03-03,2,70
+1105404,Christian Schrøder,2,1869-07-13,1940-12-10,17,71
+1105784,Kristo Ferkic,2,1998-08-17,,1,26
+1106062,Arne Weel,2,1891-01-15,1975-10-02,8,84
+1106067,Suzanne Bech,1,1936-06-30,,3,88
+1106068,Grethe Mogensen,1,1937-05-25,,5,87
+1106069,Birte Størup Hansen,1,1934-07-28,,1,90
+1106160,Holger Perfort,2,1925-06-09,2023-04-29,21,97
+1106582,Amin Jensen,2,1970-01-22,,1,54
+1106964,Jan Bijvoet,2,1966-12-28,,1,58
+1108723,Fady Elsayed,2,1993-09-15,,1,31
+1110937,Amalie Dollerup,1,1986-04-05,,3,38
+1111176,Lisa Carlehed,1,1979-07-15,,8,45
+1112410,Sieger Sloot,2,1977-10-31,,1,47
+1114530,Asta Esper Hagen Andersen,1,1919-07-19,2012-06-24,17,92
+1114985,Oscar Ljung,2,1909-09-06,1999-04-29,2,89
+1115153,Guri Richter,1,1917-07-07,1995-08-21,11,78
+1115156,Peter Reichhardt,2,1967-01-07,,11,57
+1116454,Anne Grete Nissen,1,1946-12-14,2018-05-01,2,71
+1116456,Niels Borksand,0,1943-10-11,,6,81
+1116458,Niels Dybeck,2,1936-07-13,2003-04-11,1,66
+1116665,Gert Bastian,2,1915-08-22,1987-06-26,5,71
+1117002,Bodil Miller,1,1928-04-14,2017-09-16,6,89
+1119435,Anne Oppenhagen Pagh,1,1974-04-25,,5,50
+1119436,Michel Castenholt,2,1956-07-09,,4,68
+1119437,Mette Marckmann,1,1967-04-04,,5,57
+1119438,Stig Hoffmeyer,2,1940-05-27,2022-11-25,28,82
+1119442,Malin Birch-Jensen,1,1952-10-17,,1,72
+1120294,Tomasz Zaliwski,2,1929-12-15,2006-07-13,1,76
+1121237,Jeanette Swensson,1,1945-07-21,,7,79
+1122814,Marie Caroline Schjeldal,1,1977-04-14,,5,47
+1122815,Stefania Omarsdottir,1,1976-09-04,,3,48
+1122817,Laila Andersson,1,1938-05-28,2021-11-02,6,83
+1122818,David Garmark,2,1972-02-10,,1,52
+1122831,Stanislav Sevcik,2,1971-05-01,,7,53
+1122833,Jan Tjerrild,2,1965-01-31,,5,59
+1123821,Trine Gadeberg,1,1969-01-30,,1,55
+1125871,Jens Arentzen,2,1958-03-02,2022-11-22,12,64
+1126205,Jørgen Roos,2,1922-08-14,1998-09-13,1,76
+1127440,Isidor Torkar,2,1960-08-17,,3,64
+1127442,Christoffer Barnekov,2,1940-04-13,2018-01-05,1,77
+1127450,Pernille Grumme,1,1946-10-24,,7,78
+1127462,Ulla Gottlieb,1,1945-03-31,,3,79
+1127466,Troels II Munk,2,1944-10-19,2023-06-23,16,78
+1127467,Carl Press,2,1948-06-06,2013-04-07,1,64
+1127468,Christer Sjögren,2,1950-04-06,,1,74
+1129187,Karen Caspersen,1,1890-08-21,1941-05-14,8,50
+1130836,Ruben Søltoft,2,1987-08-17,,2,37
+1132198,Wilson Grey,2,1923-12-10,1993-10-03,1,69
+1132567,Hanne Løye,1,1932-11-19,,8,92
+1132670,Ole Wegener,2,1936-12-18,,2,88
+1134552,Gitte Hænning,1,1946-06-29,,4,78
+1134755,Marijke Mann,1,1937-12-19,,1,87
+1134901,Peter Kær,2,1961-01-15,,1,63
+1137870,Jan Jankowski,2,1961-06-02,,1,63
+1137969,Robert Broberg,2,1940-07-02,2015-07-21,1,75
+1138206,Erwin Anton Svendsen,2,1934-07-29,2020-06-02,3,85
+1138890,Tadeusz Wojtych,2,1931-08-10,2021-07-09,1,89
+1139014,Kadir Savun,2,1926-08-15,1995-10-10,1,69
+1139734,Tina Dickow,1,1977-10-14,,1,47
+1139848,Emilian Kamiński,2,1952-07-10,2022-12-26,1,70
+1140106,Bodil Ipsen,1,1889-08-30,1964-11-26,9,75
+1140107,Lau Lauritzen Sr.,2,1878-05-13,1938-07-02,2,60
+1140881,Christian Potalivo,2,1979-02-18,,4,45
+1141084,Emilie Kruse,1,1993-05-19,,2,31
+1141086,Vic Carmen Sonne,1,1994-04-23,,12,30
+1142649,Jimmy Sterman,2,1947-08-30,,1,77
+1142650,Ninja Tholstrup,1,1936-09-03,,1,88
+1142651,Lea Risum Brøgger,1,1956-02-12,,4,68
+1142662,Michael Hardinger,2,1948-11-30,,1,76
+1142664,Rasmus Schwenger,2,1969-05-31,,1,55
+1142670,Peter Hoffmeyer,2,1979-08-12,,2,45
+1142671,Jacob Rasmussen,2,1981-07-07,,1,43
+1143305,Peter Belli,2,1943-06-19,2023-06-08,6,79
+1144325,Per Lauesgaard,2,1927-06-22,1960-03-06,4,32
+1144342,Puk Schaufuss,1,1943-09-15,,6,81
+1147063,Helle Fastrup,1,1951-11-06,2022-04-15,3,70
+1147067,Jarl Forsman,2,1952-04-06,,14,72
+1147081,Hassan El Sayed,2,1965-09-03,,2,59
+1147089,Aase Hansen,1,1935-01-13,1993-02-25,5,58
+1147091,Troels Munk,2,1925-07-25,2016-08-29,4,91
+1147093,Elga Olga Svendsen,1,1906-04-14,1992-07-26,15,86
+1147401,Elsebeth Nielsen,1,1957-12-13,,3,67
+1147411,Peter Jorde,2,1964-07-13,,4,60
+1147428,Louise Clausen,0,1971-12-31,,3,53
+1147900,Erik Kühnau,2,1932-05-02,2022-07-04,8,90
+1147906,Karen Wegener,1,1935-04-27,2012-03-29,2,76
+1148103,Chris Ryman,2,1971-09-09,,1,53
+1148307,Emanuel Gregers,2,1881-12-28,1957-03-21,4,75
+1148310,Lis Smed,1,1914-11-27,1944-11-24,6,29
+1149906,Gustav Dyekjær Giese,2,1993-07-15,,12,31
+1149907,Oscar Dyekjær Giese,2,1995-04-22,,3,29
+1150401,Lise Koefoed,1,1986-01-03,,3,38
+1150424,Nicoline Sharma Rubow,1,2000-05-01,,3,24
+1150527,Keld Heick,2,1946-02-24,,1,78
+1150549,Pernille Højmark,1,1960-05-21,,15,64
+1150551,Thomas Winding,2,1936-10-04,2008-07-05,3,71
+1150552,Karen Lis Ahrenkiel,1,1943-12-25,,2,81
+1150553,Anne Sofie Espersen,1,1973-08-27,,12,51
+1150558,Niels Krause-Kjær,2,1963-03-23,,1,61
+1150559,Marianne Høgsbro,1,1967-02-11,,4,57
+1150828,Anne Nøjgaard,1,1959-11-02,,2,65
+1150861,Karina Skands,1,1966-08-02,,4,58
+1150862,Diana Axelsen,1,1966-04-06,,4,58
+1150872,Kurt Dreyer,2,1944-04-22,,10,80
+1150874,Mads Keiser,2,1960-04-02,,1,64
+1150875,Bodil Sangill,1,1932-04-30,2023-04-09,4,90
+1151241,Cecilie Brask,1,1964-09-21,,4,60
+1151242,Mette Maria Ahrenkiel,1,1969-02-14,,2,55
+1151247,Adam Simonsen,2,1975-02-12,,3,49
+1151250,Kit Eichler,1,1953-05-24,,4,71
+1151251,Lars Oluf Larsen,2,1961-05-13,,7,63
+1151252,Michael Zuckow Mardorf,2,1962-09-03,,4,62
+1151775,Bjarne Forchhammer,2,1903-09-14,1970-04-03,12,66
+1151820,Sarah Gottlieb,1,1973-12-14,,2,51
+1151822,Katrine Jensenius,1,1947-12-07,,9,77
+1153231,Julia Ragnarsson,1,1992-07-30,,1,32
+1153487,Nicholas Westwood Kidd,2,1981-03-31,,1,43
+1154827,Susan Taslimi,1,1950-02-07,,1,74
+1155234,Aage Haugland,2,1944-02-01,2000-12-23,2,56
+1155671,Maria Rossing,1,1975-11-30,,8,49
+1156264,Djamila Hansen,1,1966-12-03,,1,58
+1156398,Mek Pek,2,1964-01-04,,1,60
+1156534,Kristian Ibler,2,1975-08-06,,15,49
+1156544,Danny Thykær,2,1978-11-17,,6,46
+1156671,Lulu Ziegler,1,1903-04-18,1973-11-14,2,70
+1156682,Alfred Lind,2,1879-03-27,1959-04-29,1,80
+1158050,Tobias Theorell,2,1969-07-22,,1,55
+1158267,Pia Vieth,1,1955-10-17,,5,69
+1158287,Steen Kaalø,2,1945-08-12,,3,79
+1158298,Lane Lind,1,1945-03-24,,8,79
+1158299,Louise Herbert,1,1967-11-05,,1,57
+1159036,Gigi Li Freddie Pedersen,1,1982-06-10,,2,42
+1159136,Charles Tharnæs,2,1900-03-09,1952-01-28,2,51
+1159139,Agis Winding,1,1875-09-19,1943-01-31,3,67
+1159269,Jakob Fals Nygaard,2,1992-08-03,,4,32
+1159278,Hans Holtegaard,2,1952-08-05,,8,72
+1159284,Joy-Maria Frederiksen,1,1964-05-21,,8,60
+1159286,Mette Kolding,1,1967-01-05,,4,57
+1159287,Peter Oliver Hansen,2,1967-12-12,,7,57
+1159350,Gert Günther,2,1945-06-12,,1,79
+1159456,Joen Bille,2,1944-04-11,,7,80
+1159457,Vivi Rau,1,1951-12-07,,1,73
+1159684,Anders Schoubye,2,1978-09-12,,3,46
+1159929,Carsten Sparwath,2,1970-04-17,,1,54
+1160270,Pelle Falk Krusbæk,2,2006-07-11,,3,18
+1160588,Clément Brun,2,1985-11-28,,1,39
+1160721,Henning Ørnbak,2,1925-12-04,2007-10-25,1,81
+1161740,Anna Linhartová,1,1994-03-21,,1,30
+1162026,Johnna Lillebjerg,1,1941-04-08,1997-09-02,1,56
+1162027,Charles Wilken,2,1866-11-08,1956-02-26,22,89
+1162053,Lene Gürtler,1,1961-12-10,,1,63
+1162056,Preben Borggaard,2,1927-11-30,2018-12-25,1,91
+1163162,Ole Emil Riisager,2,1932-11-05,2017-07-04,3,84
+1163370,Johannes Lassen,2,1970-05-07,,9,54
+1163377,Debbie Cameron,1,1958-09-14,,1,66
+1164111,Alba August,1,1993-06-06,,1,31
+1165017,Thelma Reston,1,1937-07-06,2012-12-20,1,75
+1165102,Elena Arndt-Jensen,1,1995-12-29,,3,29
+1167142,Eyvind Johan-Svendsen,2,1896-01-05,1946-10-10,4,50
+1167143,Solveig Oderwald-Lander,1,1898-08-20,1974-01-24,1,75
+1167755,Malin Brolin-Tani,1,1980-07-21,,8,44
+1167832,Mads Reuther,2,1991-08-16,,10,33
+1167833,Mogens Holm,2,1955-03-31,,7,69
+1167836,Hannah Corine,1,1979-09-12,,2,45
+1167840,Sofie Kaufmanas,1,1990-11-08,,2,34
+1167843,Klaus Wegener,2,1944-01-23,2018-08-05,4,74
+1167845,Roger Kormind,2,1961-03-09,,3,63
+1169333,Gerda Gilboe,1,1914-07-05,2009-04-11,11,94
+1169334,Lene Maimu,1,1944-07-24,,8,80
+1170361,Albrecht Schmidt,2,1870-04-10,1945-03-05,5,74
+1170362,Marie Niedermann,1,1880-09-27,1967-05-23,6,86
+1170689,Rasmus Haxen,2,1959-07-20,,8,65
+1170690,Susanne Juhász,1,1972-12-05,,11,52
+1170691,Marianne Mortensen,1,1958-09-16,,4,66
+1170692,Mads Riisom,2,1978-08-13,,10,46
+1171128,Tom Austen,2,1988-09-15,,1,36
+1171247,Elisabeth Gjerluff Nielsen,1,1957-08-16,2022-10-24,2,65
+1171793,Macit Koper,2,1944-03-01,,1,80
+1172078,Oskar Ruskjær,2,2005-03-05,,1,19
+1172079,Helge Scheuer,2,1924-12-06,2011-12-26,11,87
+1172089,Jon Bang Carlsen,2,1950-09-28,,3,74
+1172094,Erich Brandt,2,1950-12-12,,1,74
+1172452,Viggo Larsen,2,1880-08-14,1957-01-06,2,76
+1172522,Lars Nielsen,2,1957-05-09,,1,67
+1173284,Claire Cellucci,1,1960-01-14,2006-07-26,1,46
+1174113,Roland Schreglmann,2,1988-05-09,,1,36
+1174442,Lotte Bergstrøm,1,1973-06-20,,3,51
+1174479,Valdemar Psilander,2,1884-05-09,1917-03-06,17,32
+1174480,Gunnar Helsengreen,2,1880-01-26,1939-10-14,1,59
+1174780,Trine Pallesen,1,1969-06-19,,7,55
+1174781,Shahbaz Sarwar,2,1985-09-08,,1,39
+1175617,Radim Kalvoda,2,1973-04-19,,1,51
+1176024,Mohammed Al-Bakier,2,1988-05-12,,2,36
+1176302,Arnold Sjöstrand,2,1903-07-30,1955-02-01,1,51
+1176596,Bertel Abildgaard,2,1955-04-22,,3,69
+1176601,Michael Boesen,2,1948-04-07,2012-11-29,1,64
+1176605,Kazimierz Ostrowicz,2,1921-09-22,2002-07-28,1,80
+1176606,Peter Andreas Dam,2,1960-05-18,,2,64
+1176609,Peter Eszterhás,2,1940-09-05,,2,84
+1176617,Gabriel Nehrebecki,2,1937-12-30,1991-02-14,1,53
+1176618,Ryszard Radwański,2,1953-02-11,2019-12-20,1,66
+1176619,Kamila Sammler,1,1958-09-29,,1,66
+1176629,Michael Friis,2,1949-01-01,,3,75
+1177642,Marta Holm Peschcke-Køedt,1,1994-04-14,,2,30
+1177773,Anna Neye Poulsen,1,1969-07-07,,3,55
+1178381,Jacob Krarup,2,1982-09-16,,1,42
+1178382,Marie Bach Hansen,1,1985-06-28,,7,39
+1178384,Esben Smed,2,1984-07-13,,9,40
+1178385,Lea Baastrup Rønne,1,1988-04-20,,7,36
+1178387,Anni Bjørn,1,1956-04-23,,5,68
+1178390,Sven Ole Schmidt,2,1954-03-17,,5,70
+1178391,Henning Olesen,2,1943-12-08,,4,81
+1178393,Mette Mai Langer,1,1973-03-24,,3,51
+1178394,Henrik Vestergård,2,1972-07-13,,11,52
+1178402,Lea Høyer Stensnæs,1,1989-10-15,,1,35
+1178731,Johannes Lilleøre,2,1974-07-18,,4,50
+1178823,Olaf Højgaard,2,1972-01-25,,7,52
+1178923,Oscar Dietz,2,2000-08-06,,3,24
+1178926,Samuel Ting Graf,2,2000-05-15,,3,24
+1178927,Amalie Kruse Jensen,1,2001-06-23,,3,23
+1179122,Caroline Henderson,1,1962-02-28,,3,62
+1179176,Carl Martin Norén,2,1975-01-03,,1,49
+1179177,Therese Damsgaard,1,1979-01-17,,4,45
+1179223,Bente Dessau,1,1930-02-18,,2,94
+1179775,Mia Jexen,1,1984-03-09,,4,40
+1180027,Hans Hansen,0,1939-01-04,2018-05-01,1,79
+1180028,Sylvester Byder,2,1999-08-14,,8,25
+1180032,Joakim Ingversen,2,1987-06-25,,3,37
+1180035,Carl Nielsen,2,1933-06-09,2022-02-16,6,88
+1180046,Jesper Milsted,2,1952-01-28,,2,72
+1180050,Søren Hytholm Jensen,2,1969-02-10,,4,55
+1180054,Anne Voigt Christiansen,1,1964-05-04,,4,60
+1180056,Thomas Kim Hoder,2,1958-02-27,2023-10-30,3,65
+1180463,Rikke Weissfeld,1,1967-12-04,,2,57
+1180793,Toke Lars Bjarke,2,1999-12-27,,3,25
+1180795,David Sakurai,2,1979-07-19,,1,45
+1180798,Dan Zahle,2,1969-11-14,,7,55
+1181403,Pixie Davies,1,2006-12-09,,1,18
+1182138,Ellen Faison,1,1933-02-18,2011-04-25,1,78
+1182400,Sigri Mitra Gaïni,1,1975-01-01,,1,49
+1182597,Denise Gough,1,1980-02-28,,1,44
+1183138,Charlotte Bøving,1,1964-08-15,,2,60
+1183489,Adam Gilbert Jespersen,2,1991-02-02,,4,33
+1183743,Carl Petersen,2,1870-08-19,1953-10-29,1,83
+1184201,Queen Margrethe II of Denmark,1,1940-04-16,,1,84
+1184544,Peder Dahlgaard,2,1969-05-30,,2,55
+1185301,Hans-Peter Edh,2,1951-06-28,,1,73
+1185586,Henning Rohde,2,1910-06-30,1997-11-14,2,87
+1185963,Anne Birgitte Lind,1,1968-10-06,,3,56
+1186843,Pelle Bang Sørensen,2,1995-08-18,,3,29
+1186909,Tim Ahern,2,1949-01-01,,1,75
+1188827,Lasse Fogelstrøm,2,1996-05-15,,2,28
+1188897,Maurice Blinkenberg-Thrane,2,1991-12-03,,5,33
+1189194,Bror Bødtker-Næss,2,1970-05-10,,1,54
+1190700,Isa Holm,1,1945-04-16,,2,79
+1192604,Leif Forstenberg,2,1932-11-25,2002-11-19,1,69
+1193174,Eva Hast Nystad,1,1955-11-14,,1,69
+1194238,Christine Exner,1,1973-09-02,,3,51
+1194257,Kasper Emanuel Stæger,2,1986-01-20,,1,38
+1194547,Niels Christian Meyer,2,1964-12-11,,1,60
+1194835,Jakob Højlev Jørgensen,2,1970-11-17,,11,54
+1194836,Kasper Leisner,2,1975-04-29,,8,49
+1195744,Kirsten Hermansen,1,1930-02-21,2015-02-21,1,85
+1195788,Mads Ole Erhardsen,2,1969-12-03,,1,55
+1196064,Kai Schmidt,2,1900-10-04,1938-01-06,1,37
+1196567,Fanny Louise Bernth,1,1988-07-13,,4,36
+1200070,Filipe Ferrer,2,1936-08-25,2007-06-26,1,70
+1200852,James Tarpey,2,1994-01-01,,1,30
+1202734,Noëlle Noblecourt,1,1942-12-12,,1,82
+1203877,Holger Reenberg,2,1872-09-03,1942-03-21,5,69
+1203881,Carl Heger,2,1910-04-17,2002-05-02,13,92
+1204589,Hakon Ahnfelt-Rønne,2,1890-06-18,1927-03-30,3,36
+1204592,Gudrun Houlberg,1,1889-02-21,1940-01-14,7,50
+1204597,Rasmus Ottesen,2,1871-06-14,1957-03-08,7,85
+1204604,Valdemar Møller,2,1885-01-19,1947-02-16,13,62
+1204606,Else Schiwe,1,1895-09-19,1989-11-13,1,94
+1206531,Ataf Khawaja,2,1974-01-22,,1,50
+1206554,Bodil Lindorff,1,1907-05-14,1999-07-12,8,92
+1206743,Pernille Schrøder,1,1964-04-03,,5,60
+1206930,Patrik Karlson,2,1968-09-11,,1,56
+1207245,Leonard Scheicher,2,1992-07-26,,1,32
+1207277,Bjarne G. Nielsen,2,1949-06-23,,3,75
+1208770,Michael Brostrup,2,1965-01-15,,17,59
+1208774,Nicolei Faber,2,1982-03-31,,3,42
+1209326,Kitt Maiken Mortensen,1,1979-04-06,,2,45
+1209327,Bo Carlsson,2,1965-04-11,,5,59
+1215845,Dya Josefine Hauch,1,1970-10-19,,7,54
+1215846,Christian 'Geo' Heltboe,2,1975-08-12,,4,49
+1216607,Trevor Laird,2,1957-07-11,,1,67
+1218800,Darren Pettie,2,1970-08-18,,1,54
+1219172,Belinda Metz,1,1960-01-04,,1,64
+1221004,Llewella Gideon,1,1967-12-27,,1,57
+1221080,Alexander Arnold,2,1992-12-21,,1,32
+1224470,Murray Miller,2,1976-12-02,,1,48
+1225271,Vera Lynn,1,1917-03-20,2020-06-18,1,103
+1225384,Rummy Bishop,2,1918-07-30,2012-08-06,1,94
+1225417,Suzette Llewellyn,1,1962-09-07,,1,62
+1228003,Pia Grønning,1,1949-11-02,,4,75
+1230432,Clive Rowe,2,1967-03-27,,1,57
+1231662,Tutte Lemkow,2,1918-08-28,1991-11-10,1,73
+1232920,Susan A. Olsen,1,1964-04-27,,10,60
+1232923,Morten Lützhøft,2,1963-04-16,,6,61
+1233647,Ivan G'Vera,2,1959-04-01,,1,65
+1236183,Ole Boisen,2,1965-09-21,,9,59
+1236629,Helle Michaelsen,1,1968-11-02,,1,56
+1236920,Lai Yde,2,1970-07-09,,5,54
+1239016,Vivianne Pasmanter,1,1971-05-24,,1,53
+1244882,Henrik Birch,2,1956-09-05,,18,68
+1248284,Phil Baker,2,1896-08-26,1963-11-30,1,67
+1251298,Poul Thomsen,2,1938-06-29,2022-09-15,1,84
+1251792,Eske Forsting Hansen,2,1992-12-19,,1,32
+1251794,Kai Selliken,2,1946-02-20,,2,78
+1251795,Charlotte Guldberg,1,1975-09-04,,1,49
+1251797,Sigurd Holmen le Dous,2,1983-09-27,,1,41
+1252304,Peter Fridh,2,1962-04-20,,1,62
+1254379,Linse Kessler,1,1966-03-31,,2,58
+1255679,Freja Riemann,1,1996-10-23,,1,28
+1255681,Anders Juul,2,1981-01-14,,4,43
+1259903,Julie Agnete Vang,1,1984-05-01,,9,40
+1259906,Filippa Suenson,0,1986-04-16,,4,38
+1259948,Cecilie Frøkjær,1,1968-05-12,,1,56
+1259972,Huxi Bach,2,1978-03-09,,4,46
+1260489,Birthe Kjær,1,1948-09-01,,2,76
+1260721,Troels Kløvedal,2,1943-04-02,2018-12-23,1,75
+1263277,Gerda Madsen,1,1902-01-04,1986-07-26,12,84
+1264193,Donald Högberg,2,1952-12-18,,1,72
+1264480,Yvonne Schaloske,1,1951-08-23,2020-04-01,1,68
+1264848,Marie Mondrup,1,1976-12-14,,5,48
+1265218,Petr Janiš,2,1951-10-09,,1,73
+1265592,Anne-Marie Juhl,1,1927-02-03,,5,97
+1267481,Per Damgård Hansen,2,1984-03-29,,2,40
+1268228,Holger Pedersen,2,1888-05-20,1930-11-07,3,42
+1268231,Franz Skondrup,2,1874-02-23,1941-07-21,13,67
+1268232,Erik Winther,2,1884-06-24,1946-08-03,1,62
+1268233,Sofus Wolder,2,1871-04-11,1914-07-13,1,43
+1268247,Christel Holch,1,1887-04-02,1969-03-08,5,81
+1268253,Rigmor Jerichau,1,1887-06-06,1960-09-03,1,73
+1268256,Viking Ringheim,2,1880-04-02,1954-10-02,3,74
+1268297,Otto Lagoni,2,1868-11-27,1944-05-08,3,75
+1268298,Axel Boesen,2,1879-02-10,1957-06-14,15,78
+1268302,Ingeborg Rasmussen,1,1868-10-18,1926-10-04,1,57
+1268501,Gerhard Jessen,2,1885-04-21,1939-05-03,5,54
+1268504,Jørgen Lund,2,1873-07-16,1941-05-09,7,67
+1268516,Frederik Christensen,2,1847-01-20,1929-03-04,2,82
+1268617,Lise Ringheim,1,1926-05-15,1994-09-25,13,68
+1268649,Karl Mantzius,2,1860-02-20,1921-05-17,1,61
+1268653,Svend Aggerholm,2,1875-01-19,1940-02-12,5,65
+1268655,Aage Hertel,2,1873-10-18,1944-01-03,13,70
+1268657,Aage Lorentzen,2,1880-12-05,1955-10-17,2,74
+1268659,Henry Seemann,2,1875-06-13,1948-06-10,7,72
+1268706,Charles Willumsen,2,1866-02-03,1951-04-02,4,85
+1268724,Peter Fjelstrup,2,1866-03-24,1920-06-05,5,54
+1268726,Peter Jørgensen,2,1865-08-23,1942-07-17,7,76
+1268860,Cajus Bruun,2,1866-02-25,1919-11-01,7,53
+1268861,Gudrun Bruun Stephensen,1,1892-09-22,1946-02-16,9,53
+1268862,Oscar Nielsen,2,1858-08-21,1926-02-07,3,67
+1268863,Augusta Blad,1,1871-01-10,1953-11-09,13,82
+1268908,Ebba Thomsen,1,1887-05-03,1973-12-18,10,86
+1268909,Henny Lauritzen,1,1871-04-05,1938-12-07,9,67
+1268910,Alma Hinding,1,1882-02-11,1981-12-24,9,99
+1268912,Robert Dinesen,2,1874-10-23,1972-03-08,5,97
+1268914,Ingeborg Spangsfeldt,1,1895-07-25,1968-06-21,15,72
+1268915,Birger von Cotta-Schønberg,2,1889-05-03,1958-02-11,9,68
+1269943,Dan Fosse,2,1918-02-26,1987-12-06,1,69
+1272275,Robert Storm Petersen,2,1882-09-20,1949-03-06,1,66
+1272279,Lauritz Olsen,2,1872-08-10,1955-05-09,11,82
+1272304,Einar Zangenberg,2,1882-12-22,1918-10-24,5,35
+1272307,Emilie Sannom,1,1886-09-29,1961-06-11,5,74
+1272525,Nikolai Brechling,2,1883-04-13,1935-03-31,2,51
+1272526,Doris Langkilde,1,1874-11-20,1946-04-30,7,71
+1272527,H.C. Nielsen,2,1880-09-01,1941-01-10,2,60
+1272540,Jutta Lund,1,1875-12-06,1971-10-25,1,95
+1272541,Ingeborg Bruhn Bertelsen,1,1894-04-26,1977-06-26,4,83
+1272542,Julie Henriksen,1,1872-11-29,1949-03-21,4,76
+1272584,Agnes Lorentzen,1,1874-02-21,1947-12-23,5,73
+1272585,Axel Mattson,2,1887-12-03,1937-11-22,8,49
+1272586,Valda Valkyrien,1,1895-09-30,1956-10-22,1,61
+1272593,Frederik Buch,2,1875-12-08,1925-04-13,2,49
+1272616,Edith Buemann,1,1879-05-16,1968-01-02,3,88
+1272617,Ellen Rassow,1,1880-04-13,1951-02-21,4,70
+1272621,Carl Lauritzen,2,1879-04-04,1940-04-18,16,61
+1272623,Oluf Billesborg,2,1881-03-08,1944-03-23,4,63
+1272626,Holger Syndergaard,2,1892-03-09,1963-03-13,3,71
+1272661,Axel Strøm,2,1866-10-12,1950-04-12,5,83
+1272662,Fridjof von Kaulbach,2,1901-05-26,1968-09-12,3,67
+1272663,Lily von Kaulbach,1,1874-01-01,1966-01-01,2,92
+1272689,Johanne Fritz-Petersen,1,1879-10-18,1961-12-22,8,82
+1272692,Preben J. Rist,2,1885-01-10,1967-02-12,3,82
+1272693,Betzy Kofoed,1,1855-10-14,1923-01-23,3,67
+1272738,Svend Kornbeck,2,1869-07-03,1933-10-30,9,64
+1272740,Robert Schyberg,2,1872-07-08,1946-12-19,5,74
+1272844,Anton De Verdier,2,1878-08-12,1954-04-21,15,75
+1272845,Alfi Zangenberg,1,1882-06-11,1966-01-25,3,83
+1272972,Betty Nansen,1,1873-03-19,1943-03-15,5,69
+1273029,Emilie Otterdahl,2,1882-11-07,1971-06-20,3,88
+1273310,Mathilde Felumb Friis,1,1872-07-31,1945-10-31,4,73
+1273312,Grete Reinwald,1,1902-05-25,1983-05-24,1,80
+1273313,Hanni Reinwald,1,1903-08-24,1978-01-01,1,74
+1273314,Rita Sacchetto,1,1880-01-15,1959-01-18,4,79
+1273317,Bertel Krause,2,1880-10-17,1924-01-08,7,43
+1273442,Carl Hintz,2,1869-01-16,1926-03-31,1,57
+1273567,Thorleif Lund,2,1880-06-07,1956-06-30,8,76
+1273585,Vera Esbøll,1,1892-02-11,1936-04-02,1,44
+1273904,Sune Otterstrøm,2,1972-05-09,,4,52
+1274509,Katharina Damm,1,1989-07-25,,1,35
+1275872,Jakub Snochowski,2,1977-04-17,,1,47
+1277184,Finn Tavbe,2,1933-12-25,2020-05-04,1,86
+1278767,Laura Kamis Wrang,1,1965-06-30,,5,59
+1282432,Aske Bang,2,1988-04-01,,9,36
+1283539,Miller Daurey,2,1974-09-10,,1,50
+1287095,Aase Clausen,1,1914-08-15,2005-09-07,2,91
+1287107,Palle Reenberg,2,1902-10-03,1980-09-12,2,77
+1287379,Ulla Poulsen,1,1905-05-02,2001-04-21,1,95
+1287577,Flemming 'Bamse' Jørgensen,2,1947-02-07,2011-01-01,4,63
+1288115,Ole Guldbrandsen,2,1942-12-21,,5,82
+1288116,Pernille Kløvedal,1,1953-06-17,,3,71
+1288145,Helen von Münchofen,1,1904-02-19,1956-01-01,1,51
+1288156,Karen Jønsson,1,1909-01-17,1942-12-02,2,33
+1290358,Andrey Yurenev,2,1944-10-29,1998-01-02,1,53
+1290397,David Rousing,2,1970-07-26,,3,54
+1290402,Simon Sears,2,1984-01-25,,7,40
+1291204,Abigail Rice,1,1978-01-01,,1,46
+1293151,Camilla Gottlieb,1,1974-01-21,,4,50
+1293152,Mette Lysdahl,1,1985-03-11,,5,39
+1293839,Mime Fønss,1,1911-11-12,1994-08-18,5,82
+1294351,Timm Mehrens,2,1962-05-31,,4,62
+1297437,Sofus Rønnov,2,2001-01-10,,5,23
+1297438,Lourdes Faberes,1,1975-02-14,,2,49
+1297500,Johanne Louise Schmidt,1,1983-10-16,,9,41
+1298089,Hassan Preisler,2,1969-06-12,,1,55
+1298642,Christian Hjejle,2,1940-09-26,2022-08-24,1,81
+1298986,Pia Ahnfelt-Rønne,1,1922-03-20,2006-04-20,2,84
+1298988,Poul Juhl,2,1898-08-01,1956-12-13,6,58
+1299006,Martin Kongstad,2,1963-10-03,,4,61
+1299251,Nikolaj Stokholm,2,1990-01-29,,3,34
+1299307,Clara Kokseby,1,1993-12-15,,1,31
+1299712,Christian Lange,2,1866-02-17,1913-10-12,1,47
+1301604,Eva Bergh,0,1926-02-25,2013-02-19,1,86
+1303088,Michal Roneš,2,1955-02-13,,1,69
+1305973,Gert Raudsep,2,1970-04-30,,1,54
+1307689,Gaia Maria Jørgensen,1,1982-03-09,,1,42
+1307988,Marie Ludvíková,1,1957-12-12,,1,67
+1309014,Rainer Reiners,2,1960-01-01,,1,64
+1309343,Nanna Finding Koppel,1,1996-01-01,,5,28
+1309344,Joshua Marc Berman,2,1996-03-27,,3,28
+1310370,Abdelkader Moutaa,2,1940-01-01,,1,84
+1310711,Lisa Loven Kongsli,1,1979-09-23,,2,45
+1310986,Thomas Ravn,2,1964-05-14,,2,60
+1311370,Luise Thiele,1,1970-08-08,,1,54
+1313414,Ask Rostrup,2,1966-02-26,,1,58
+1313416,Troels Walther,2,1962-02-12,,1,62
+1319719,Stine Bierlich,1,1967-02-14,2007-02-20,3,40
+1321581,Sonia Suhl,1,1994-03-23,,1,30
+1325392,Jan Dose,2,1985-05-10,,1,39
+1327785,Viilbjørk Malling Agger,1,1997-01-10,,2,27
+1328713,Anna Svierkier,1,1872-11-26,1955-05-20,1,82
+1328714,Dagmar Wildenbrück,1,1861-03-04,1948-12-26,1,87
+1328715,Emilie Nielsen,1,1887-07-04,1981-02-15,12,93
+1329649,Nick Wilder,2,1952-12-03,,1,72
+1331850,Alexander Wüst,2,1973-07-22,,1,51
+1333001,Robert Saaskin,2,1920-08-02,1972-05-03,1,51
+1333631,Javone Prince,2,1975-07-03,,2,49
+1335333,Bent Høyer,2,1915-01-02,2013-07-13,1,98
+1335537,Morten Hebsgaard,2,1963-03-31,,11,61
+1335546,Rasmus Hammerich,2,1975-06-27,,14,49
+1335601,Gry Guldager Jensen,1,1982-07-03,,1,42
+1335602,Ellen Nyman,1,1971-06-01,,4,53
+1335655,Else Skouboe,1,1898-12-18,1950-12-12,1,51
+1335656,Aase Ziegler,1,1906-05-28,1975-03-10,2,68
+1335662,Jan Wennick,2,1946-07-27,,1,78
+1335664,Kjeld Wennick,2,1944-02-03,,1,80
+1337806,Waleed Elgadi,2,1978-11-18,,1,46
+1338475,Anthony Oseyemi,2,1977-01-17,,1,47
+1338948,Eric Bertner,2,1902-08-01,1986-06-17,2,83
+1340577,Josephine Raahauge,1,1980-08-17,,1,44
+1341283,Frederik Jensen,2,1863-06-25,1934-02-14,6,70
+1341284,Lili Lani,1,1905-06-12,1996-02-21,10,90
+1341958,Vladimir Troshin,2,1926-05-15,2008-02-25,1,81
+1345852,Elna From,1,1869-06-15,1943-07-05,2,74
+1348167,Thomas Schindel,2,1966-08-27,,1,58
+1348168,Tom McEwan,2,1940-08-09,,6,84
+1348454,Michael Hasselflug,2,1959-01-01,,5,65
+1349426,Signe Byrge Sørensen,1,1970-03-06,,1,54
+1349581,Yavuzer Çetinkaya,2,1948-03-07,1992-07-21,1,44
+1350021,Stig Lommer,2,1907-06-19,1976-06-28,2,69
+1350047,Lukáš Král,2,1978-06-22,,1,46
+1350268,Frank Erichsen,2,1983-09-30,,1,41
+1350477,Lars Torpp Thomsen,2,1972-07-25,,4,52
+1350478,Mikkel Vadsholt,2,1970-01-22,,16,54
+1351385,Anna Schäfer,1,1973-07-08,,1,51
+1351730,Deni Jordan,2,1966-08-02,,3,58
+1352140,Marlies Behrens,1,1939-01-01,,1,85
+1352165,Medina,1,1982-11-30,,1,42
+1352860,Dorte Rømer,1,1968-11-08,,2,56
+1353297,Karoline Hamm,1,1999-11-27,,4,25
+1353298,Rasmus Johnbeck,2,2001-09-05,,1,23
+1353299,Emilie Werner Semmelroth,1,1995-03-29,,4,29
+1353300,Nicolai Dahl Hamilton,2,1976-07-19,,4,48
+1353422,Jan Krafka,2,1964-11-15,,1,60
+1354188,Christiane Rohde,1,1944-09-26,,6,80
+1354189,Vibeke Thordal-Christensen,1,1963-08-07,,2,61
+1355003,Jakob Svendsen,2,1980-08-28,,4,44
+1355004,Heino Hansen,2,1984-09-12,,2,40
+1355961,Anna Veselá,1,1977-06-11,,1,47
+1357453,Nanna Bøttcher,1,1973-12-14,,5,51
+1357455,Elliott Crosset Hove,2,1988-03-18,,11,36
+1358363,Frederik Winther Rasmussen,2,1998-12-14,,3,26
+1358364,Jens Malthe Næsby,2,1995-07-17,,1,29
+1361398,Louise Iversen,1,1978-05-17,,1,46
+1362064,Sanne Søndergaard,1,1980-04-02,,4,44
+1362100,Frans Andersson,2,1911-05-23,1988-08-03,2,77
+1362803,Maria Cordsen,1,1994-02-25,,2,30
+1362804,Lucas Alexander,2,1986-03-21,,1,38
+1363419,May Andersen,0,1982-06-16,,1,42
+1363835,Franck Monsigny,2,1972-06-03,,1,52
+1364310,Dado Ćosić,2,1987-12-14,,1,37
+1365195,Ali Sivandi,2,1988-04-27,,4,36
+1365662,Scott Alexander Young,2,1965-12-22,,1,59
+1366059,Stine Prætorius,1,1975-04-04,,2,49
+1366060,Igor Radosavljevic,2,1972-12-18,,1,52
+1366062,Olaf Johannessen,2,1961-07-08,,7,63
+1372317,Marco Ilsø,2,1994-09-29,,6,30
+1373962,Martin Sne,2,1955-10-28,2019-04-10,2,63
+1373965,Yvonne Ingdal,1,1939-12-10,,4,85
+1373973,Mette Munk Plum,1,1956-06-08,,16,68
+1373989,Anna Bård,1,1980-04-02,,4,44
+1373990,Sarah Louise Christiansen,1,1982-03-22,,1,42
+1374689,Henrik Sjöman,2,1984-05-03,,1,40
+1374816,Hedda Stiernstedt,1,1987-12-03,,1,37
+1374822,Håkon Svensson,2,1943-06-23,,1,81
+1379523,Laura Bach,1,1979-04-25,,5,45
+1384530,Tage Røpke,2,1941-01-22,1974-03-12,1,33
+1385109,Kristian Fjord,2,1984-10-02,,6,40
+1385111,Casper Sloth,2,1984-10-26,,2,40
+1385586,Lise Risom Olsen,1,1979-03-01,,1,45
+1388456,Rebecca Emilie Sattrup,1,2001-11-29,,2,23
+1388457,Petra Scott Nielsen,1,2000-07-24,,2,24
+1388458,Lado Hadzic,2,1971-06-26,,9,53
+1388459,Adam Ild Rohweder,2,1987-10-03,,11,37
+1388460,Esben Dalgaard Andersen,2,1976-07-03,,10,48
+1388461,Austa Lea Jespersen,1,1983-08-15,,5,41
+1388462,Henrik Noël Olesen,2,1968-02-05,2023-03-02,19,55
+1388464,Niklas Herskind,2,1986-06-12,,7,38
+1388466,Jaques Lauritsen,2,1958-11-28,,3,66
+1388977,Koen Wouterse,2,1979-04-10,,1,45
+1389110,Henny Krause,1,1905-07-28,1980-07-12,2,74
+1389495,Igor Kantyukov,2,1945-12-29,,1,79
+1391416,Ditte Ylva Olsen,1,1977-04-06,,1,47
+1395135,Jørgen Beck,2,1914-12-13,1991-10-05,24,76
+1395337,Josephine Jacob,1,1981-09-30,,1,43
+1395927,Basse,2,1935-06-29,1989-04-19,1,53
+1396004,Ebba Nørager,1,1927-12-04,2021-02-10,1,93
+1396018,Flemming Dyjak,2,1934-07-07,2011-12-29,22,77
+1396021,Vera Lindstrøm,1,1882-08-07,1946-08-13,2,64
+1396912,Cristiana Dell'Anna,1,1985-08-24,,1,39
+1397125,Peter Varga,2,1971-10-25,,1,53
+1397248,Esin Eden,1,1935-08-07,,1,89
+1397252,Petr Batěk,2,1972-05-27,,1,52
+1397450,Sema Poyraz,1,1950-03-07,,1,74
+1398454,Ole Kibsgaard,2,1966-02-09,,2,58
+1400327,Peter Hjorth,2,1970-11-29,,1,54
+1403028,Erki Laur,2,1976-08-16,,1,48
+1405550,Hanne Windfeld,1,1959-03-04,,3,65
+1406140,Torsten Hammann,2,1965-11-03,,1,59
+1407065,Kristopher Kum,2,1929-06-23,2013-03-15,1,83
+1408653,Pelle Emil Hebsgaard,2,1988-04-26,,1,36
+1408654,Szhirley,1,1976-09-23,,2,48
+1408751,Kristian Gintberg,2,1988-04-01,,1,36
+1409324,Tom Jensen,0,1965-11-30,,11,59
+1409380,Emil Birk Hartmann,2,1990-09-26,,1,34
+1409765,Pavel Myslík,2,1955-03-24,,1,69
+1411558,Pi Svenstrup,1,1986-03-29,,2,38
+1414440,Jahn Teigen,2,1949-09-27,2020-02-24,1,70
+1415763,Holger Hofmann,2,1868-04-02,1929-12-27,1,61
+1415764,Thora Meincke,1,1877-05-23,1911-12-26,2,34
+1416275,Jenny Roelsgaard,1,1878-11-16,1936-03-19,3,57
+1418968,Kaspar Velberg,2,1989-01-29,,1,35
+1421102,Josef Vajnar,2,1946-10-11,,1,78
+1421812,Martin Nørgaard,2,1990-01-01,,5,34
+1421850,Inga Ibsdotter Lilleaas,1,1989-04-09,,1,35
+1422990,Mads Korsgaard,2,1979-09-02,,1,45
+1423089,Victor Stoltenberg,2,2002-12-11,,1,22
+1423270,Marie Tourell Søderberg,1,1988-07-26,,4,36
+1423271,Jens Sætter-Lassen,2,1986-02-06,,4,38
+1424989,Mikkel Hess,2,1976-02-24,,2,48
+1425059,Zdeněk Dvořáček,2,1967-09-24,,1,57
+1425365,Audrey Castañeda,1,1968-02-28,,2,56
+1426300,Ida Orloff,1,1889-02-16,1945-04-09,1,56
+1426301,Charles Unthan,2,1845-04-05,1929-11-19,1,84
+1426307,Agnete von Prangen,1,1880-06-27,1968-04-12,2,87
+1428295,Gustav Lindh,2,1995-06-04,,3,29
+1428298,Christopher Wagelin,2,1978-11-02,,1,46
+1428490,Kerstin Wartel,1,1931-12-16,2000-04-05,1,68
+1428492,Marie Ahrle,1,1945-04-05,2003-07-22,1,58
+1428495,Pia Maria Wohlert,1,1947-12-10,2010-09-20,2,62
+1429790,Bibi Morat,2,1951-04-10,2015-02-20,1,63
+1429792,Clément Bairam,2,1909-07-06,2001-09-29,1,92
+1429801,Otto Detlefsen,2,1881-11-24,1963-02-11,5,81
+1429810,Inge Margrethe Svendsen,1,1947-11-13,,2,77
+1429848,Marchen Passer,1,1938-12-11,,2,86
+1429849,Freddy Koch,2,1916-03-21,1980-08-10,13,64
+1429850,Jørgen Blaksted,2,1936-12-21,1998-01-13,2,61
+1429863,Torben Bille,2,1945-10-31,1993-07-22,8,47
+1429865,Susanne Breuning,1,1952-05-26,,8,72
+1429880,Ingo Wentrup,2,1925-05-23,1995-05-23,1,70
+1429881,Anniqa,1,1950-01-01,,1,74
+1429901,Hans Rostrup,2,1937-07-26,2005-01-16,4,67
+1429902,Tina Holmer,1,1958-08-21,,3,66
+1429904,Bjørn Ploug,2,1912-01-22,1996-04-05,5,84
+1429905,Hanne Jørna,1,1949-01-29,,3,75
+1429906,Søren Thomsen,2,1947-11-15,,11,77
+1429988,Hanne Stensgaard,1,1953-08-07,,2,71
+1429989,Jean-Philippe Lafont,2,1951-02-11,,1,73
+1429999,Jørn Rose,2,1923-10-20,2011-05-03,1,87
+1430013,Anette Karlsen,1,1947-04-24,,4,77
+1430025,Alf Lassen,2,1929-07-21,1993-08-26,6,64
+1430046,Emil Hallberg,2,1910-03-21,1987-08-09,8,77
+1430047,Verner Tholsgaard,2,1930-09-02,2001-05-02,3,70
+1430053,Birthe Backhausen,1,1927-01-20,,5,97
+1430055,Jan Gustavsen,2,1957-05-15,1996-01-02,2,38
+1430057,Jørn Gottlieb,2,1953-10-17,,3,71
+1430059,Liselotte Krogager,1,1959-10-01,,1,65
+1430061,Victor Marcussen,2,1957-06-20,,5,67
+1430108,Lise Davidsen,1,1987-02-08,,1,37
+1430110,Jette Kehlet,1,1940-03-01,,2,84
+1430130,Gunnvør Nolsøe,1,1931-06-21,2012-04-04,6,80
+1430133,Jørgen Teytaud,2,1933-11-20,2020-11-30,6,87
+1430135,Jørgen Hansen,2,1943-03-27,2018-03-15,2,74
+1430138,Nonny Sand,1,1961-03-26,,3,63
+1430139,Gitte Naur,1,1960-04-19,,1,64
+1430142,Preben Ravn,2,1934-02-27,,6,90
+1430149,Michael Bundesen,2,1949-05-12,2020-11-08,1,71
+1430150,Kim Daugaard,2,1951-02-09,,1,73
+1430151,Claus Asmussen,2,1949-02-12,,1,75
+1430152,Jørgen Thorup,2,1960-10-02,,1,64
+1430153,Peter Andersen,2,1962-02-04,,1,62
+1430157,Maria Savery,1,1968-12-23,,2,56
+1430159,Thomas Bendixen,2,1966-08-05,,5,58
+1430168,Egon Mohr,2,1924-12-30,1980-01-06,1,55
+1430169,Christian Jørgen Nielsen,2,1915-08-25,1973-11-13,7,58
+1430182,Hans Egede Budtz,2,1889-08-08,1968-06-29,5,78
+1430197,Inger Bagger,1,1904-01-29,1990-06-10,1,86
+1430220,Jørgen Ulrik Langebæk,2,1913-12-08,1997-09-06,3,83
+1430223,Grete Bendix,1,1903-01-29,1975-08-12,1,72
+1430225,Verna Olesen,1,1933-04-24,2005-03-16,2,71
+1430244,Erling Dalsborg,2,1925-01-22,1989-08-20,5,64
+1430278,Toke Græsborg,2,1982-06-12,,2,42
+1430279,Teis Bayer,2,1959-11-02,,7,65
+1430280,Signe Vaupel,1,1976-08-18,,5,48
+1430283,Anders Heinrichsen,2,1980-02-17,,11,44
+1430347,Ann Schaufuss,1,1948-06-09,,1,76
+1430349,Anders Errboe,2,1944-04-15,,1,80
+1430363,Lis Allentoft,1,1916-05-04,2011-04-05,2,94
+1430658,Harald Nielsen,2,1941-10-26,2015-08-11,1,73
+1430676,Kirsten Werner,1,1927-04-24,,2,97
+1430690,Robertino,2,1946-10-22,,1,78
+1430702,Torben Hundahl,2,1945-06-16,1989-10-02,7,44
+1430709,Mogens Brix-Pedersen,2,1930-03-22,2002-11-13,5,72
+1430719,Ole Tage Hartmann,2,1936-04-20,,4,88
+1430740,Lone Bastholm,1,1934-09-11,,1,90
+1430781,Tove Wallenstrøm,1,1915-01-12,2013-03-05,3,98
+1430795,Bendt Reiner,2,1928-02-03,2006-12-14,8,78
+1430802,Jan Jørgensen,2,1949-02-08,,4,75
+1431364,Sven Cleemann,2,1947-10-09,,1,77
+1431685,Lars Junggreen,2,1945-10-23,,4,79
+1431697,Stig Ramsing,2,1948-02-29,,4,76
+1432273,Adam Brix,2,1978-11-17,,8,46
+1432828,Jan Methling,2,1937-11-03,1997-04-02,1,59
+1432830,Einar Rosenbaum,2,1881-06-22,1965-03-10,3,83
+1432834,Bent Børgesen,2,1931-08-08,2011-07-21,4,79
+1432835,Cevat Kurtuluş,2,1922-06-20,1992-09-06,1,70
+1432847,Merete Arnstrøm,1,1939-01-19,,4,85
+1432874,Anne Mari Lie,1,1945-08-02,1989-05-01,2,43
+1433091,Kirsten Brøndum,1,1950-01-26,,1,74
+1433092,Bodil Lassen,1,1955-03-12,,11,69
+1433094,Britta Lillesøe,1,1944-11-28,,7,80
+1433308,Birthe Wilke,1,1936-03-19,,2,88
+1433310,Paul Schleisner,2,1931-02-03,2003-02-07,2,72
+1433336,Jan Hovgaard,2,1943-02-27,,3,81
+1433343,Pia Koch,1,1958-11-18,,5,66
+1433462,Anne Herdorf,1,1967-07-10,,2,57
+1433470,Jodle Birge,2,1945-11-06,2004-08-27,1,58
+1433475,Jacob Ulrik Lohmann,2,1974-02-04,,30,50
+1433476,Christine Gjerulff,1,1977-12-19,,2,47
+1433478,Lise Baastrup,1,1984-03-20,,7,40
+1433479,Jakob Bjerregaard Engmann,2,1978-03-15,,6,46
+1433481,Kasper Dalsgaard,2,1987-02-11,,5,37
+1433494,Anna-Louise Lefèvre,1,1942-09-25,2009-10-14,1,67
+1433495,Ilse Rande,1,1950-06-23,,7,74
+1433665,Luca Reichardt Ben Coker,2,2008-08-31,,4,16
+1433670,Albert Rosin Harson,2,2002-05-29,,3,22
+1433676,Morten Christensen,2,1975-04-21,,5,49
+1433678,Nina Christrup,1,1970-06-17,,3,54
+1433679,Anders Brink Madsen,2,1975-09-30,,22,49
+1433695,Ib Hansen,2,1928-12-22,2013-02-24,3,84
+1433755,Michael Mansdotter,2,1963-05-09,,1,61
+1433757,Lene Axelsen,1,1946-07-10,,2,78
+1433819,Ingela Brander,1,1943-03-01,,1,81
+1433831,Hilma Egeskov,1,1899-03-17,1996-01-11,2,96
+1433832,Inger-Lise Gaarde,1,1926-05-25,1992-09-05,2,66
+1433833,Karen Thisted,1,1946-07-31,2020-03-16,1,73
+1433837,Lene Larsen,1,1945-09-03,,5,79
+1433852,Gitte Reingaard,1,1943-02-21,,2,81
+1433871,Henning Sprogøe,2,1953-10-21,,4,71
+1433873,Tommy Frederiksen,2,1952-07-18,,1,72
+1433876,Martin Vieth,2,1973-01-11,,1,51
+1433877,John Lambreth,2,1949-03-27,,8,75
+1433880,Henrik Hagensen,2,1952-10-17,,1,72
+1433881,Alf Andersen,2,1928-06-26,2010-03-26,4,81
+1433882,Allan Frank,2,1951-05-17,2020-09-14,2,69
+1433883,Bjarne Adrian,2,1948-11-23,,5,76
+1433884,Flemming Sørensen,2,1951-04-21,,5,73
+1433906,Elisabeth Nørager,1,1951-08-28,,1,73
+1433912,André Sallyman,2,1929-09-09,2020-06-19,5,90
+1434275,Vera Stricker-Nielsen,1,1908-03-04,1995-07-02,3,87
+1434311,Helga Marold,1,1916-02-06,2005-12-18,2,89
+1434323,Bent Conradi,2,1932-08-30,,5,92
+1434335,Elsa Kourani,1,1913-11-15,2003-06-02,3,89
+1434336,Line Knutzon,1,1965-03-03,,1,59
+1434337,Peter Larsen,2,1956-01-02,,5,68
+1434339,Jørgen Ole Børch,2,1951-05-27,2009-02-13,2,57
+1434340,Benny Bundgaard,2,1935-03-02,,1,89
+1434359,Benjamin Kitter,2,1975-04-25,,12,49
+1434763,Andreas Jessen,2,1989-07-22,,7,35
+1435826,Niels Alsing,2,1943-04-30,1986-06-07,3,43
+1435830,Otto Leisner,2,1917-01-16,2008-08-16,1,91
+1435831,Ole Andreasen,2,1939-07-30,,1,85
+1435834,Ann Margrethe Schou,1,1925-03-06,1992-01-22,1,66
+1435836,Aage Poulsen,2,1943-07-04,2004-04-18,2,60
+1435839,Claus Heil,2,1960-06-12,,2,64
+1435840,Flemming Danty,2,1948-04-16,1991-06-23,1,43
+1435842,Henry Büchmann,2,1921-01-30,2003-08-18,1,82
+1435844,Arlette Didier,1,1933-10-10,,1,91
+1435847,Gunvor Reynberg,1,1960-05-25,,1,64
+1435848,Per Tofte Nielsen,2,1960-01-24,,5,64
+1435891,Annelise Demuth,1,1931-07-03,1991-09-27,1,60
+1435988,Erik Frisberg,2,1922-02-06,1993-09-18,2,71
+1435990,Mogens Dester,2,1949-06-22,2011-10-19,1,62
+1436012,Pauline Rehné,1,1954-07-11,,3,70
+1436031,Guido Paevatalu,2,1951-04-14,,3,73
+1436035,Ebbe Trenskow,2,1937-10-03,2023-11-22,4,86
+1436037,Ulla Pia,1,1945-02-17,,2,79
+1436661,Monika Kvasničková,1,1969-12-10,,1,55
+1436747,Bjørn Tidmand,2,1940-01-24,,1,84
+1436752,Dorthe Kollo,1,1947-07-17,,1,77
+1436804,Inga Schultz,1,1907-02-04,1990-04-27,2,83
+1436807,Philippa Frederiksen,1,1870-08-15,1955-04-21,1,84
+1436812,Henrik Jandorf,2,1954-01-28,,6,70
+1436813,Lars Sidenius,2,1949-03-11,,6,75
+1436823,Henrik Uldall,2,1972-09-22,,1,52
+1436901,Marianne Flor,1,1934-03-30,2015-03-22,3,80
+1436916,Benjamin Kirk Nielsen,2,1985-06-29,,1,39
+1437255,Nikol Kouklová,1,1990-01-02,,2,34
+1437341,Edith Thrane,1,1917-10-18,2005-05-09,2,87
+1437348,Eva Heramb,1,1899-11-24,1957-01-09,2,57
+1437417,Natalie Madueño,1,1987-11-07,,7,37
+1437419,Kenneth M. Christensen,2,1983-04-10,,5,41
+1437421,Martin Greis-Rosenthal,2,1980-10-09,,12,44
+1437433,Solveig Kallenbach,1,1951-07-04,,1,73
+1437445,Hans Christian Sørensen,2,1877-03-06,1962-02-01,2,84
+1438042,Morten Hoff,2,1966-08-21,,1,58
+1438047,Mette Knudsen,1,1943-10-02,,2,81
+1438057,Geert Vindahl,2,1943-09-25,2024-05-13,5,80
+1438063,Susanne Lundberg,1,1948-09-30,2017-12-30,1,69
+1438091,Hardy Dræby,2,1937-06-10,,1,87
+1438095,Bob Lockwood,2,1953-05-12,1989-06-16,1,36
+1438112,Paul Erik Christiansen,2,1922-12-03,1997-10-23,3,74
+1438117,Tove Errboe,1,1924-09-25,2006-09-11,1,81
+1438141,Otte Svendsen,2,1918-08-08,2008-06-30,4,89
+1438145,Niels Jørgen Steen,2,1939-02-07,,1,85
+1438183,Anne Birch,1,1945-05-19,1985-08-09,3,40
+1438184,Ole Møllegaard,2,1942-05-02,,4,82
+1438187,Benny Petersen,2,1935-08-21,2006-07-22,1,70
+1438189,Charlotte Neergaard,1,1944-06-22,1999-12-01,3,55
+1438195,Annika Hoydal,1,1945-11-19,,2,79
+1438199,Lone Petersen,1,1958-10-08,,3,66
+1438708,Magnus Millang,2,1981-07-20,,6,43
+1438710,Anne Gry Henningsen,1,1976-02-02,,1,48
+1438880,Anna Čtvrtníčková,1,2003-06-05,,1,21
+1439243,Karen-Helene Hjorth,1,1976-12-20,,2,48
+1439247,Dan Nielsen,2,1956-04-25,,2,68
+1439252,Gitte Siem,1,1954-01-29,2021-03-27,4,67
+1439253,Morten Poulsen,2,1974-07-01,,2,50
+1439257,Christiane Gjellerup Koch,1,1966-03-11,,5,58
+1439265,Kristoffer Engholm Aabo,2,1990-05-03,,1,34
+1439296,Karin Rørbech,1,1967-10-10,,8,57
+1439297,Mikkel Rosenberg,2,1971-01-02,,2,53
+1439299,Kett Lützhøft Jensen,1,1972-05-26,,3,52
+1439301,Taina Anneli R. Berg,1,1968-08-31,,5,56
+1439309,Rolf Rasmussen,2,1973-07-24,,2,51
+1439311,Brian Nielsen,2,1965-04-01,,4,59
+1439312,Nynne Karen Nørlund,1,1969-09-28,,3,55
+1439332,Torbjörn Lindström,2,1968-09-09,2006-01-17,1,37
+1439360,Ole Jakobsen,2,1955-08-24,,1,69
+1439379,Vibeke Ankjær,1,1962-03-15,,5,62
+1439380,Jørgen Brorsen,2,1966-09-22,,1,58
+1439399,Mads Hammer Larsen,2,1967-08-28,,2,57
+1439404,Charlotte Trier,1,1961-04-06,,1,63
+1439405,Mads Nørby,2,1956-10-25,,3,68
+1439411,Ove Pedersen,2,1939-08-18,,3,85
+1439412,Hother Bøndorff,2,1951-05-11,,2,73
+1439414,Martin Ringsmose,2,1970-01-02,,2,54
+1439415,Caspar Koch,2,1946-03-02,,2,78
+1439416,Lone Dam Andersen,1,1949-11-02,,1,75
+1439581,Aksel Rasmussen,2,1924-05-04,2011-12-15,5,87
+1439622,Bo Thomas,2,1966-09-28,,4,58
+1439625,Eva Kaas,1,1926-06-15,2020-12-29,1,94
+1439637,Bjarne Antonisen,2,1973-02-23,,1,51
+1439638,Niels Lund Boesen,2,1966-01-12,,3,58
+1439639,Thomas Magnussen,2,1973-05-11,,3,51
+1439641,Scott Farrell,2,1956-02-04,,2,68
+1439647,Stine Holm Joensen,1,1969-11-19,,2,55
+1439648,Ann Kristine Schmidt,1,1967-09-07,,2,57
+1439681,Morten Thunbo,2,1966-05-09,,5,58
+1439683,Niels-Martin Eriksen,2,1969-03-25,,9,55
+1439698,Nina Septrup,1,1969-02-15,,1,55
+1439699,Sus Wilkins,1,1989-02-05,,3,35
+1439700,Jacob Weble,2,1970-09-10,,1,54
+1439703,Carsten Kressner,2,1957-11-24,,4,67
+1439704,Anne-Dorte Krog,1,1977-04-26,,2,47
+1440199,Egon Aagaard,2,1941-07-25,1984-08-19,1,43
+1440216,Mimmi Benckert-Claesson,1,1997-04-16,,1,27
+1440220,Tilde Maja Frederiksen,1,1979-04-19,,7,45
+1440794,Peter Zhelder,2,1959-09-25,,3,65
+1440798,Birgit Zinn,1,1936-04-14,,3,88
+1440804,Jane Eggertsen,1,1973-02-26,,2,51
+1440807,Bolette Schrøder,1,1968-05-08,,1,56
+1440808,Anne Fletting,1,1960-07-25,,6,64
+1440813,Hubert Mittendorf,2,1934-03-28,1983-01-11,1,48
+1440816,Børge Hilbert,2,1904-12-05,1985-12-02,1,80
+1440823,Karl Antz,2,1947-08-05,,3,77
+1440839,Niels Martin Carlsen,2,1951-02-08,2020-05-27,1,69
+1440851,Kasper Gaardsøe,2,1974-06-08,,1,50
+1440929,Hugo Øster Bendtsen,2,1948-05-25,1998-07-07,6,50
+1440941,Lisbeth Gajhede,1,1954-04-23,,4,70
+1440943,Claus Hesselberg,2,1948-05-25,2014-08-04,6,66
+1440971,Troels Trier,2,1940-01-17,,1,84
+1440973,Peeter Kard,2,1940-07-02,2006-04-04,1,65
+1440974,Mikhail Belinson,2,1959-11-08,,1,65
+1440986,Anne Magnér,1,1958-11-11,,2,66
+1441000,Jonna Hjerl,1,1940-10-17,,1,84
+1441041,Sixten Tobias Kai Nielsen,2,1978-09-28,,1,46
+1441045,Dea Fog,1,1957-08-10,,1,67
+1441048,Peter Milling,0,1957-12-03,,3,67
+1441049,Mogens Rex,2,1965-08-24,,6,59
+1441050,Søren Gorm Hansen,2,1946-10-22,,2,78
+1441059,Silja Eriksen Jensen,1,1986-03-13,,5,38
+1441061,Sarah Grünewald,1,1984-02-05,,3,40
+1441071,Signe Lindkvist,1,1974-04-30,,3,50
+1441072,Tom Hale,2,1967-01-03,,3,57
+1441073,Simone Lykke,1,1986-09-09,,2,38
+1441080,Jens Bo Jørgensen,2,1969-09-29,,3,55
+1441089,Dina Al-Erhayem,1,1975-10-02,2019-12-29,2,44
+1441374,Birgitte Prins,1,1963-05-03,,6,61
+1441411,Aske Jacoby,2,1963-11-29,,1,61
+1441412,Janek Lesniak,2,1963-10-30,,6,61
+1441485,Jens Basse Dam,2,1948-11-25,,4,76
+1441487,Thomas Hwan,2,1982-05-04,,8,42
+1441488,Asger Gottlieb,2,1954-01-14,,2,70
+1441509,Malkith Singh,2,1967-11-05,,1,57
+1441512,Christopher Læssø,2,1985-03-07,,13,39
+1441540,Anna Clara Sachs Leschly,1,1995-01-11,,2,29
+1441544,Annethia Lilballe,1,1965-04-15,,1,59
+1441545,Trine Runge,1,1959-05-02,,3,65
+1441546,Karsten Jansfort,2,1964-03-23,,2,60
+1441548,Rebekka Owe,1,1962-08-24,,2,62
+1441549,Anne Marie Pock-Steen,1,1962-12-15,,1,62
+1441550,Camilla Gjelstrup,1,1975-08-13,,1,49
+1441819,Lars Lønnerup,2,1948-08-13,,2,76
+1441820,Christine Albrechtslund,1,1972-02-21,,1,52
+1441839,Zeev Sevik Perl,2,1959-02-10,,9,65
+1441841,Ane Stensgaard Juul,1,1993-12-08,,2,31
+1441843,Lisbeth Østergaard,1,1980-06-05,,1,44
+1441844,Asbjørn Krogh Nissen,2,1981-09-04,,3,43
+1441851,Jes Dorph-Petersen,2,1959-03-23,,6,65
+1441885,Michael Simpson,2,1954-02-09,2022-08-01,5,68
+1441886,Marcus Christensen,0,1974-02-11,,3,50
+1441887,Per Otto Bersang Rasmussen,2,1958-06-06,,4,66
+1441905,René Benjamin Hansen,2,1974-03-22,,6,50
+1441907,Jesper Kaplan,2,1967-05-18,,1,57
+1441908,Charlotte Rathnov,1,1975-04-16,,1,49
+1441912,Jan Zuska,2,1975-08-14,,1,49
+1441916,Robert Reinhold,2,1963-06-03,,3,61
+1441919,Caspar Phillipson,2,1971-01-13,,14,53
+1441921,Nikola Navrátil,2,1984-12-05,,1,40
+1441924,Jens Blegaa,2,1963-09-04,,6,61
+1441927,Jens Zacho Böye,0,1958-01-30,,2,66
+1441930,Anders Budde,2,1976-02-25,,4,48
+1441931,Daniel Engstrup,2,1975-08-23,,2,49
+1441938,Max Emil Nissen,2,1980-12-17,,1,44
+1441945,Sune Geertsen,2,1978-08-13,,2,46
+1441947,Mads Ole Langelund Larsen,2,1995-08-24,,3,29
+1442251,Linda Daae,1,1960-06-03,2023-10-16,1,63
+1442261,Veronika Arichteva,1,1986-05-20,,1,38
+1442270,Hakim Harder,2,1972-09-18,,2,52
+1442272,Marie Carmen Lindegaard,1,1980-04-01,,1,44
+1442314,Mads Rømer,2,1978-06-28,,5,46
+1442315,Martin Hylander Brücker,2,1977-08-28,,3,47
+1442319,Nukâka Coster-Waldau,1,1971-02-23,,4,53
+1442342,Fadime Turan,1,1973-10-20,,4,51
+1442347,Henry Jessen,2,1919-05-12,1994-05-13,2,75
+1442351,Janus Kim Elsig,2,1982-02-25,,1,42
+1442353,Jesper Ole Feit Andersen,2,1985-08-26,,7,39
+1442355,Emma Roed Gottlieb,1,1996-08-02,,1,28
+1442358,Ida Leschly Blegvad,1,1988-03-31,,1,36
+1442359,Thomas Biehl,2,1971-05-10,,6,53
+1442362,Bobby Hess,2,1969-04-07,,1,55
+1442364,Kristine Yde Eriksen,1,1983-07-17,,2,41
+1442366,Poul Storm,2,1957-02-14,,2,67
+1442377,Inger Hovman,1,1946-06-09,2017-01-19,2,70
+1442379,Jacob Morild,2,1966-09-16,,1,58
+1442501,Arne Lundemann,2,1947-02-04,,1,77
+1442681,Anna Britt Mathiassen,1,1972-01-06,,2,52
+1442684,Niels Brinch,2,1956-10-03,,2,68
+1442695,Sebastian Bull Sarning,2,1995-09-25,,6,29
+1442697,Troels Thorsen,2,1975-12-01,,3,49
+1442702,Frank Rubæk,2,1969-06-12,,2,55
+1442709,Katrine Brygmann,1,1969-08-03,,1,55
+1442710,Camille Rommedahl,1,1983-02-21,,3,41
+1442714,Ann Hjort,1,1956-10-11,,4,68
+1442895,Felix Smith,2,1976-10-12,,1,48
+1443037,Stine Schrøder Jensen,1,1973-03-18,,8,51
+1443045,Anna Stokholm,1,1988-03-19,,3,36
+1443046,Dan Boie Kratfeldt,2,1985-03-21,,5,39
+1443058,Caspar Jexlev Fomsgaard,2,1986-06-14,,4,38
+1443093,Claus Damgaard,2,1966-08-21,,2,58
+1443097,Ole Sørensen,2,1952-07-06,,4,72
+1443104,Sune Rose Wagner,2,1973-07-24,,1,51
+1443105,Thomas Helmig,2,1964-10-15,,1,60
+1443107,Søren Rasted,2,1969-06-13,,1,55
+1443109,Barbara Borchorst,1,1962-12-31,,1,62
+1443114,Karoline Munksnæs,1,1978-12-05,,1,46
+1443116,Stine Chen,1,1989-08-22,,1,35
+1443118,Paw Terndrup,2,1979-04-10,,8,45
+1443119,Roger Matthisen,2,1976-04-01,,2,48
+1443130,Lone Rødbroe,1,1969-01-30,,4,55
+1443131,Allan Helge Jensen,2,1969-03-15,,1,55
+1443132,Hanne Laursen,1,1957-08-22,,1,67
+1443133,Michael Derlev Harbo,2,1965-12-25,,1,59
+1443134,Lars Ditlev Johansen,2,1964-12-12,,3,60
+1443147,Anders Peter Bro,2,1965-10-26,,2,59
+1443149,Søren Poppel,2,1963-11-23,,8,61
+1443150,Michael Kamber,2,1967-07-21,,1,57
+1443154,Mikkel Trier Rygård,2,1979-11-11,,1,45
+1443160,Preben Elkjær,2,1957-09-11,,1,67
+1443230,Bodil Heister,1,1952-02-26,,1,72
+1443234,Camilla Einfeldt,1,1963-05-09,,1,61
+1443237,Lene Falck,2,1955-09-30,,1,69
+1443238,Kristian Boland,2,1959-09-25,,3,65
+1443243,Ian Burns,2,1957-02-10,,1,67
+1443253,Sofus Kornebæk,2,1945-12-07,,1,79
+1443297,Pelle Nordhøj Kann,2,1980-02-29,,2,44
+1443305,Peter Flyvholm,2,1972-12-11,,4,52
+1443306,Kristine Nørgaard,1,1977-03-24,,1,47
+1443324,Emily Yatman,1,1984-12-19,,2,40
+1443332,Trine Juul Andersen,1,1970-05-10,,1,54
+1443337,René Riis Rasmussen,2,1982-10-29,,1,42
+1443385,Marie Lydie Melono Nokouda,1,1981-01-02,,3,43
+1443387,Elvir Ramovic,2,1975-05-27,,3,49
+1443407,Charlotte Juul,1,1965-02-08,,2,59
+1443422,Jesper Vigant,2,1963-02-05,,2,61
+1443427,Eleni Anoussakis,1,1944-05-01,,1,80
+1443432,Iréne Söderblom,1,1921-11-19,2023-07-27,1,101
+1443436,Katja Holm,1,1974-08-05,,3,50
+1443438,Reimer Bo Christensen,2,1950-06-07,,5,74
+1443439,Signe Wenneberg,1,1968-04-12,,3,56
+1443440,Nikolaj Koppel,2,1969-03-06,,1,55
+1443464,Freddie Andersen,2,1944-03-28,2014-02-07,1,69
+1443492,Clara Rugaard,1,1997-12-05,,1,27
+1443504,Signe Fabricius,1,1971-05-01,,3,53
+1443534,Albert Wichmann,2,1949-08-25,,2,75
+1443535,Maria Rich,1,1973-06-25,,4,51
+1443545,Lars H.U.G.,2,1953-09-11,,2,71
+1443553,Mogens Eckert,2,1960-11-20,,4,64
+1443734,Joakim Malling,2,1972-04-26,,2,52
+1443735,Maria Stenz,1,1940-08-16,,2,84
+1444097,Christian Gade Bjerrum,2,1981-10-26,,2,43
+1444142,Jakob Kvist,2,1964-01-04,,1,60
+1444143,Sten Ørting,2,1957-11-20,,1,67
+1444187,Joachim Fjelstrup,2,1987-09-25,,9,37
+1444421,Jörgen Berthage,0,1978-05-17,,1,46
+1444432,Oscar Walsøe Busch,2,1997-01-21,,3,27
+1444437,Sebastian Aagaard-Williams,2,1988-08-11,,1,36
+1444450,Meike Bahnsen,1,1973-07-15,,3,51
+1444452,Ditte Arnth,1,1982-07-16,,4,42
+1444453,Lucas Lynggaard Tønnesen,2,2000-07-13,,2,24
+1444462,Uffe Kristensen,2,1956-01-20,,1,68
+1444463,Kjeld Høegh,2,1946-12-05,,1,78
+1444464,Christian Matschofsky,2,1989-10-03,,1,35
+1444468,Lucia Vráblicová,1,1973-07-19,,1,51
+1444471,Martin Dusbaba,2,1976-04-10,,1,48
+1444485,Jan Fog,2,1949-01-28,2015-04-23,1,66
+1444488,Thomas Harder,2,1959-12-30,,1,65
+1444508,Aino Junka,1,1974-01-05,,1,50
+1444539,Michael Fabricius Sand,2,1970-11-01,,1,54
+1444541,Merete Nørgaard,1,1964-05-29,,3,60
+1444547,Lotte Mejlhede,1,1966-08-09,,1,58
+1444553,Carina Due,1,1982-08-21,,3,42
+1444569,Joel Hyrland,2,1985-01-16,,6,39
+1444588,Hans Dueholm,2,1964-12-28,,2,60
+1444590,Mathias Sparre-Ulrich,2,1973-05-20,,2,51
+1444593,Dennis Albrethsen,2,1965-06-06,,5,59
+1444597,Henrik Holm,2,1995-09-12,,1,29
+1444615,Anders Aamodt,2,1987-04-10,,2,37
+1444623,Mads Emil Grove Møller,2,1983-08-15,,1,41
+1444645,Susanne Strauss,1,1947-03-25,,1,77
+1444673,Jesper Zuschlag,2,1987-07-20,,5,37
+1444692,Josefine Højbjerg Bitsch,1,1985-11-07,,2,39
+1444696,Kristian Høgh Jeppesen,2,1977-07-21,,6,47
+1444741,Søren Byder,2,1972-07-20,,2,52
+1444751,Marianne Frost,1,1966-06-06,,1,58
+1444756,Christina Chanée,1,1979-01-06,,1,45
+1444879,Ib Frendø,2,1957-11-18,,1,67
+1444987,Camilla Lehmann,1,1990-05-01,,4,34
+1444991,Carsten Eigil Hedegaard,2,1968-07-03,,2,56
+1444992,Søren Bang Jensen,2,1975-11-09,,2,49
+1444996,Maj-Britt Mathiesen,1,1971-08-01,,4,53
+1445003,Malte Frid-Nielsen,2,1980-03-04,,5,44
+1445004,Rasmus Krogsgaard,2,1980-12-20,,1,44
+1445014,Alfred Bjerre Larsen,2,2002-07-29,,5,22
+1445030,Malene Beltoft Olsen,1,1984-09-28,,2,40
+1445038,Mathilde Passer,1,1993-02-26,,1,31
+1445053,Øyvind Fabricius Holm,2,1973-02-08,,2,51
+1445063,Al Agami,2,1972-03-06,,5,52
+1445064,Sarah Secher Ernst,1,1975-10-08,,1,49
+1445081,Philippe L. Christiansen,2,1974-05-26,,2,50
+1445139,Pernille Rosendahl,1,1972-03-22,,1,52
+1445140,Karen Rosenberg,1,1975-06-20,,2,49
+1445142,Ruddy Nyegaard,2,1939-12-11,,1,85
+1445177,Anders Larsson,2,1952-10-01,2021-09-20,1,68
+1445189,Niels Jørgen Riis,2,1969-07-16,,1,55
+1445191,Thomas Knuth-Winterfeldt,2,1979-05-25,,3,45
+1445197,Inge Molnes Heramb,1,1932-02-15,2011-07-21,1,79
+1445233,Astrid Reinhardt,1,1984-03-20,,1,40
+1445242,Kirsten Cenius,1,1943-11-23,,3,81
+1445243,Sidsel Agensø,1,1968-05-16,,1,56
+1445262,Benjamin Thorup Arnfred,2,1994-06-04,,2,30
+1445272,Hannah Johansen,1,1962-08-21,1998-02-19,1,35
+1445280,Bo Henriksen,2,1975-02-22,,1,49
+1445296,Per Linderoth,2,1958-11-16,,4,66
+1445298,Maj Bockhahn Bjerregaard,1,1984-02-29,,1,40
+1445300,Frank Lundsgaard Gundersen,2,1962-02-11,,3,62
+1445316,Suzette Kempf,1,1960-11-23,,1,64
+1445321,Michael Nørgaard,2,1963-11-09,,2,61
+1447328,Cecilie Stenspil,1,1979-10-22,,3,45
+1447650,Kasper Juhl,2,1991-04-12,,3,33
+1447798,Stig Rossen,2,1962-06-14,,1,62
+1456090,Anton Klink,2,1976-04-18,,1,48
+1456951,Runi Lewerissa,2,1958-10-28,,5,66
+1458362,Besir Zeciri,2,1990-07-06,,6,34
+1459336,Nanna Øland Fabricius,1,1985-05-02,,3,39
+1459518,Emil Nyløkke Thorup,2,1983-09-05,,1,41
+1459519,Gerz Feigenberg,2,1956-05-28,2011-05-02,1,54
+1460359,Peter Christoffersen,2,1980-02-12,,6,44
+1460361,Anton Honik,2,1995-03-20,,4,29
+1460362,Katrine Greis-Rosenthal,1,1985-09-19,,7,39
+1460363,Kasper Løfvall Stensbirk,0,1994-04-11,,4,30
+1460364,Peter Damm-Ottesen,2,1950-06-06,,5,74
+1460365,Nikolaj Groth,2,1994-05-03,,3,30
+1460367,Martine Ølbye Hjejle,1,1997-12-16,,1,27
+1460372,Peder Bille,2,1983-06-10,,1,41
+1460384,Zeino Macauley,2,1977-05-25,,4,47
+1463097,Jakob Randrup,2,1984-03-27,,3,40
+1464083,Arved Friese,2,2002-12-27,,1,22
+1467367,Mads Hjulmand,2,1982-11-12,,4,42
+1469773,Jonathan Harboe,2,1987-01-06,,3,37
+1470220,Martin Herzberg,2,1911-01-15,1972-07-16,5,61
+1470221,Karen Winther,1,1900-01-01,1989-01-07,6,89
+1470228,Cæcilie Nordgreen,1,1946-08-09,,1,78
+1476520,Marie Dinesen,1,1887-11-03,1938-08-17,8,50
+1476522,Harry Komdrup,2,1896-01-05,1958-05-25,5,62
+1476818,Mai Kirkensgaard,1,2003-10-02,,1,21
+1476824,Jakob Svarre Juhl,2,1984-10-18,,4,40
+1476834,Josephine Park,1,1987-04-10,,4,37
+1476836,Niels Anders Manley,2,1988-07-26,,2,36
+1476844,Bue Wandahl,0,1964-02-06,,2,60
+1476847,Nanna Buhl Andresen,1,1972-04-18,,1,52
+1476849,Anders Gjellerup Koch,2,1961-07-07,,1,63
+1476856,Mads-Peter Neumann,2,1939-01-22,,2,85
+1476866,Meliha Saglanmak,1,1954-10-10,,3,70
+1476867,Lasse Kramhøft,2,1978-08-05,,1,46
+1476871,Jacob Riising,2,1978-05-10,,2,46
+1476874,Meinhard St. John,2,1972-06-20,,1,52
+1476878,Hans Bülow Ungfelt,2,1975-07-09,,1,49
+1476882,Magnus Nørgaard Larsen,2,2001-09-03,,1,23
+1476884,Rosita Nellie Holse Gjurup,1,2008-09-12,,1,16
+1476886,William Rudbeck Lindhardt,2,1998-03-28,,2,26
+1476892,Anana Rydvald,1,1972-04-28,,1,52
+1476897,Stine Kongsted,1,1973-07-28,,1,51
+1476899,Karen B. Pedersen,2,1941-01-22,1974-03-12,1,33
+1476901,Thue Ersted Rasmussen,2,1985-11-15,,7,39
+1476902,Rhea Leman,1,1954-11-05,,2,70
+1476903,Adam Holm,2,1969-09-17,,1,55
+1476905,Katrine Engberg,1,1975-06-29,,2,49
+1476906,Sandra Yi Sencindiver,1,1980-01-30,,1,44
+1476907,Biljana Stojkoska,1,1975-05-12,,2,49
+1476917,Kamilla Walsøe,1,1973-05-14,,1,51
+1476918,Mikkel Beha Erichsen,2,1966-08-11,,1,58
+1476921,Sune Kofoed,2,1977-12-12,,3,47
+1476922,Jesper Dupont,2,1981-09-18,,4,43
+1476941,Frederik Cilius Jørgensen,2,1986-03-12,,2,38
+1476944,Holger Østergaard Kristensen,2,1967-09-11,,2,57
+1476946,Jesper Hagelskær Paasch,2,1985-04-07,,3,39
+1476947,Malene Knudsen,1,1987-06-26,,1,37
+1476952,Dan Schlosser,2,1956-02-20,,2,68
+1476956,Kristoffer Møller Hansen,2,1981-03-18,,1,43
+1478978,Cecilie Alstrup Tarp,1,1999-11-12,,3,25
+1478979,Nicoline Melbye Andreassen,1,2005-01-05,,1,19
+1478980,Nanna Schaumburg-Müller,1,1979-08-26,,4,45
+1480768,Aria Alexander,1,1995-03-25,,1,29
+1482914,Mikkel Hilgart,2,1991-12-26,,5,33
+1483183,Niki Nordenskjöld,1,1975-12-01,2014-09-03,1,38
+1486091,Gisli Alfredsson,2,1933-01-24,,1,91
+1486093,Jörgen Lantz,2,1943-12-23,,1,81
+1491453,Sofia Nolsøe Mikkelsen,1,1986-02-05,,3,38
+1494061,Peder Thomas Pedersen,2,1973-09-13,,8,51
+1494062,Roberta Reichhardt,1,1996-09-17,,5,28
+1494871,Morten Vang Simonsen,2,1980-03-31,,1,44
+1494873,Elias Munk,2,1992-05-21,,5,32
+1494874,Helle Pilar Larsen,1,1972-06-30,,5,52
+1499279,Marianna Rubinchik,1,1974-03-21,,1,50
+1501634,Ari Alexander,2,1990-09-17,,9,34
+1501644,Michael Bartroff,2,1945-09-08,2019-10-14,1,74
+1501645,Gerda Elisabeth Borchgrevink,1,1934-02-19,2014-03-24,2,80
+1501655,Ejnar Hans Jensen,2,1937-09-07,,4,87
+1501663,Lucienne Givry,1,1897-01-31,1983-10-17,1,86
+1501675,Sophus Kirkeby Windeløv,2,1979-09-01,,2,45
+1501676,Niels Vendius,2,1962-01-03,,1,62
+1501687,Rosa Katrine Frederiksen,1,1950-06-15,2014-01-23,2,63
+1501689,Pernille Hilgart,1,1976-02-25,,1,48
+1501706,Fritz Brun,2,1936-03-29,,1,88
+1501721,Emmy Schønfeld,1,1873-04-13,1956-05-27,4,83
+1501903,Mette Vibe Utzon,1,1967-04-07,,1,57
+1501958,Ettie Heide,1,1917-12-04,2006-05-25,1,88
+1501968,Rigmor Hvidtfeldt,1,1907-06-13,1991-07-07,2,84
+1502044,Oda Pasborg,1,1911-08-19,1945-02-24,1,33
+1502585,Thyge Thygesen,2,1941-06-09,,1,83
+1502586,Johannes Fønss,2,1884-01-16,1964-12-16,2,80
+1502686,Anna Borg,1,1903-07-30,1963-04-14,1,59
+1503452,Lizzi Lykke,1,1941-11-10,,1,83
+1505339,Tomáš Dianiška,2,1984-10-10,,2,40
+1505520,Ulf Stenbjørn,2,1921-09-15,2012-02-03,1,90
+1505674,Jelena Bundalovic,1,1992-02-20,,2,32
+1505681,Annemieke Bredahl Peppink,1,2004-11-02,,1,20
+1505682,Clement Blach Petersen,2,1973-10-15,,2,51
+1505684,Peter Zandersen,2,1983-12-28,,4,41
+1505686,Niels Thanild,2,1976-06-19,,1,48
+1505687,Jacob Guldager,2,1981-02-12,,3,43
+1505792,Sara Bro,1,1974-04-27,,3,50
+1505796,Peter Secher Schmidt,2,1963-03-17,,2,61
+1505798,Kim Veisgaard,2,1954-09-11,,3,70
+1508837,Magnus Mark,2,1964-11-26,,1,60
+1509596,Kristoffer Fabricius,2,1981-08-07,,2,43
+1509601,Sandra Ostermann Cardichon,1,1967-03-22,,1,57
+1509605,Andreas Berg Nielsen,2,1984-12-10,,1,40
+1511767,Sigurd Emil Roldborg,2,1967-04-17,,2,57
+1511768,Kathrine Herforth,1,1972-05-10,,1,52
+1514777,Thomas Norgreen Nielsen,2,1999-07-08,,1,25
+1514779,Julia Wentzel Olsen,1,1998-12-12,,2,26
+1514784,Vibeke Dueholm,1,1960-02-08,,1,64
+1514813,Nicky Lindby Andersen,2,1997-07-31,,1,27
+1514976,Niels Bender,2,1962-12-11,,1,62
+1515019,Jørn Hjorting,2,1931-01-12,,1,93
+1515020,Niels Sleimann,2,1954-08-20,1990-10-30,3,36
+1515026,Klaus Kjellerup,2,1954-04-27,,1,70
+1515174,Leonora Alkærsing Nielsen,1,1997-04-10,,1,27
+1515182,Ida Marie Nielsen,1,1996-08-20,,2,28
+1515211,Suzanne Darmer,0,1969-05-28,,1,55
+1515583,Marco Grimnitz,2,1984-11-28,,2,40
+1515707,Michael Gade Thomsen,2,1978-06-06,,1,46
+1517994,Annika Holm Remmer,1,2002-10-30,,1,22
+1518001,Laura Wilhelmi Ljungdalh,1,1975-01-04,,1,49
+1518003,Kasper Østerholdt Jensen,2,1977-09-22,,1,47
+1518004,Magnus Bruun,2,1984-01-03,,8,40
+1518076,Jonatan Tulested,2,1995-06-12,,2,29
+1518799,Nikolaj Hübbe,2,1967-10-30,,1,57
+1518800,Sara Viktoria,1,1994-08-24,,5,30
+1518801,Sidsel Siem Koch,1,1986-05-16,,3,38
+1518807,Jan Overgaard Mogensen,2,1971-12-16,,1,53
+1518808,Sofia Saaby Mehlum,1,1986-08-05,,1,38
+1518818,Henrik Trenskow,2,1968-05-16,,1,56
+1518864,Ole Busck,2,1953-01-13,,1,71
+1519948,Carsten Svendsen,2,1979-07-16,,1,45
+1521224,Simon Munk,2,1989-08-23,,1,35
+1521863,Aaron Koszuta,2,1994-06-04,,1,30
+1522171,Anders Stjernholm,2,1980-11-22,,2,44
+1522439,Erann DD,2,1967-09-07,,1,57
+1522441,Erling Eliasson,2,1956-12-01,,1,68
+1522446,Ilia Swainson,1,1965-07-24,,1,59
+1522447,Alexandra Ternstroem,1,1972-08-28,,4,52
+1522448,Hanne Uldal,1,1950-05-14,,2,74
+1522961,Kathrine Høj Andersen,1,1980-01-21,,2,44
+1522965,Nina Høgsberg,1,1958-04-02,,1,66
+1523034,Simon Van Lammeren,2,1976-12-04,,1,48
+1523037,Anne Christine Bech,1,1971-10-02,,1,53
+1534037,Annette Ketscher,1,1962-12-19,,3,62
+1534062,Hanne Boel,1,1957-08-31,,1,67
+1534072,Svend Melsing,2,1888-12-27,1946-06-08,3,57
+1534989,Martin Frislev Ammitsbøl,2,1976-11-09,,2,48
+1535207,Jesper Pedersen,2,1972-06-09,,1,52
+1536433,Liv Leman Brandorf,1,2001-11-11,,4,23
+1536438,Carsten Rudolf,2,1965-08-03,,1,59
+1540041,Suzanne Brøgger,1,1944-11-18,,1,80
+1542778,Tanne Sommer,1,1993-03-05,,1,31
+1542791,Téo Lepetit,2,1997-10-12,,2,27
+1543753,Sussie Nøhr,1,1948-07-24,,2,76
+1543789,Maj Kierkensgaard,1,2003-10-02,,1,21
+1543790,Anne Dalsgaard,1,1963-07-25,,1,61
+1543962,Niclas Vessel Kølpin,2,1985-07-30,,2,39
+1544029,Søs Sif Thiele,1,1973-02-02,,2,51
+1544031,Dan Jakobsen,2,1980-05-24,,3,44
+1546087,Emil Belton,2,1999-01-01,,1,25
+1546089,Oskar Belton,2,1999-01-01,,1,25
+1546090,Maximilian Beck,2,1995-11-26,,1,29
+1546091,August Carter,2,1998-02-05,,2,26
+1546096,Simone Colling,1,1994-03-12,,1,30
+1546915,Jesper Riefensthal,0,1979-04-01,,5,45
+1546919,Anders Gjellerup Koch,2,1961-07-07,,1,63
+1547784,Michaela Horká,1,1986-11-22,,1,38
+1547787,Zinnini Elkington,1,1989-01-02,,2,35
+1547788,Karel Polišenský,2,1943-12-09,2022-09-07,1,78
+1547789,Eva Sitta,1,1954-08-17,,1,70
+1547790,Daniel Bambas,2,1980-03-31,,1,44
+1547799,Jakub Albrecht,2,1983-09-24,,1,41
+1549785,Paulo Fortes,2,1923-02-07,1997-01-09,1,73
+1552847,Albert Rudbeck Lindhardt,2,2001-07-12,,9,23
+1553501,Murad Mahmoud,2,1985-11-13,,1,39
+1553506,Steffen Rode,2,1950-02-21,2019-03-23,2,69
+1554945,Lea Løbger,1,1977-01-17,,1,47
+1558826,Stella Lind,1,1892-09-17,1919-06-01,3,26
+1560170,Claus Bahnsen,2,1965-09-16,,2,59
+1560173,Nynne Bojsen,1,1972-03-03,,1,52
+1560174,Dorte Højsted,1,1958-03-20,,6,66
+1561213,Legolas Telling 'Clemens',2,1979-10-08,,1,45
+1562278,Slavica Knežević,1,1955-08-17,,2,69
+1565240,Herman Tømmeraas,2,1997-04-02,,1,27
+1568312,Mikkel Egelund,2,1974-08-11,,1,50
+1570465,Ewa Sałacka,1,1957-05-03,2006-07-23,1,49
+1576745,Charlotte Tomaszewska,1,1990-02-07,,1,34
+1584490,May Simón Lifschitz,1,1995-05-17,,2,29
+1584491,Nanna Skaarup Voss,1,1990-10-24,,3,34
+1587468,Şebnem Hassanisoughi,1,1985-12-07,,1,39
+1589551,Anders Grau,2,1981-08-03,,4,43
+1592767,Malte Houe,2,2002-08-17,,3,22
+1595315,Nikolaj Harris,2,1972-06-04,,1,52
+1595324,Merete Hegner,1,1952-07-30,,2,72
+1595328,Alice Thorlacius,1,1949-10-18,,2,75
+1596934,Natalia Reyes,1,1987-02-06,,1,37
+1597941,Mikkel Lomborg,2,1971-02-02,,1,53
+1597943,Rosa Marie Gjerluff Nyholm,1,1989-10-09,,1,35
+1601435,Ardalan Esmaili,2,1986-03-22,,3,38
+1602451,Amanda Collin,1,1986-03-04,,9,38
+1602692,Daniel Bevensee,2,1984-04-02,,1,40
+1604347,Monica Mariotti,1,1976-01-01,,1,48
+1606121,Miri Ann Beuschel,1,1992-02-10,,4,32
+1607554,Hircano Soares,2,2001-09-29,,3,23
+1609347,Alex Høgh Andersen,2,1994-05-20,,4,30
+1609351,Christian Abart,2,1959-02-21,,1,65
+1610875,Harald Kaiser Hermann,2,2005-10-12,,3,19
+1615395,Julie Brochorst Andersen,1,1993-05-27,,4,31
+1616206,Simon Bennebjerg,2,1989-10-05,,6,35
+1616237,Shelly Levy,1,1991-02-19,,2,33
+1616643,Hans Christian Ægidius,2,1933-03-24,2008-03-27,10,75
+1623516,Štěpánka Fingerhutová,1,1996-07-01,,1,28
+1626144,Gustl Weishappel,2,1925-05-27,2008-04-21,1,82
+1630942,Alexander Kølpin,2,1965-06-01,,1,59
+1632952,Sonny Lindberg,2,1993-02-27,,3,31
+1639188,Cecilie Lassen,1,1981-10-20,,1,43
+1639191,Alban Lendorf,2,1989-09-07,,3,35
+1640021,Anders Mossling,2,1963-07-20,,7,61
+1648346,Robert Aramayo,2,1992-11-06,,1,32
+1648592,Esben Petersen,2,1917-07-25,2005-11-12,1,88
+1649390,Marta Dancingerová,1,1991-09-26,,1,33
+1656523,Cæcilia Holbek Trier,1,1953-04-16,2023-11-21,1,70
+1660158,Martin Elung Jensen,2,1959-03-02,,1,65
+1664363,Beatrice Seedorff,1,1952-11-09,,1,72
+1664404,Oliver Methling Søndergaard,2,2000-01-16,,2,24
+1664714,Otávio Martins,2,1970-04-25,,1,54
+1664852,Peter Ingemann,2,1973-02-01,,1,51
+1670539,Nils Ufer,2,1939-06-17,1993-01-02,2,53
+1674304,Stine Primdahl,1,1988-03-23,,1,36
+1675233,Stine Sylvestersen,1,1960-12-11,,2,64
+1676769,Clara Rosager,1,1996-11-11,,4,28
+1676770,Lukas Løkken,2,1992-07-15,,1,32
+1680371,Flora Ofelia Hofmann Lindahl,1,2005-07-14,,4,19
+1680388,Christine Albeck Børge,1,1974-08-12,,7,50
+1682477,Casper Kjær Jensen,2,1995-05-07,,3,29
+1683235,Morten Hemmingsen,2,1980-12-19,,5,44
+1685436,Hans Neergaard,2,1865-07-25,1926-06-16,1,60
+1688101,Bianca Allaine,1,1979-08-26,,1,45
+1691359,Anette Toftgaard,1,1971-07-08,,1,53
+1697114,Musse Scheel,1,1868-07-17,1944-12-14,2,76
+1702677,William Markus,2,1917-01-12,1989-10-10,1,72
+1708786,Otto Reinwald,2,1899-08-23,1968-07-01,2,68
+1711313,Gustav Hintze,2,1994-07-08,,2,30
+1711498,Susanne Billeskov,1,1973-04-03,,1,51
+1711703,Eszter Csépai,1,1986-07-06,,1,38
+1714049,Rafael Lozano,2,1989-02-27,,1,35
+1714735,Jan Jankovský,2,1983-04-18,,2,41
+1716598,Iselin Shumba Skjævesland,1,1984-12-28,,1,40
+1723384,Jesper Find,2,1947-09-30,2014-08-01,2,66
+1725939,Michael Kvium,2,1955-11-15,,1,69
+1731807,Niels Brandt,2,1983-08-22,,1,41
+1731811,Mette Lindberg,1,1983-12-02,,1,41
+1734061,Sigrid Aalbæk Jensen,1,1985-05-31,,1,39
+1734071,Albert Bendix,2,1972-05-02,,2,52
+1735552,Birgit Thøt Jensen,1,1958-09-20,,2,66
+1738725,June Belli,1,1948-11-22,,2,76
+1739403,Amir El-Masry,2,1990-08-02,,1,34
+1741460,Alexander Behrang Keshtkar,2,1984-07-03,,3,40
+1741461,Jørgen W. Larsen,2,1955-09-25,,3,69
+1741884,Bente Eskesen,1,1948-11-16,,4,76
+1746767,Remee Jackman,2,1974-11-08,,3,50
+1747630,Charlotte Toft,1,1961-04-18,,2,63
+1747631,Ditte Karina Nielsen,1,1970-11-11,,3,54
+1748218,Natasha Romanova,1,1979-04-22,,1,45
+1754209,Lúcia Mello,1,1932-09-22,2005-08-08,1,72
+1773593,Berte Fischer-Hansen,1,1965-08-20,,1,59
+1775367,Wenanty Nosul,2,1949-01-01,,1,75
+1783172,Bertil Smith,2,2008-02-25,,3,16
+1788404,Leoš Juráček,2,1972-05-31,,1,52
+1789828,Pernille Andersen,1,1978-08-18,,3,46
+1795857,Frank Holms,2,1931-10-16,,1,93
+1805660,Fredbjørn Bjørnsson,2,1926-09-10,1993-12-29,1,67
+1808089,Carl Erik Soya,2,1896-10-30,1983-11-10,1,87
+1811490,Eeva Putro,1,1978-03-30,,1,46
+1815522,Roman Schomburg,2,1992-06-25,,1,32
+1816497,Rumle Sieling Langdal,2,1987-07-28,,1,37
+1816548,Carsten Jørgensen,0,1962-09-30,,1,62
+1816555,Mads Duelund,2,1992-07-11,,1,32
+1816558,Tobias Johannesen,2,1992-01-14,,3,32
+1819825,Thomas Guldberg Madsen,2,1971-12-15,,4,53
+1819871,Peter Seligmann,2,1950-04-02,,2,74
+1824045,Lukas Toya,2,1993-07-18,,4,31
+1824046,Josefine Lindegaard,1,1998-05-16,,2,26
+1824134,Emma Oline Skou,1,1996-07-17,,1,28
+1824183,Sara Masoudi,1,1983-01-29,,1,41
+1824356,Amany Turk,1,1964-05-16,,2,60
+1824370,Ulrikke Simonsen,1,1993-12-03,,1,31
+1824373,Azad Khidir,2,1955-07-01,,1,69
+1824384,Rhassan Muhareb,2,1982-01-12,,1,42
+1825588,Britt Bendixen,1,1942-01-14,2023-02-18,1,81
+1825589,Katinka Evers-Jahnsen,1,2006-10-09,,6,18
+1825590,Ulla Vejby,1,1984-06-15,,2,40
+1825799,Anne Karin Broberg,1,1960-05-05,,1,64
+1827325,Lorenz Christian Köhler,2,1972-05-16,,1,52
+1828049,Bo Brønnum,2,1964-11-11,,1,60
+1830137,Esther Marie Boisen Berg,1,2003-04-20,,1,21
+1831030,Einar Gensø,2,1958-03-21,,5,66
+1848905,Kae Bahar,2,1960-10-17,,1,64
+1853304,Robin Sondermann,2,1983-09-09,,1,41
+1860755,Mille Gori,1,1989-06-14,,1,35
+1873695,Kaya Wilkins,1,1990-01-01,,1,34
+1885470,Celine Mortensen,1,2007-11-22,,1,17
+1886257,Hulda Didrichsen,1,1872-02-02,1961-06-11,1,89
+1899097,Fridolf Rhudin,2,1895-10-10,1935-03-06,1,39
+1899509,Amanda Lund,1,1862-04-30,1929-09-26,4,67
+1902323,Iris Mealor Olsen,1,2003-05-24,,2,21
+1902520,Mikkel Rask,2,1987-01-01,,2,37
+1903672,Mads Tafdrup,2,1985-10-22,,1,39
+1908446,Jakob Agermose Pedersen,2,1976-04-21,,3,48
+1913463,Mille Maria Dalsgaard,1,1980-07-04,,1,44
+1916142,Josephine Chavarria Højbjerg,1,2003-01-14,,1,21
+1916717,Rudi Køhnke,2,1977-05-10,,5,47
+1919009,Anders Baggesen,2,1958-10-09,,2,66
+1919251,Angela Bundalovic,1,1995-07-28,,2,29
+1921846,Morten Hee Andersen,2,1991-05-22,,7,33
+1921849,Johanne Dal-Lewkovitch,1,1976-01-02,,1,48
+1921850,Camilla Lau,1,1989-11-17,,6,35
+1923199,Jessica Dinnage,1,1993-10-22,,6,31
+1923200,Johan Olsen,2,1969-03-20,,1,55
+1923201,Jeanette Lindbæk,1,1973-08-18,,3,51
+1923202,Gustav Möller,2,1988-01-01,,1,36
+1923753,Nono Zammit,2,1921-05-31,2016-03-15,1,94
+1928425,Natasha Brock,1,1989-02-09,,2,35
+1930734,Martin Krasnik,2,1971-06-22,,1,53
+1932373,Laura Kjær,1,1996-11-18,,3,28
+1933533,Rasmus Bruun,2,1983-01-15,,1,41
+1934697,Mathias Rahbæk,2,1987-07-30,,4,37
+1934698,Ida Cæcilie Rasmussen,1,1984-09-18,,5,40
+1935780,Martin Bo Lindsten,2,1981-07-25,,4,43
+1939110,Iben Nagel Rasmussen,1,1945-05-14,,1,79
+1944591,Ulver Skuli Abildgaard,2,1955-06-26,,7,69
+1948243,Anna Terpiłowska,1,1987-12-28,,1,37
+1949745,Siir Tilif,1,1986-07-12,,4,38
+1949751,Carl-Christian Riestra,2,1989-01-25,,2,35
+1949760,Mikkel Bay Mortensen,2,1972-01-06,,4,52
+1949762,Emil Sebastian Gohr,2,1986-07-27,,1,38
+1949763,Andrew Jeffers,2,1961-02-15,,2,63
+1949803,Jeppe Bruun Wahlstrøm,2,1983-03-08,,1,41
+1949814,Laura Allen Müller,1,1975-07-20,,2,49
+1949847,Jacob Taarnhøj,2,1983-11-03,,2,41
+1949848,Jonas Mogensen,2,1986-10-01,,1,38
+1954247,Thor Bjørn Krebs,2,1974-04-22,,2,50
+1954261,Jane Jeppesen,1,1927-06-09,2017-12-08,1,90
+1954280,Sigrid Kandal Husjord,1,1978-10-17,,2,46
+1954311,Casper Bengtson,2,1973-07-15,,1,51
+1954358,Teddy Edelmann,2,1941-09-09,2018-01-01,1,76
+1954416,Mads Kruse,2,1982-04-22,,4,42
+1959270,Thomas Findval Sølvskov,2,1989-08-26,,2,35
+1959373,Georg Richter,2,1915-12-27,1972-05-10,1,56
+1968819,Inge Lise Goltermann,1,1970-10-05,,2,54
+1977324,Søren Hellerup,2,1954-04-28,,1,70
+1978771,Jacob Madsen Kvols,2,1978-08-05,,3,46
+1978777,Peter Hellemann,2,1971-04-19,,1,53
+1978778,Poul Krebs,2,1956-05-28,,1,68
+1979256,Morten Roed Frederiksen,2,1979-11-15,,1,45
+1980435,Viktor Lazarev,2,1918-05-01,2007-02-17,1,88
+1985507,Silas Holst,2,1983-02-20,,1,41
+1985509,Saszeline Dreyer,1,1982-07-26,,1,42
+1988815,Anne Reumert,1,1984-02-06,,2,40
+1994008,Asta Kamma August,1,1991-11-05,,3,33
+1994065,Mohamed Ali Osman,2,1987-08-30,,1,37
+1996500,Kasper Wilton,2,1960-12-16,,1,64
+1996501,Kadhim Faraj,2,1949-07-01,,3,75
+1998275,Christian 'Krølle' Pedersen,2,1981-12-25,,2,43
+2006390,Mikkel Bentzen,2,1995-07-10,,1,29
+2009617,Jakob Stegelmann,2,1957-12-28,,1,67
+2009770,Mette K. Madsen,1,1975-02-04,,1,49
+2009771,Martin Geertz,2,1976-03-22,,2,48
+2013522,Igor Statsenko,2,1963-08-16,,1,61
+2014378,Morten Brovn Jørgensen,2,1981-04-25,,5,43
+2017965,August Igor Svideniouk Egholm,2,1998-08-21,,1,26
+2024348,Rose Broholm,1,1966-01-15,,1,58
+2031594,Mikkel Blaabjerg Poulsen,2,1974-01-01,,1,50
+2038232,Sandra Guldberg Kampp,1,2000-06-20,,4,24
+2038233,Carla Philip Røder,1,1998-09-08,,3,26
+2038235,Sofie Torp,1,1990-01-16,,10,34
+2038498,Marie Knudsen Fogh,1,1985-10-17,,2,39
+2039709,Arthur Köstler,2,1972-01-01,,1,52
+2039713,Frank Bätge,2,1961-07-10,,1,63
+2040125,Diêm Camille,1,1992-03-24,,7,32
+2040126,Rikke Bilde,1,1977-06-23,,4,47
+2040209,Gerda Lie Kaas,1,2006-06-11,,1,18
+2040211,Albert Werner Rønhard,2,2002-07-20,,1,22
+2065828,Nicklas Søderberg Lundstrøm,2,1986-03-15,,7,38
+2065941,Petra Špindlerová,1,1972-08-18,,1,52
+2078487,Jiří Konvalinka,2,1987-11-13,,1,37
+2079854,Kristine Kujath Thorp,1,1992-04-23,,2,32
+2080389,Tonny Landy,2,1937-07-30,2024-02-03,2,86
+2081774,Christine Sønderris,1,1981-10-25,,1,43
+2086615,Heidi Holm Katzenelson,1,1961-09-01,,3,63
+2093516,Daniel Zefier,2,1988-09-11,,2,36
+2094503,Heidi Keller,1,1985-06-04,,1,39
+2095773,Alfred Cohn,2,1867-06-14,1932-07-06,1,65
+2095806,Astrid Saalbach,1,1955-11-29,,1,69
+2095820,Bendt Hildebrandt,2,1945-10-13,,4,79
+2095965,Gleb Plaksin,2,1925-08-16,2008-11-21,1,83
+2095966,Yuri Sherstnev,2,1941-04-24,2017-05-12,1,76
+2095982,Natalya Sanzharova,1,1963-03-31,,1,61
+2095988,Grigory Nabatov,2,1932-02-03,,1,92
+2095989,Dmitri Khaustov,2,1975-05-01,,1,49
+2099616,Alfred Erik Nordhøj Kann,2,2004-08-12,,2,20
+2100743,Trine Larsen,1,1958-05-16,,1,66
+2100744,Preben Vridstoft,2,1951-06-23,,1,73
+2101846,Lisa M. Bentzen,1,1974-02-23,,1,50
+2101876,Erik Louring,2,1945-06-17,,1,79
+2101904,Jacob Binzer,2,1966-10-28,,1,58
+2101906,Johnny Reimar,2,1943-06-12,,1,81
+2102690,Viktor Melnikov,2,1976-07-09,,1,48
+2103500,Laust Sonne,2,1974-12-11,,2,50
+2103501,Mette Frank,1,1966-08-08,,1,58
+2103525,Cecilie Olrik,1,1963-10-01,,1,61
+2104054,Anne Dorte Michelsen,1,1958-07-17,,1,66
+2104124,Marianne Knorr,1,1949-02-03,,2,75
+2104153,Søren Kristiansen,2,1962-12-07,,1,62
+2104563,Rex Leonard,2,1993-07-23,,1,31
+2110194,Morten Wichmann,2,1989-12-06,,2,35
+2110246,Karoline Lieberkind,1,1972-05-31,,1,52
+2117343,Elias Budde Christensen,2,2002-03-26,,3,22
+2117344,Noa Risbro Hjerrild,2,2002-06-20,,2,22
+2117718,Rumle Kærså,2,2004-01-03,,1,20
+2120409,Justin Geertsen,2,2004-08-11,,1,20
+2121726,Jonas Strand Gravli,2,1991-11-10,,1,33
+2123580,Benedicte Balling,1,1976-02-10,2019-04-08,1,43
+2123581,Hans Pilgaard,2,1963-08-02,,1,61
+2123590,Dorit Stender-Petersen,1,1957-02-17,,2,67
+2123593,Christian Steffensen,2,1953-10-27,,1,71
+2129847,Arne Anton Faxhøj,2,1962-01-15,,1,62
+2130931,Marie Dalsgaard,1,1981-09-03,,5,43
+2134890,Anne-Marie Curry,1,1982-01-28,,1,42
+2134893,Youssef Wayne Hvidtfeldt,2,1988-08-06,,2,36
+2134894,Amira Jensen,1,1986-10-17,,2,38
+2134898,Barbro Skolmen,1,1994-01-28,,2,30
+2134899,Anne Sofie Wanstrup,1,1987-04-22,,3,37
+2135915,Caspar Juel Berg,2,1981-10-12,,2,43
+2135932,Rita Engberg Steen,1,2006-05-10,,1,18
+2138483,Ingolf Gabold,2,1942-03-31,,1,82
+2138486,Sigvard Bennetzen,2,1934-08-29,2021-03-10,2,86
+2138496,Svend Gehrs,2,1940-05-24,,3,84
+2138562,Kim Harris,2,1960-02-11,,1,64
+2138585,Irena Burawska,1,1922-09-01,2007-05-19,1,84
+2140569,Nadia Nouamani,1,1983-08-01,,5,41
+2141094,Nikolaj Wulff,2,1995-02-26,,2,29
+2141475,Amanda Radeljak,1,1991-06-18,,4,33
+2148999,Lasse Steen Jensen,2,1994-03-07,,1,30
+2163397,Jesper Groth,2,1989-01-31,,8,35
+2171629,Kalle Perlmutter,2,1988-04-06,,1,36
+2175695,Maria Gersby Cissé,1,1969-02-12,,1,55
+2175703,Alexander Clement,2,1987-11-04,,1,37
+2175705,Nina Rask,1,1998-07-03,,2,26
+2185272,Cornelie Elizabeth Boye Heegaard,1,2002-12-19,,1,22
+2187719,Kian Lawson-Khalili,2,2004-12-28,,1,20
+2187720,Safina Coster-Waldau,1,2003-11-05,,1,21
+2187787,Claes Kastholm Hansen,2,1942-12-18,2016-02-06,1,73
+2187789,Svend Ali Hamann,2,1933-12-23,2014-04-06,2,80
+2189731,Mia Lerdam,1,1982-07-01,,2,42
+2189732,Brian Hjulmann,2,1980-05-07,,2,44
+2190163,Mie Gren,1,1991-02-28,,5,33
+2190165,Andreas Holm-Hansen,2,1988-07-01,,1,36
+2190166,Nicklas Kingo,2,1990-01-01,,1,34
+2192086,Jonas von Lingen,2,1977-01-01,,1,47
+2198743,Kaspar Boye Larsen,2,1975-03-10,,1,49
+2203120,David James,2,1972-10-28,,1,52
+2204455,Zdeněk Godla,2,1975-05-25,,1,49
+2204688,Emil Millang,2,1989-08-17,,1,35
+2204691,Julie Rudbæk,1,1987-08-19,,2,37
+2204700,Kaya Toft Loholt,1,2007-12-21,,1,17
+2204701,Rigmor Ranthe,1,2003-07-02,,2,21
+2204705,Zaki Youssef,2,1979-07-24,,6,45
+2204706,Imad Abul-Foul,2,1962-12-05,,2,62
+2204801,Emma B. Marott,1,1998-12-12,,1,26
+2208065,Mahamad Habane,2,1990-11-03,,4,34
+2219934,Sophie Marie Jeppesen,1,1988-04-28,,2,36
+2219935,Mei Oulund,1,1966-06-25,,2,58
+2219949,Martin Ammundsen,2,1968-09-05,,1,56
+2219960,Marta Mleczek,1,1987-05-13,,1,37
+2243570,Jela Natius Abildgaard,1,1990-12-20,,1,34
+2243572,Lennart Falk,2,1977-01-15,,2,47
+2243574,Jan Brandi,2,1984-06-09,,1,40
+2243578,Maria Esther Lemvigh,1,1978-06-08,,2,46
+2243582,Johanne Bie,1,2000-10-10,,1,24
+2243583,Poul Erik Skammelsen,2,1963-04-19,,1,61
+2252399,Pernille Bergendorff,1,1976-10-06,,1,48
+2261371,Anna Asp,1,1984-07-30,,1,40
+2263933,Tessa Hoder,1,1997-07-04,,2,27
+2271840,Gustav Scavenius,2,1977-11-06,,1,47
+2273044,Jens de Place Bjørn,2,1972-03-14,,1,52
+2283344,Bjørn Fjæstad,2,1964-04-11,,1,60
+2283818,Thomas P. Hejle,2,1891-01-20,1952-10-23,1,61
+2294554,Ída Mekkín Hlynsdóttir,1,2008-08-22,,1,16
+2297394,Karoline Brygmann,1,1985-09-15,,4,39
+2298893,Eva Jensen,1,1957-08-24,,1,67
+2304660,Libor Matouš,2,1995-01-25,,1,29
+2304661,Barbora Bočková,1,1989-11-17,,1,35
+2304896,Louis Sylvester Larsen,2,2000-04-07,,1,24
+2304914,Betina Grove,1,1972-01-25,,3,52
+2311120,Andreas Dittmer,2,1972-04-16,,1,52
+2328180,Melvin Kakooza,2,1991-10-12,,1,33
+2328186,Mark le Fêvre,2,1988-12-30,,2,36
+2332418,Sofia Asir,1,1994-02-07,,1,30
+2350923,Emmelie de Forest,1,1993-02-28,,1,31
+2354617,Anders Agger,2,1964-10-23,,1,60
+2361843,Morten Burian,2,1974-09-08,,4,50
+2366462,Mathias Broe,0,1992-06-09,,1,32
+2383403,Morten Bomby Knudsen,2,1984-12-08,,1,40
+2383412,Mogens Rubinstein,2,1948-11-07,,4,76
+2383416,Afshin Firouzi,2,1980-09-22,,4,44
+2388792,Jonathan Wiking,2,1996-01-04,,1,28
+2391258,Vivelill Søgaard Holm,1,2005-04-26,,2,19
+2393387,Emma Wiehe,1,1864-06-30,1949-05-05,5,84
+2393388,Lilian Zangenberg,1,1907-11-21,1968-10-12,2,60
+2407275,Stine Gyldenkerne,1,1984-04-21,,1,40
+2407277,Peter Khouri,2,1971-01-31,,2,53
+2407279,Nessie Beik,1,1982-06-15,,2,42
+2407280,Stanley Bakar,2,1988-03-29,,1,36
+2410004,Olivia Joof Lewerissa,1,1988-08-22,,3,36
+2417219,Elisabeth von Rosen,1,1963-01-11,,1,61
+2420854,Katrine Bæk,1,1985-04-24,,2,39
+2420855,Chadi Abdul-Karim,2,1978-07-23,,1,46
+2423315,Agnes Westerlund Rase,1,1994-01-18,,1,30
+2429663,Eli Lehmann,1,1902-06-30,1959-06-28,1,56
+2436971,Desmond Scarlett,2,1944-05-07,,1,80
+2437035,Peter Jerndorff,2,1842-11-24,1926-12-23,1,84
+2438687,Sophus Erhardt,2,1865-05-12,1927-03-06,1,61
+2449079,Amanda Elizabeth Rischel,1,1988-11-07,,1,36
+2451637,Albert Price,2,1844-01-25,1927-06-13,1,83
+2451638,Frederik Schack-Jensen,2,1877-05-03,1963-06-04,1,86
+2451639,Gerda Tarnow,1,1890-02-16,1981-08-05,1,91
+2451849,Emilie Walbom,1,1858-10-27,1932-10-23,1,73
+2452510,Bernhard Lehmann,2,1860-09-05,1928-08-26,1,67
+2452513,Hans Starck,2,1888-01-25,1961-11-02,2,73
+2452514,August Wehmer,2,1890-08-04,1934-11-17,1,44
+2452515,Georg Christensen,2,1890-12-13,1915-06-24,1,24
+2452516,Doris Johannessen,1,1886-12-13,1981-12-14,1,95
+2452518,Per Stensgaard,2,1911-02-27,1958-02-18,1,46
+2452654,Hans Dynesen,2,1870-09-25,1939-12-04,2,69
+2454477,Maja Bjerre-Lind,1,1881-09-14,1939-04-08,2,57
+2454478,Aage Henvig,2,1882-09-06,1948-03-02,2,65
+2473533,Rasmus Hougaard,2,1985-05-12,,1,39
+2480998,Albert Arthur Amiryan,2,1994-10-30,,1,30
+2480999,Kristian AK Mogensen,2,1987-05-06,,1,37
+2486187,Andrea Heick Gadeberg,1,1998-11-24,,4,26
+2488910,Ane Helene Hovby,1,1981-06-05,,1,43
+2488912,Frieda Krøgholt,1,1999-06-07,,1,25
+2499091,Vibeke Krøyer,1,1895-01-05,1985-04-29,2,90
+2504733,Anne Bakland,1,1986-04-26,,4,38
+2504924,Maria Winther Nørgaard,1,1991-09-24,,2,33
+2532339,Simon Kongsted,2,1990-08-22,,2,34
+2532340,Magnus Haugaard,2,1995-02-20,,4,29
+2532345,Mathias Bøgelund,2,1992-09-22,,2,32
+2532347,Nana Rytter Nielsen,1,1983-01-04,,1,41
+2541751,Bertram Bisgaard Enevoldsen,2,2006-04-03,,1,18
+2542290,Victor Lander,2,1994-04-26,,2,30
+2547123,Conrad Bjerre Christensen,2,1914-01-10,1976-09-10,1,62
+2553693,Lars Malmquist,2,1965-04-04,,1,59
+2562370,Elna Brodthagen,1,1909-05-21,2009-04-30,2,99
+2562447,Bent Bertramsen,2,1941-02-21,1997-02-23,1,56
+2572214,Palle Birch,2,1993-04-12,,1,31
+2579449,Jan Ferslev,2,1949-01-01,,1,75
+2582060,Pernille Holst,1,1965-08-05,,1,59
+2582061,Anne Plauborg,1,1991-04-10,,2,33
+2582644,Mathias Flint,2,1983-07-03,,1,41
+2584574,Emilie Kroyer Koppel,1,2002-06-07,,5,22
+2587863,Sofie Juul Blinkenberg,1,1997-09-07,,3,27
+2595149,Cecilie Haugaard Larsen,1,1994-11-29,,1,30
+2595150,Salle Salée,1,1992-03-16,,1,32
+2595153,Lasse Sjørslev,2,1974-02-08,,1,50
+2595154,Nikolaj Jacobsen,2,1971-11-22,,1,53
+2595158,Molly Krog Schmidt,2,1988-08-28,,1,36
+2595280,Thea Bell Schok,1,1986-10-10,,1,38
+2595292,Kim Bildsøe Lassen,2,1963-04-09,,1,61
+2595293,Steffen Gram,2,1950-04-12,,1,74
+2596669,Max Hansen,2,1964-04-25,,8,60
+2596692,Viggo Lindstrøm,2,1858-01-12,1926-06-17,3,68
+2605407,Magnus Magnusson,2,1941-06-15,,1,83
+2613958,Manja Mourier,1,1911-10-03,1991-06-10,1,79
+2622520,Ida Praetorius,1,1993-09-03,,1,31
+2626577,Irina Frankild,1,1978-02-18,,1,46
+2638819,Viktor Medom,2,1996-04-08,,1,28
+2640124,Michael Robdrup,2,1971-07-05,,1,53
+2640821,Isabella Møller Hansen,1,2002-01-18,,2,22
+2640837,Morten Feldt,2,1984-11-22,,1,40
+2640873,Charlotte Amalie Kirkegaard Kehlet,1,1987-06-20,,1,37
+2642049,Magnus Juhl Andersen,2,1997-07-24,,3,27
+2645213,Joey Moe,2,1985-06-08,,1,39
+2645422,Rikke Westi,1,1994-04-19,,1,30
+2646122,Malthe Jagd Miehe-Renard,2,1991-05-13,,1,33
+2647874,Lue Støvelbæk,0,1995-03-14,,2,29
+2647879,Ulrich Hoppe,2,1967-01-01,,2,57
+2647885,Lasse Rasch,2,1980-01-22,,1,44
+2647886,Klaus Messerschmidt Juhler,2,1970-06-17,,6,54
+2648660,Helle Thorning-Schmidt,1,1966-12-14,,1,58
+2649436,Veronika Kovtun,1,1972-01-29,,1,52
+2650461,Peter Bork,2,1945-05-04,2004-10-31,1,59
+2654696,Nicolai Jørgensen,2,1990-04-08,,2,34
+2656685,Mikkel Arndt,2,1976-07-13,,6,48
+2657226,Cynthia Barcomi,1,1963-05-29,,1,61
+2659063,Jørn Holstein,2,1943-07-11,,2,81
+2661746,Arian Kashef,2,1995-10-11,,3,29
+2661747,Tarek Zayat,2,1998-08-06,,1,26
+2662224,Tine Grauengaard,0,1969-06-18,,2,55
+2662256,Benjamin Hav,2,1985-06-12,,1,39
+2673623,Hanne Løvendahl,1,1954-11-19,,2,70
+2675917,Clara Ellegaard,1,1993-10-24,,1,31
+2675924,Christina Hildebrandt,1,1968-06-19,,1,56
+2676486,Jonas Kriegbaum,2,1981-02-11,,1,43
+2676866,Thomas Milton Walther,2,1969-07-26,,2,55
+2678829,Lena Bjørn,1,1952-07-11,,1,72
+2681894,Emma Silja Sångren,1,1994-04-09,,1,30
+2684616,Ene Øster Bendtsen,1,1981-11-29,,1,43
+2687523,Solvej K. Christiansen,1,1977-07-27,,3,47
+2688688,Lisbeth Holm-Pedersen,1,1964-09-11,,1,60
+2712971,Caroline Lüthje,1,1992-07-17,,1,32
+2718188,Christoffer Svane,2,1979-10-07,,1,45
+2720049,Jens Christian Buskov Lund,2,1989-09-20,,1,35
+2741061,Kim Jansson,2,1957-05-06,,14,67
+2745594,Jonathan Bergholdt Jørgensen,2,1996-05-15,,1,28
+2745612,Flora Augusta,1,2010-12-10,,2,14
+2754078,Ibi Støving,1,1975-02-02,,1,49
+2778744,Hanne Hastrup,1,1940-09-25,,1,84
+2804046,Niels Justesen,2,1990-08-08,,1,34
+2812038,Noah Storm Otto,2,2010-10-16,,1,14
+2815497,Aksel Ojari,2,2003-12-05,,1,21
+2841674,Anna Juul,1,1992-12-28,,1,32
+2846604,Sara Hvass Pedersen,1,1983-08-04,,1,41
+2847036,Sara Fanta Traore,1,1992-01-01,,3,32
+2850152,Emil Aron Dorph,2,1999-06-10,,3,25
+2850163,Heino Seljamaa,2,1952-04-21,,1,72
+2861953,August Christian Høyer-Kruse-Vinkel,2,2012-05-01,,1,12
+2864527,Christine Skou,1,1969-04-13,,1,55
+2866330,Malene Melsen,1,1970-05-17,,1,54
+2866993,Kasper Gattrup,2,1976-12-18,,1,48
+2887026,Ulf Scott Hansen,2,1966-11-24,,1,58
+2895212,Mathilde Eusebius,1,1993-08-26,,1,31
+2895217,Signe Thielsen,1,1996-01-07,,1,28
+2896848,Clara Phillipson,1,1999-07-26,,1,25
+2896855,Max Kaysen Høyrup,2,2010-10-28,,2,14
+2922047,Trine Nielsen,1,1980-10-16,,1,44
+2925661,Gustaf Bentsen,2,1914-11-28,2002-03-25,1,87
+2927065,Jens Oliver Henriksen,2,1933-05-05,2002-06-10,2,69
+2927136,Anders Cornelius Zoffmann,2,1980-03-13,,2,44
+2927139,Louise Davidsen,1,1979-04-15,,3,45
+2927147,Kenny Duerlund,2,1991-12-12,,3,33
+2931016,Finn Rye,2,1947-04-02,,3,77
+2931894,Sofus Søndergaard Mikkelsen,2,2007-03-13,,1,17
+2934371,Martin Johannes Larsen,2,1990-01-19,,1,34
+2937126,Cecilie Beck,1,1970-10-02,,3,54
+2945687,Natasja Crone,1,1970-06-12,,1,54
+2947923,Allan Mortensen,2,1946-04-27,,1,78
+2949248,Flemming Krøll,2,1954-11-18,,1,70
+2954300,Sofie Topp-Duus,1,1987-05-06,,1,37
+2954364,Daniel Flamgaard,2,1987-04-24,,1,37
+2956800,Christopher,2,1992-01-31,,3,32
+2956801,Janni Pedersen,1,1968-06-14,,1,56
+2960528,Eva Jin,1,1998-12-05,,2,26
+2961962,Mads Steffensen,0,1970-06-08,,1,54
+2964865,Jim Lyngvild,2,1978-12-27,,1,46
+2964878,Stig Tøfting,2,1969-08-14,,1,55
+2982975,Thomas Rode,2,1968-07-12,,2,56
+2984128,Vilmer Trier Brøgger,2,2001-01-14,,2,23
+2986668,Mathilde Arcel Fock,1,1996-07-25,,2,28
+2986674,Ellaha Lack,1,1991-08-15,,2,33
+2987166,Laurids Skovgaard Andersen,2,2001-03-11,,1,23
+2989153,Irina Olsen,1,1987-05-02,,1,37
+2998427,Anna Tulestedt,1,1967-04-29,,3,57
+2998431,Hanin Georgis,1,1986-08-16,,1,38
+2998436,Mickey Nørregaard,0,1988-10-11,,2,36
+2998469,Joan Ørting,1,1960-03-26,,1,64
+2998483,Flemming Pless,2,1957-01-29,,2,67
+2999154,Katinka Lærke Petersen,1,1991-12-26,,5,33
+2999531,Natali Vallespir Sand,1,1972-05-20,,6,52
+3003708,Andreas Jebro,2,1984-04-23,,1,40
+3010751,Thit Aaberg,1,2001-02-10,,1,23
+3010793,Adrian Hughes,2,1962-01-02,,1,62
+3041153,Ingo Brosch,2,1969-01-03,,1,55
+3059533,Kate Kjølbye,1,1977-05-12,,1,47
+3061544,Lene Johansen,1,1962-06-28,,1,62
+3068330,Alexandra B. Ryborg,1,1981-05-08,,1,43
+3096731,Patrick A. Hansen,2,1994-02-11,,1,30
+3103149,Marius Damslev,2,2012-11-16,,1,12
+3105367,Josephine Grau,1,1994-05-06,,1,30
+3120899,Kerstin Jannerup Gjesing,1,2011-03-31,,1,13
+3132906,Line Falcon,1,1995-01-03,,4,29
+3149931,Jens Schyth Brøndum,2,1991-05-18,,1,33
+3163793,Søren Schou,2,1973-11-27,,1,51
+3172903,Cecilie Elisabeth Bogø Bach,1,1998-10-23,,1,26
+3181637,Tove Bornhøft,1,1956-07-18,,1,68
+3181639,Simon Vagn Jensen,2,1956-03-16,,1,68
+3181646,Fash Shodeinde,0,1955-04-19,2017-06-07,2,62
+3182510,Lotte Rømer,1,1950-12-12,,1,74
+3187492,Marie Jondal,1,1984-03-01,,1,40
+3226105,Josefine Tvermoes,1,1991-06-29,,3,33
+3236070,Susanne Krage,1,1946-05-10,,1,78
+3239286,Peter Hald,2,1986-07-18,,4,38
+3259876,Josephine Nørring,1,1980-06-03,,2,44
+3259879,Genie Argiris,1,1990-09-01,,2,34
+3265995,Gert Duve Skovlund,2,1947-10-29,2022-11-24,1,75
+3281384,Illyès Salah,2,1987-02-27,,2,37
+3284362,Jeanett Albeck,1,1981-09-24,,1,43
+3286616,Niki Topgaard,2,1985-05-08,,1,39
+3314719,Thalita Beltrão Sørensen,1,2002-08-31,,1,22
+3319961,Ragnhild Kaasgaard,1,1961-09-24,,2,63
+3322327,Coco Hjardemaal,1,1994-01-29,,6,30
+3331631,Ramesh Kingsly Premarajah,2,1987-03-16,,1,37
+3344087,Hans Henrik Bærentsen,2,1956-04-16,2021-11-18,9,65
+3361235,Merete Mærkedahl,1,1981-12-27,,1,43
+3368397,Malaika Berenth Mosendane,1,2000-01-25,,3,24
+3375365,Patrick Kweku Quansah Kværnø,2,1986-05-07,,2,38
+3403739,Jonas Holst Schmidt,2,1989-08-13,,1,35
+3409829,Jasper Kruse Svabo,2,2004-06-05,,1,20
+3413999,Johanne Milland,1,1995-07-14,,2,29
+3414001,Clint Ruben,2,1996-09-14,,3,28
+3414002,Alvin Olid Bursøe,2,1993-04-24,,1,31
+3453345,Vickie Bak Laursen,1,1976-03-26,,2,48
+3453356,Anne Bærskog Hauger,1,1978-11-21,,2,46
+3455567,Tomas Stender,2,1966-05-21,,2,58
+3455568,Vita Jensen,1,1973-10-24,,2,51
+3455569,Morten Rotne Leffers,2,1968-06-13,1998-09-26,2,30
+3455570,Ruth Junker,1,1964-12-22,,2,60
+3455648,Evald Krog,2,1944-03-18,2020-12-01,1,76
+3455652,Peter Hartmann,2,1970-01-06,,1,54
+3455656,Mette Hald,1,1967-04-12,,1,57
+3473035,Dawid Ściupidro,2,1994-05-12,,1,30
+3485222,Margus Kobing,2,1967-01-05,,1,57
+3490097,Adam Blædel Körner,2,1997-04-29,,1,27
+3521613,Ane Fjelstrup,1,1980-01-20,,1,44
+3521618,Pernille Lyck,1,1971-02-09,,1,53
+3534907,Emma Pi,1,2001-12-28,,1,23
+3581960,Fie Petersen,1,2000-01-07,,1,24
+3618485,Kirstine Hedrup,1,1972-12-27,,2,52
+3632697,Jakob Candy Kolborg,2,1975-02-23,,1,49
+3632700,Pia Larsen,1,1971-09-22,,1,53
+3636488,Frederic André Linde-Fleron,2,2004-08-02,,1,20
+3666566,Patricie Šlaufová,1,1996-04-04,,1,28
+3699110,Viktor Hjelmsø,2,2001-01-15,,1,23
+3699116,Maja Ida Thiele,1,2004-11-22,,1,20
+3709384,Rasmus Søndergaard,2,1979-10-17,,1,45
+3716341,Sammy Germain Wadi,2,1995-07-09,,1,29
+3728170,Alexander Bryld Obaze,2,1999-09-04,,1,25
+3740235,Zelma Feldman Lewerissa,1,1996-10-23,,2,28
+3755070,Selma Kjær Kuscu,1,2013-02-25,,2,11
+3770847,David Petersen,2,1977-02-02,,1,47
+3771652,Mattias Tulestedt,2,1999-01-12,,1,25
+3793831,Maada Mambu Kaikai,2,1995-05-01,,1,29
+3835298,Kristýna Petráková,1,2004-07-24,,1,20
+3951967,Ena Spottag Fog,1,1985-05-28,,1,39
+3960099,Nessie Mehrnaz Beik,1,1976-07-03,,1,48
+3980498,Kim Jensen,2,1958-09-26,,2,66
+4016184,Emil Guttorm,2,2005-01-08,,2,19
+4024637,Emma Shapplin,1,1974-05-19,,1,50
+4038903,Silja Ellemann Kiehne,1,2011-09-08,,2,13
+4049953,Thomas Trab,2,1989-01-15,,1,35
+4056809,Olivia Franciska Fevel Borgels,1,1985-11-24,,1,39
+4120038,Ann Celina Fønsskov,1,1997-03-26,,1,27
+4139041,Helgi Ilo,1,1942-07-06,,1,82
+4168435,Eskil Tonnesen,2,1995-03-29,,2,29
+4175462,Michèle Bellaiche,1,1972-05-22,,1,52
+4250846,Hans Kristian Õis,2,1995-07-18,,1,29
+4269864,Lars Uhrenfeldt,2,1951-06-22,,1,73
+4272301,Ali Al-Bayate,2,1989-12-13,,1,35
+4276787,Sonny Tronborg,2,1953-05-07,2009-06-09,1,56
+4276788,Lone Helmer,1,1940-12-11,1997-09-04,9,56
+4290321,Lotte Olsen,1,1939-03-19,,6,85
+4290345,Ole Hvidman,2,1943-04-17,2014-08-18,1,71
+4303916,Henrik Petersen,0,1952-08-27,2024-02-12,3,71
+4328311,Camilla Dalsgaard,1,1990-10-08,,1,34
+4410340,Oskar Salvatore Lundin,2,1999-06-28,,1,25
+4437405,Morten Buus,2,1980-01-08,,1,44
+4590427,Hans Christian Lundgren,2,1998-12-08,,1,26
+4596858,Peter Vinding,2,1983-09-12,,1,41
+4626825,Anne Katrine Andersen,1,1972-03-02,,2,52
+4691166,Hans-Georg 'Gorm' Møller,2,1942-09-09,,1,82
+4691177,Lise-Lotte Lohmann,1,1956-04-18,,3,68
+4710001,Mia Helene Højgaard,1,1997-06-22,,1,27
+4710002,Kamille Wenneberg,1,2003-12-27,,1,21
+4713340,Zindy Laursen,1,1971-07-23,,1,53
+4713425,Kira Eggers,1,1974-11-29,,1,50
+4720936,Siff Vintersol,1,1993-03-05,,1,31
+4740398,Pede B,2,1984-03-13,,1,40
+4742187,Henrik Larsen,2,1949-09-08,,20,75
+4748821,Xander Linnet,2,1988-04-04,,1,36
+4754889,Marianne Søndergaard Madsen,1,1974-09-15,,1,50
+4754898,Rolf Hansen,2,1975-01-01,,1,49
+4755077,Klaus Tilsted Søndergaard,2,1962-02-25,,1,62
+4793710,Michael Larsen,2,1967-02-13,,3,57
+4800912,Munir Aoun,2,1979-10-08,,2,45
+4826960,Morten Bo Koch,2,1973-04-11,,1,51
+4870551,Ausamah 'USO' Saeed,2,1981-01-11,,2,43
+4874116,Dinna Ophelia Hæklund Schack,1,1985-03-10,,1,39
+4877755,Tina Munck,1,1939-12-16,,1,85
+4891974,Pejman Khorsand-Jamal,2,1986-02-11,,1,38
+4929019,Jimmi Andersen,2,1988-12-17,,3,36
+4975925,Bastian Reichardt Ben Coker,2,2011-07-13,,2,13
+4999928,Aya Grann,1,2002-06-21,,2,22
+5065159,Sara Al-Naser,1,1992-09-12,,1,32
+5069433,Thomas Heino Hansen,2,1988-03-11,,1,36
+5072279,Jakob Engel-Schmidt,2,1983-10-24,,1,41
+5122551,Bertram Lyng Engelsted Jarkilde,2,2008-10-29,,1,16
+5208961,Daniel 'Danny Kool' Sørensen,2,1986-01-09,,1,38
+5244450,Gert Henning-Jensen,2,1965-07-23,,1,59
+5352479,Brian Sivabalan,2,1989-11-24,,1,35
