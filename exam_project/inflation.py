@@ -1,9 +1,5 @@
-# %% [markdown]
-# # inflation.ipynb
-# 
 # CSV file with CPI (Consumer Price Index) found at: https://datahub.io/core/cpi-us
 
-# %%
 import sys
 sys.path.append("..")
 
@@ -41,9 +37,6 @@ def convert_usd(original_amount, original_year, new_year, cpi_by_year):
     cpi_original = cpi_by_year[original_year]
     cpi_new = cpi_by_year[new_year]
 
-    new_amount = original_amount * (cpi_new / cpi_original)
+    new_amount = round(original_amount * (cpi_new / cpi_original))
 
     return new_amount
-
-
-
