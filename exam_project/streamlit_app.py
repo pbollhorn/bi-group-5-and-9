@@ -8,7 +8,29 @@ from reader import generic_reader
 
 df = generic_reader.read_csv_file_to_data_frame("movie_data/to_streamlit.csv")
 
-# Multi-select for genders
+
+min_age = int(df['age_at_release'].min())
+max_age = int(df['age_at_release'].max())
+
+if "age_range" not in st.session_state:
+    st.session_state.age_range = (min_age, max_age)
+if "actor_search" not in st.session_state:
+    st.session_state.actor_search = ""
+if "movie_search" not in st.session_state:
+    st.session_state.movie_search = ""
+
+def reset_age_slider():
+    st.session_state.age_range = (min_age, max_age)
+
+def clear_actor_search():
+    st.session_state.actor_search = ""
+
+def clear_movie_search():
+    st.session_state.movie_search = ""
+
+
+st.header("Placeholder")
+
 gender_labels = ["Female", "Male", "Non-binary"]
 genders = st.multiselect(
     "Choose genders",
@@ -16,26 +38,42 @@ genders = st.multiselect(
     default=gender_labels
 )
 
-# Text input for searching actor/actress
-actor_search = st.text_input("Search for an actor/actress by name:")
+st.text_input("Search for an actor/actress by name:", key="actor_search")
+st.button("Clear Actor Search", on_click=clear_actor_search, key="clear_actor")
 
-# Text input for searching actor/actress
-movie_search = st.text_input("Search for a movie by name:")
+st.text_input("Search for a movie by title:", key="movie_search")
+st.button("Clear Movie Search", on_click=clear_movie_search, key="clear_movie")
 
-# Filter dataframe by selected genders
+st.slider(
+    "Select age range for actors/actresses:",
+    min_value=min_age,
+    max_value=max_age,
+    value=st.session_state.age_range,
+    key="age_range"
+)
+st.button("Reset Age Slider", on_click=reset_age_slider, key="reset_age")
+
+#Filters
 filtered_df = df[df["gender_label"].isin(genders)]
 
-# Further filter by actor/actress name if something is typed
-if actor_search:
-    filtered_df = filtered_df[filtered_df["name"].str.contains(actor_search, case=False, na=False)]
+if st.session_state.actor_search:
+    filtered_df = filtered_df[
+        filtered_df["name"].str.contains(st.session_state.actor_search, case=False, na=False)
+    ]
 
-if movie_search:
-    filtered_df = filtered_df[filtered_df["original_title"].str.contains(movie_search, case=False, na=False)]
+if st.session_state.movie_search:
+    filtered_df = filtered_df[
+        filtered_df["original_title"].str.contains(st.session_state.movie_search, case=False, na=False)
+    ]
+
+filtered_df = filtered_df[
+    (filtered_df['age_at_release'] >= st.session_state.age_range[0]) &
+    (filtered_df['age_at_release'] <= st.session_state.age_range[1])
+]
 
 
-# Show warning if nothing to display
 if filtered_df.empty:
-    st.warning("No data to display. Adjust gender selection or search term.")
+    st.warning("No data to display. Adjust filters or search terms.")
 else:
     chart = (
         alt.Chart(filtered_df)
@@ -54,13 +92,10 @@ else:
             tooltip=[
                 {'field': 'original_title', 'title': 'Movie Title'},
                 {'field': 'name', 'title': 'Actor/Actress'},
-                {'field': 'age_at_release', 'title': 'Age at Release'},
-                {'field': 'gender_label', 'title': 'Gender'},
                 {'field': 'vote_average', 'title': 'Rating'},
                 {'field': 'budget', 'title': 'Budget (USD)'},
-                {'field': 'revenue', 'title': 'Revenue (USD)'},
-                {'field': 'release_date', 'title': 'Release Date'},
-                              
+                {'field': 'age_at_release', 'title': 'Age at Release'},
+                {'field': 'gender_label', 'title': 'Gender'}
             ]
         )
         .properties(
@@ -69,4 +104,5 @@ else:
             height=500
         )
     )
+
     st.altair_chart(chart, use_container_width=True)
