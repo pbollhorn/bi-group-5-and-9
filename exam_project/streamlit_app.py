@@ -31,6 +31,7 @@ def clear_movie_search():
 
 st.header("Placeholder")
 
+#Multiselect for genders
 gender_labels = ["Female", "Male", "Non-binary"]
 genders = st.multiselect(
     "Choose genders",
@@ -38,12 +39,15 @@ genders = st.multiselect(
     default=gender_labels
 )
 
+#Textfield for actor search and clear button
 st.text_input("Search for an actor/actress by name:", key="actor_search")
-st.button("Clear Actor Search", on_click=clear_actor_search, key="clear_actor")
+st.button("Clear", on_click=clear_actor_search, key="clear_actor")
 
+#Textfield for movie search and clear button
 st.text_input("Search for a movie by title:", key="movie_search")
-st.button("Clear Movie Search", on_click=clear_movie_search, key="clear_movie")
+st.button("Clear", on_click=clear_movie_search, key="clear_movie")
 
+#Slider for age limtes and reset button
 st.slider(
     "Select age range for actors/actresses:",
     min_value=min_age,
@@ -51,7 +55,7 @@ st.slider(
     value=st.session_state.age_range,
     key="age_range"
 )
-st.button("Reset Age Slider", on_click=reset_age_slider, key="reset_age")
+st.button("Reset", on_click=reset_age_slider, key="reset_age")
 
 #Filters
 filtered_df = df[df["gender_label"].isin(genders)]
@@ -92,10 +96,11 @@ else:
             tooltip=[
                 {'field': 'original_title', 'title': 'Movie Title'},
                 {'field': 'name', 'title': 'Actor/Actress'},
+                {'field': 'age_at_release', 'title': 'Age at Release'},
+                {'field': 'gender_label', 'title': 'Gender'},
                 {'field': 'vote_average', 'title': 'Rating'},
                 {'field': 'budget', 'title': 'Budget (USD)'},
-                {'field': 'age_at_release', 'title': 'Age at Release'},
-                {'field': 'gender_label', 'title': 'Gender'}
+                {'field': 'revenue', 'title': 'Revenue (USD)'}
             ]
         )
         .properties(
