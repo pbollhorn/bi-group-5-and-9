@@ -21,7 +21,8 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 ## Question we will explore
 
 #### Movie budget and revenue:
-- What budget, revenue, profit and ROI do other movies have?
+- What budget, revenue, profit and ROI do the movies from TMDB have?
+- How many movies make a profit?
 
 #### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
