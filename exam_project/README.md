@@ -10,14 +10,8 @@ In this exam project we perform Business Intelligence (BI) analysis for a fictio
 
 We will work with movie data from The Movie Database (TMDB) https://www.themoviedb.org/ from the United States from the years 2000-2023.
 
-TMDB 
-
-We will work with budget and revenue from the theatrical release of movies, because this is relevant for movies released to cinemas.
-
-We will also work with the rating of movies (from 1-10), because this is relevant for how well movies when released to streaming.
-
-We will adjust the amounts for inflation and analyze everything in 2023 US-Dollars.
-
+The movie budgets and revenues are given by TMDB in US-Dollars without adjusting for inflation.
+We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 ## Question we will explore
 
