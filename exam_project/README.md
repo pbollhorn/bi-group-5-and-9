@@ -20,16 +20,16 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 
 ## Question we will explore
 
-#### Movie budget and revenue
+#### Movie budget and revenue:
 - What budget, revenue, profit and ROI do other movies have?
 
-#### Lead Actor Age and Gender
+#### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
  (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
 
 (This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
 
-#### Predicting movie rating
+#### Predicting movie rating:
 - Predicting if a movie will be good, ok or bad
 - Can we make a classification machine learning model to predict movie rating?
 
@@ -46,11 +46,13 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 
 ## Conclusions
 
+#### Movie budget and revenue:
 
 
+#### Lead actor age and gender:
 
 
-
+#### Predicting movie rating:
 
 
 
