@@ -6,11 +6,13 @@ Group members:
 
 In our exam project we will perform Business Intelligence analysis for a fictional movie production company in order to provide insights that can benefit this company.
 
-This company releases some movies in theaters and others directly to streaming platforms.
+The fictional movie production company releases some of its movies in theaters, and other of its movies directly to streaming platforms.
 
+We will work with movie data from The Movie Database (TMDB) https://www.themoviedb.org/
 
+We will work with recent movies (from 2000-2023) from the United States.
 
-We will work with movie data from TMDB, with recent movies (2000-2023) from the United States.
+TMDB 
 
 We will work with budget and revenue from the theatrical release of movies, because this is relevant for movies released to cinemas.
 
