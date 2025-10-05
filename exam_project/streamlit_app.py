@@ -10,9 +10,7 @@ from reader import generic_reader
 def load_data():
     return generic_reader.read_csv_file_to_data_frame("movie_data/to_streamlit.csv")
 
-# Use cached function
 df = load_data()
-
 
 min_age = int(df['age_at_release'].min())
 max_age = int(df['age_at_release'].max())
