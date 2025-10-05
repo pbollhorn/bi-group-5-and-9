@@ -29,6 +29,8 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 
 (This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
 
+#### Sentiment of movie overview:
+
 #### Predicting movie rating:
 - Predicting if a movie will be good, ok or bad
 - Can we make a classification machine learning model to predict movie rating?
@@ -55,6 +57,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 #### Predicting movie rating:
 
 
+#### Sentiment of movie overview:
 
 
 
