@@ -44,13 +44,16 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 ## Conclusions
 
 #### Movie budget and revenue:
-
+In our data we found out that a lot of movies don't have budget and revenue information.
+xxxx movies have this information, and of these movies 61% made a profit and 39% made a loss.
+However, we also discovered that revenue is not reliable to predict a movies success.
+Instead we looked at budget vs. vote_average and found a weak linear relationship.
 
 #### Lead actor age and gender:
 
 
 #### Predicting movie rating:
-
+We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
 
 #### Sentiment of movie overview:
 
