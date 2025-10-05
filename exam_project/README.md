@@ -4,7 +4,8 @@ Group members:
 - Peter Bollhorn
 - Tobias Thormod Birk Nielsen
 
-In our exam project we will perform Business Intelligence analysis for a fictional movie production company.
+In our exam project we will perform Business Intelligence analysis for a fictional movie production company in order to provide insights that can benefit this company.
+
 This company releases some movies in theaters and others directly to streaming platforms.
 
 
