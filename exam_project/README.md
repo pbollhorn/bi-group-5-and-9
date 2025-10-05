@@ -12,7 +12,7 @@ We will work with movie data from The Movie Database (TMDB) https://www.themovie
 
 From TMDB we get this information which can be used to asses the success of the movies:
 - budget 
-- revenue (from theatical run)
+- revenue (box office from theatrical run, i.e. money earned from ticket sales in cinemas)
 - vote_average (average score as voted 1-10 from TMDB users)
 
 The movie budgets and revenues are given by TMDB in USD without adjusting for inflation.
