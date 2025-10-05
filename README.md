@@ -22,6 +22,6 @@ Contents of this repo:
 
 Links to our individual repos that contain our solutions for Mini Project 1 and Mini Project 2:
 
-https://github.com/pbollhorn/bi-group5
+- Peter Bollhorn (Group 5): https://github.com/pbollhorn/bi-group5
 
-https://github.com/Tobitastik/BI
+- Tobias Thormod Birk Nielsen (Group 9): https://github.com/Tobitastik/BI
