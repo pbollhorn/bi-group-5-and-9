@@ -1,5 +1,3 @@
-# CSV file with CPI (Consumer Price Index) found at: https://datahub.io/core/cpi-us
-
 import sys
 sys.path.append("..")
 
