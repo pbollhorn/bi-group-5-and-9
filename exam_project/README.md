@@ -19,15 +19,19 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 
 
 ## Question we will explore
-- What budget, revenue, profit and ROI do other movies have?
-- Can we make a classification machine learning model to predict movie rating?
 
+### Movie budget and revenue
+- What budget, revenue, profit and ROI do other movies have?
 
 ### Lead Actor Age and Gender
 - What age and gender do other companies cast as lead actor in their movies? 
  (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
 
 (This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
+
+### Predicting if a movie will be good, ok or bad
+- Can we make a classification machine learning model to predict movie rating?
+
 
 ## Please read our notebooks in this order
 - **read_tmdb_data.ipynb:** Here we read JSON data from TMDB's API and store it as `movies.csv` and `persons.csv`.
