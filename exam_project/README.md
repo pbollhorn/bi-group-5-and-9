@@ -6,11 +6,16 @@ Group members:
 
 ## Introduction
 
-In this exam project we will perform Business Intelligence (BI) analysis for a fictional movie production company, in order to provide insights that can benefit this company. The fictional movie production company releases movies to theaters, as well as directly to streaming platforms.
+In this exam project we will perform Business Intelligence (BI) analysis for a fictional movie production company, which has not produced any movies yet, but want to begin producing movies. Our goal is to provide insights to this company, which they can benefit from when planning their new movies.
 
-We will work with movie data from The Movie Database (TMDB) https://www.themoviedb.org/ from the United States from the years 2000-2023.
+In order to do this, we will analyze movie data from The Movie Database (TMDB) https://www.themoviedb.org/ from the United States from the years 2000-2023.
 
-The movie budgets and revenues are given by TMDB in USD without adjusting for inflation.
+From TMDB we get this information which can be used to asses the success of the movies:
+- **budget** 
+- **revenue** (box office from theatrical run, i.e. money earned from ticket sales in cinemas)
+- **vote_average** (average score as voted 1-10 from TMDB users)
+
+The budgets and revenues are given by TMDB in USD without adjusting for inflation.
 We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 ## Question we will explore
