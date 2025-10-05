@@ -32,7 +32,7 @@ def clear_movie_search():
     st.session_state.movie_search = ""
 
 
-st.header("Placeholder")
+st.header("Placeholder title")
 
 #Multiselect for genders
 gender_labels = ["Female", "Male", "Non-binary"]
