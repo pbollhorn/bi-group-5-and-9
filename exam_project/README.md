@@ -6,7 +6,7 @@ Group members:
 
 ## Introduction
 
-In our exam project we will perform Business Intelligence analysis for a fictional movie production company in order to provide insights that can benefit this company. The fictional movie production company releases some of its movies in theaters, and other of its movies directly to streaming platforms.
+In our exam project we will perform Business Intelligence analysis for a fictional movie production company in order to provide insights that can benefit this company. The fictional movie production company both release movies to theaters, as well as directly to streaming platforms.
 
 We will work with movie data from The Movie Database (TMDB) https://www.themoviedb.org/
 
