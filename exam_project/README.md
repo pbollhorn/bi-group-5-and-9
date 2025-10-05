@@ -15,14 +15,19 @@ We will work with budget and revenue from the theatrical release of movies, beca
 
 We will also work with the rating of movies (from 1-10), because this is relevant for how well movies when released to streaming.
 
+We will adjust the amounts for inflation and analyze everything in 2023 US-Dollars.
+
 
 ## Question we will explore
 - What budget, revenue, profit and ROI do other movies have?
 - Can we make a classification machine learning model to predict movie rating?
 
 
+### Age and gender of lead actor
+- What age and gender do other companies cast as lead actor in their movies? 
+ (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
 
-- What age and gender do other companies cast as lead actor in their movies? (This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
+(This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
 
 ## Please read our notebooks in this order
 - **read_tmdb_data.ipynb:** Here we read JSON data from TMDB's API and store it as `movies.csv` and `persons.csv`.
@@ -49,18 +54,3 @@ We will also work with the rating of movies (from 1-10), because this is relevan
 
 
 
-We will address this challenge:
-- Movie Profit: Which new movies should MovieStream produce in order to make the highest profit?
-
-
-## Movie Profit
-
-When a new movie is planned, it is normal for the producers of the movie to hope to make a profit:
-
-**_Profit (USD) = Revenue (USD) – Budget (USD)_**
-
-We will use TMDB Data from the recent years: Perhaps 5 years, 15 years or 25 years.
-
-We will work with American Movies with Revenue, Budget and Profit in USD.
-
-We will adjust the amounts for inflation and analyze everything in 2025 US-Dollars.
