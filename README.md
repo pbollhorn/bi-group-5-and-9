@@ -17,3 +17,11 @@ Contents of this repo:
   - **README.md** - Answers to questions.
 - **reader** - Our package with reading functionality we use in the projects:
   - **generic_reader.py** - Module which reads generic CSV files and Excel files.
+
+
+
+Links to our individual repos that contain our solutions for Mini Project 1 and Mini Project 2:
+
+- Peter Bollhorn (Group 5): https://github.com/pbollhorn/bi-group5
+
+- Tobias Thormod Birk Nielsen (Group 9): https://github.com/Tobitastik/BI
