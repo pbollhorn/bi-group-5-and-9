@@ -19,6 +19,9 @@ Contents of this repo:
   - **generic_reader.py** - Module which reads generic CSV files and Excel files.
 
 
-  Links to our individual repos that contain our solutions for Mini Project 1 and 2:
-  https://github.com/pbollhorn/bi-group5
-  https://github.com/Tobitastik/BI
+
+Links to our individual repos that contain our solutions for Mini Project 1 and Mini Project 2:
+
+https://github.com/pbollhorn/bi-group5
+
+https://github.com/Tobitastik/BI
