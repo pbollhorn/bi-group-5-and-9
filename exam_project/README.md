@@ -23,7 +23,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 - Can we make a classification machine learning model to predict movie rating?
 
 
-### Age and gender of lead actor
+### Lead Actor Age and Gender
 - What age and gender do other companies cast as lead actor in their movies? 
  (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
 
@@ -35,7 +35,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 US-Dolla
 - **preparation.ipynb**: Here we read in `movies.csv` and `persons.csv` and prepare the data by doing some cleaning and adjusting budget and revenue for inflation. The prepared data is saved as `movies_prepared.csv` and `persons_prepared.csv`.
 - **movie_budget_and_revenue.ipynb:**
 - **predicting_movie_rating.ipynb:**
-- **actor_age_and_gender:**
+- **lead_actor_age_and_gender:**
 - **sentiment_of_movie_overview:**
 
 
