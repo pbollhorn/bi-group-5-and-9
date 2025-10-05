@@ -6,7 +6,7 @@ Group members:
 
 ## Introduction
 
-In this exam project we will perform Business Intelligence (BI) analysis for a fictional movie production company, which has not produced any movies yet, but want to begin producing movies. Our goal is to provide insights to this company, which can benefit from when planning their new movies.
+In this exam project we will perform Business Intelligence (BI) analysis for a fictional movie production company, which has not produced any movies yet, but want to begin producing movies. Our goal is to provide insights to this company, which they can benefit from when planning their new movies.
 
 In order to do this, we will analyze movie data from The Movie Database (TMDB) https://www.themoviedb.org/ from the United States from the years 2000-2023.
 
