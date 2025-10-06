@@ -37,6 +37,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - This is relevant for our fictional movie production company because we can advise them of trends in the industry.
 
 #### Sentiment of movie overview:
+- Find the sentiment of the movie based on the movie overview
 
 
 
