@@ -22,7 +22,14 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Movie budget and revenue:
 - What budget, revenue, profit and ROI (Return on Investment) do the movies from TMDB have?
-- How many movies make a profit?
+- How many movies make a profit or breakeven, and how many movies make a loss?
+
+#### Movie budget and vote_average:
+- Is there a correlation between budget and vote_average?
+
+#### Predicting vote_average:
+- Can we make a classification machine learning model that predicts vote_average from budget, runtime and genres?
+
 
 #### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
@@ -32,9 +39,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Sentiment of movie overview:
 
-#### Predicting movie rating:
-- Predicting if a movie will be good, ok or bad
-- Can we make a classification machine learning model to predict movie rating?
+
 
 
 ## Please read our notebooks in this order
@@ -42,6 +47,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - **inflation.ipynb:** Here we explain how we adjust for inflation.
 - **preparation.ipynb**: Here we read in `movies.csv` and `persons.csv` and prepare the data by doing some cleaning and adjusting budget and revenue for inflation. The prepared data is saved as `movies_prepared.csv` and `persons_prepared.csv`.
 - **movie_budget_and_revenue.ipynb:**
+- **movie_budget_and_vote_average.ipynb:**
 - **predicting_movie_rating.ipynb:**
 - **lead_actor_age_and_gender:**
 - **sentiment_of_movie_overview:**
@@ -50,16 +56,24 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 ## Conclusions
 
 #### Movie budget and revenue:
-In our data we found out that a lot of movies don't have budget and revenue information.
-xxxx movies have this information, and of these movies 61% made a profit and 39% made a loss.
-However, we also discovered that revenue is not reliable to predict a movies success.
-Instead we looked at budget vs. vote_average and found a weak linear relationship.
+
+- We found that a lot of movies don't have budget and revenue information. Only 4042 movies had this information.
+- For these movies we calculated profit and ROI.
+- We found out that 61% of movies made a profit or breakeven, and 39% of movies made a loss.
+- However, we discovered a trend of big budget movies being released to streaming after a very limited theatrical run. This means that we can not rely on revenue to be a reliable predictor of a movies success.
+
+#### Movie budget and vote_average:
+- Since we cannot rely on revenue to be a reliable predictor of a movies success, we instead looked at vote_average.
+- For the 6200 movies that have budget information we looked at the relationship between budget and vote_average.
+- We found a weak (R=0.3291) linear relationship: **_vote_average = 0.000000006579 × budget + 5.60_**
+
+#### Predicting vote_average:
+We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
 
 #### Lead actor age and gender:
 
 
-#### Predicting movie rating:
-We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
+
 
 #### Sentiment of movie overview:
 
