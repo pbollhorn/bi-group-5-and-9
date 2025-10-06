@@ -47,10 +47,10 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - **inflation.ipynb:** Here we explain how we adjust for inflation.
 - **preparation.ipynb**: Here we read in `movies.csv` and `persons.csv` and prepare the data by doing some cleaning and adjusting budget and revenue for inflation. The prepared data is saved as `movies_prepared.csv` and `persons_prepared.csv`.
 - **movie_budget_and_revenue.ipynb:**
-- **movie_budget_and_vote_average.ipynb:**
-- **predicting_movie_rating.ipynb:**
-- **lead_actor_age_and_gender:** 
-- **sentiment_of_movie_overview:**
+- **movie_budget_and_vote_average.ipynb**
+- **predicting_movie_rating.ipynb**
+- **lead_actor_age_and_gender.ipynb**  
+- **sentiment_analysis.py:** Using pipeline to find the sentiment
 
 
 ## Conclusions
