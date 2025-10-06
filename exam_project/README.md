@@ -11,9 +11,9 @@ In this exam project we will perform Business Intelligence (BI) analysis for a f
 In order to do this, we will analyze movie data from The Movie Database (TMDB) https://www.themoviedb.org/ from the United States from the years 2000-2023.
 
 From TMDB we get this information which can be used to assess the success of the movies:
-- **budget** 
-- **revenue** (box office from theatrical run, i.e. money earned from ticket sales in cinemas)
-- **vote_average** (average score (1-10) as voted by TMDB users.)
+- **budget:** How much it cost to produce the movie.
+- **revenue:** Box office from theatrical run, i.e. money earned from ticket sales in cinemas.
+- **vote_average:** Average score (1-10) as voted by TMDB users.
 
 The budgets and revenues are given by TMDB in USD without adjusting for inflation.
 We will adjust the amounts for inflation and analyze everything in 2023 USD.
