@@ -55,18 +55,14 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Movie budget and revenue:
 
-- We found out that a lot of movies don't have budget and revenue information. Only 4042 movies had this information.
+- We found that a lot of movies don't have budget and revenue information. Only 4042 movies had this information.
 - For these movies we calculated profit and ROI.
 - We found out that 61% of movies made a profit or breakeven, and 39% of movies made a loss.
 - However, we discovered a trend of big budget movies being released to streaming after very limited theatrical run. This means that we can not rely on revenue to be a reliable predictor of a movies success.
 
-In our data we found out that a lot of movies don't have budget and revenue information.
-xxxx movies have this information, and of these movies 61% made a profit and 39% made a loss.
-However, we also discovered that revenue is not reliable to predict a movies success.
-Instead we looked at budget vs. vote_average and found a weak linear relationship.
-
 #### Movie budget and vote_average:
-
+- Since we cannot rely on revenue to be a reliable predictor of a movies success, we will instead look at vote_average.
+- Instead we looked at budget vs. vote_average and found a weak linear relationship.
 #### Lead actor age and gender:
 
 
