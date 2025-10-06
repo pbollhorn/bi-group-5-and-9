@@ -7,7 +7,7 @@ Group members:
 Contents of this repo:
 - **exam_project** - Folder for our Exam Project:
   - **README.md** - Resume of our problem statement and the solution.
-  - **movie_data** - Folder with CSV files with movie data. and persons.csv.
+  - **movie_data** - Folder with CSV files with movie data.
   - **inflation_data** - Folder with CSV file with inflation data
   - (And several other files/folders)
 - **mp3** - Folder for our Mini Project 3:
