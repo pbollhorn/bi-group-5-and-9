@@ -18,10 +18,10 @@ From TMDB we get this information which can be used to assess the success of the
 The budgets and revenues are given by TMDB in USD without adjusting for inflation.
 We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
-## Question we will explore
+## What we will explore
 
 #### Movie budget and revenue:
-- What budget, revenue, profit and ROI do the movies from TMDB have?
+- What budget, revenue, profit and ROI (Return on Investment) do the movies from TMDB have?
 - How many movies make a profit?
 
 #### Lead actor age and gender:
