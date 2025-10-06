@@ -33,11 +33,11 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
- (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
-
-(This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
+- We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40.
+- This is relevant for our fictional movie production company because we can advise them of trends in the industry.
 
 #### Sentiment of movie overview:
+- Find the sentiment of the movie based on the movie overview
 
 
 
@@ -46,11 +46,11 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - **read_tmdb_data.ipynb:** Here we read JSON data from TMDB's API and store it as `movies.csv` and `persons.csv`.
 - **inflation.ipynb:** Here we explain how we adjust for inflation.
 - **preparation.ipynb**: Here we read in `movies.csv` and `persons.csv` and prepare the data by doing some cleaning and adjusting budget and revenue for inflation. The prepared data is saved as `movies_prepared.csv` and `persons_prepared.csv`.
-- **movie_budget_and_revenue.ipynb:**
-- **movie_budget_and_vote_average.ipynb:**
-- **predicting_movie_rating.ipynb:**
-- **lead_actor_age_and_gender:**
-- **sentiment_of_movie_overview:**
+- **movie_budget_and_revenue.ipynb**
+- **movie_budget_and_vote_average.ipynb**
+- **predicting_movie_rating.ipynb**
+- **lead_actor_age_and_gender.ipynb**  
+- **sentiment_analysis.py:** Using pipeline to find the sentiment
 
 
 ## Conclusions
@@ -68,7 +68,9 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - We found a weak (R=0.3291) linear relationship: **_vote_average = 0.000000006579 × budget + 5.60_**
 
 #### Predicting vote_average:
-We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
+- We took all the 6200 movies that have budget information and made a classification machine learning model for predicting vote_average from budget, runtime and genres.
+- In order to do this we introduced the categorial value rating, which maps ranges of vote_average to the categories "good", "ok", "bad"
+- The machine learning model we trained had an accuracy of 0.71.
 
 #### Lead actor age and gender:
 - We found that female actors show a clear decline in leading roles after the age of 40. Of all the females leading roles, 77,68% were held by actresses under the age of 40 while only 22,33% was above the age of 40
