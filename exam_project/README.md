@@ -33,9 +33,8 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
- (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
-
-(This is relevant for our fictional movie production company because we can advise them of trends in the industry.)
+- We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40.
+- This is relevant for our fictional movie production company because we can advise them of trends in the industry.
 
 #### Sentiment of movie overview:
 
@@ -68,7 +67,9 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - We found a weak (R=0.3291) linear relationship: **_vote_average = 0.000000006579 × budget + 5.60_**
 
 #### Predicting vote_average:
-We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
+- We took all the 6200 movies that have budget information and made a classification machine learning model for predicting vote_average from budget, runtime and genres.
+- In order to do this we introduced the categorial value rating, which maps ranges of vote_average to the categories "good", "ok", "bad"
+- The machine learning model we trained had an accuracy of 0.71.
 
 #### Lead actor age and gender:
 - We found that female actors show a clear decline in leading roles after the age of 40. Of all the females leading roles, 77,68% were held by actresses under the age of 40 while only 22,33% was above the age of 40
