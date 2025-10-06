@@ -46,7 +46,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - **read_tmdb_data.ipynb:** Here we read JSON data from TMDB's API and store it as `movies.csv` and `persons.csv`.
 - **inflation.ipynb:** Here we explain how we adjust for inflation.
 - **preparation.ipynb**: Here we read in `movies.csv` and `persons.csv` and prepare the data by doing some cleaning and adjusting budget and revenue for inflation. The prepared data is saved as `movies_prepared.csv` and `persons_prepared.csv`.
-- **movie_budget_and_revenue.ipynb:**
+- **movie_budget_and_revenue.ipynb**
 - **movie_budget_and_vote_average.ipynb**
 - **predicting_movie_rating.ipynb**
 - **lead_actor_age_and_gender.ipynb**  
