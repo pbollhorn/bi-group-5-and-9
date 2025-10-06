@@ -13,7 +13,7 @@ In order to do this, we will analyze movie data from The Movie Database (TMDB) h
 From TMDB we get this information which can be used to assess the success of the movies:
 - **budget** 
 - **revenue** (box office from theatrical run, i.e. money earned from ticket sales in cinemas)
-- **vote_average** (average score as voted 1-10 from TMDB users)
+- **vote_average** (average score (1-10) as voted by TMDB users.)
 
 The budgets and revenues are given by TMDB in USD without adjusting for inflation.
 We will adjust the amounts for inflation and analyze everything in 2023 USD.
