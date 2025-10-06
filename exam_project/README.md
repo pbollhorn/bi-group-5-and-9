@@ -63,7 +63,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 #### Movie budget and vote_average:
 - Since we cannot rely on revenue to be a reliable predictor of a movies success, we instead looked at vote_average.
 - For the 6200 movies that have budget information we looked at the relationship between budget and vote_average.
-- We found a weak (R=0.3291) linear relation: **_vote_average = 0.000000006579 × budget + 5.60_**
+- We found a weak (R=0.3291) linear relationship: **_vote_average = 0.000000006579 × budget + 5.60_**
 #### Lead actor age and gender:
 
 
