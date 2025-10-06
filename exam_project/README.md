@@ -71,14 +71,9 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
 
 #### Lead actor age and gender:
-
-
+- We found that female actors show a clear decline in leading roles after the age of 40. Of all the females leading roles, 77,68% were held by actresses under the age of 40 while only 22,33% was above the age of 40
+- Male actors didn't follow this trend and achieved roughly the same amount of success before (51,60%) and after (48,40%) 40.
 
 
 #### Sentiment of movie overview:
-
-
-
-
-
-
+- While the sentiment analysis pipeline does provide a sentiment score for each movie based on its overview, the available overviews are unfortunately quite short, limiting the accuracy of the sentiment results.
