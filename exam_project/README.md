@@ -27,6 +27,12 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 #### Movie budget and vote_average:
 - Is there a correlation between budget and vote_average?
 
+#### Predicting vote_average:
+- Predicting if a movie will be good, ok or bad
+- Can we make a classification machine learning model to predict movie rating?
+
+
+
 #### Lead actor age and gender:
 - What age and gender do other companies cast as lead actor in their movies? 
  (We have an hypothesis that female actors are more succesful under the age of 40, while male actors are more succesful after the age of 40)
@@ -35,9 +41,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 
 #### Sentiment of movie overview:
 
-#### Predicting movie rating:
-- Predicting if a movie will be good, ok or bad
-- Can we make a classification machine learning model to predict movie rating?
+
 
 
 ## Please read our notebooks in this order
@@ -64,11 +68,14 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - Since we cannot rely on revenue to be a reliable predictor of a movies success, we instead looked at vote_average.
 - For the 6200 movies that have budget information we looked at the relationship between budget and vote_average.
 - We found a weak (R=0.3291) linear relationship: **_vote_average = 0.000000006579 × budget + 5.60_**
+
+#### Predicting vote_average:
+We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
+
 #### Lead actor age and gender:
 
 
-#### Predicting movie rating:
-We took all the 6200 movies that have budget information and tried to predict the movie rating (good, ok, bad)
+
 
 #### Sentiment of movie overview:
 
