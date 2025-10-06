@@ -28,9 +28,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - Is there a correlation between budget and vote_average?
 
 #### Predicting vote_average:
-- Predicting if a movie will be good, ok or bad
-- Can we make a classification machine learning model to predict movie rating?
-
+- Can we make a classification machine learning model that predicts vote_average from budget, runtime and genres?
 
 
 #### Lead actor age and gender:
