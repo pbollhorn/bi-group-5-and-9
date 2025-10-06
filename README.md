@@ -6,10 +6,10 @@ Group members:
 
 Contents of this repo:
 - **exam_project** - Folder for our Exam Project:
-  - **README.md** - Preliminary formulation of our exam project.
-  - **read_tmdb_data.ipynb** - Notebook that reads data from TMDB's API into movies.csv and persons.csv.
-  - **movie_data** - Folder with movies.csv and persons.csv.
+  - **README.md** - Resume of our problem statement and the solution.
+  - **movie_data** - Folder with CSV files with movie data. and persons.csv.
   - **inflation_data** - Folder with CSV file with inflation data
+  - (And several other files/folders)
 - **mp3** - Folder for our Mini Project 3:
   - **mini_project_3.ipynb** - Notebook that presents our solution to the project.
   - **read_tmdb_data.ipynb** - Notebook that reads data from TMDB's API into danish_movies.csv and danish_actors.csv.
