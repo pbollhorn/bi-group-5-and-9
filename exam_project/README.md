@@ -59,6 +59,8 @@ xxxx movies have this information, and of these movies 61% made a profit and 39%
 However, we also discovered that revenue is not reliable to predict a movies success.
 Instead we looked at budget vs. vote_average and found a weak linear relationship.
 
+#### Movie budget and vote_average:
+
 #### Lead actor age and gender:
 
 
