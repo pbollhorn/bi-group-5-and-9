@@ -32,7 +32,7 @@ def clear_movie_search():
     st.session_state.movie_search = ""
 
 
-st.header("Placeholder")
+st.header("Placeholder title")
 
 #Multiselect for genders
 gender_labels = ["Female", "Male", "Non-binary"]
@@ -90,6 +90,8 @@ else:
         count = gender_counts.get(gender, 0)
         st.write(f"{gender}: {count}")
 
+    unique_movies = filtered_df['original_title'].nunique()
+    st.markdown(f"**Total unique movies displayed:** {unique_movies}")
 
     chart = (
         alt.Chart(filtered_df)
