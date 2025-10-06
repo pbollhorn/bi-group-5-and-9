@@ -49,7 +49,7 @@ We will adjust the amounts for inflation and analyze everything in 2023 USD.
 - **movie_budget_and_revenue.ipynb:**
 - **movie_budget_and_vote_average.ipynb:**
 - **predicting_movie_rating.ipynb:**
-- **lead_actor_age_and_gender:**
+- **lead_actor_age_and_gender:** 
 - **sentiment_of_movie_overview:**
 
 
